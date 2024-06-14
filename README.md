@@ -4,4 +4,4 @@ Trustworthy NLP systems must be rule and knowledge based given all statistcal sy
 
 ## Local LLMs
 
-Using locally availble LLMs like Ollama allow for prompting local LLMs to generate NL responses that can be read by NLP++ analazers, transform them into NLP++ dictionaries (dict files) and knowledge bases (kbb files).
+Using locally available LLMs like Ollama allow for prompting local LLMs to generate NL responses that can be read by NLP++ analazers, transform them into NLP++ dictionaries (dict files) and knowledge bases (kbb files).
