@@ -4,7 +4,7 @@ Trustworthy NLP systems must be rule and knowledge based given all statistcal sy
 
 ## Natural Language Understanding Global Initiative (NLUGI)
 
-The goal of NLUGI is to build the knowledge needed for mingrating linguitic and world knowledge to computers. It is a voluntary world-wide initative involving universities, industry, and individuals leveraging NLP++ for the said goal of knowldge transfer.
+The goal of [NLUGI](https://nluglob.org/) is to build the knowledge needed for mingrating linguitic and world knowledge to computers. It is a voluntary world-wide initative involving universities, industry, and individuals leveraging NLP++ for the said goal of knowldge transfer.
 
 ## Local LLMs
 
