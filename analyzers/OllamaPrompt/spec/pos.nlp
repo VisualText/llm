@@ -10,6 +10,7 @@
 
 @POST
 S("pos") = N("$text",4);
+addstrval(X("con",2),"pos",N("$text",4));
 single();
 
 @RULES
@@ -22,6 +23,7 @@ _pos <-
 
 @POST
 S("pos") = N("$text",4);
+addstrval(X("con",2),"pos",N("$text",4));
 single();
 
 @RULES
@@ -35,6 +37,7 @@ _pos <-
 		
 @POST
 S("pos") = N("$text",5);
+addstrval(X("con",2),"pos",N("$text",5));
 single();
 
 @RULES
@@ -50,6 +53,7 @@ _pos <-
 		
 @POST
 S("pos") = N("$text",3);
+addstrval(X("con",2),"pos",N("$text",3));
 single();
 
 @RULES

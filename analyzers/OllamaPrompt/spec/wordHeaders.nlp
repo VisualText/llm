@@ -9,9 +9,11 @@
 @NODES _LINE
 
 @POST
-X("word",2) = N("$text",3);
+L("word") = N("$text",3);
+X("word",2) = L("word");
 excise(5,5);
 pnrename(X(2),"_wordHeader");
+X("con",2) = getconcept(G("words"),L("word"));
 
 @RULES
 _xNIL <-
