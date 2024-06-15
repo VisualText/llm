@@ -1,0 +1,63 @@
+###############################################
+# FILE: pos
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-14 15:26:55
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _wordZone _LINE
+
+@POST
+S("pos") = N("$text",4);
+single();
+
+@RULES
+_pos <-
+	_quote									### (1)
+	is										### (2)
+	_xWILD [plus match=(primarily a an)]	### (3)
+	_xALPHA									### (4)
+	@@
+
+@POST
+S("pos") = N("$text",4);
+single();
+
+@RULES
+_pos <-
+	as		### (1)
+	for		### (2)
+	the		### (3)
+	_xALPHA	### (4)
+	_quote	### (5)
+	@@
+		
+@POST
+S("pos") = N("$text",5);
+single();
+
+@RULES
+_pos <-
+	if		### (1)
+	used	### (2)
+	as		### (3)
+	a		### (4)
+	_xALPHA	### (5)
+	\,		### (6)
+	_quote	### (7)
+	@@
+		
+@POST
+S("pos") = N("$text",3);
+single();
+
+@RULES
+_pos <-
+	as		### (1)
+	a		### (2)
+	_xALPHA	### (3)
+	\,		### (4)
+	_quote	### (5)
+	@@
+		
