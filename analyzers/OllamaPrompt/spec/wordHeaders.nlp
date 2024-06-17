@@ -12,6 +12,7 @@
 X("word",2) = N("$text",3);
 excise(5,5);
 pnrename(X(2),"_wordHeader");
+X("con",2) = getconcept(G("words"),N("$text",3));
 
 @RULES
 _xNIL <-

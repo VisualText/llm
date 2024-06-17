@@ -1,63 +1,125 @@
 
+'zapota' ==================================
 
-'run' ==================================
+  {
+"word": "zapota",
+"language": "Spanish",
+"part_of_speech": "noun",
+"definition": "A type of large, round fruit with thick skin and sweet, juicy pulp.",
+"rarity": "common",
+"topic_area": ["food", "agriculture"]
+}
 
-  The word "run" is a verb in English grammar. As for its conjugation, here's how it changes according to tense:
+'zapote' ==================================
 
-Present Simple: runs, run (third-person singular)
-Present Continuous: is running, runs, runs, etc.
-Past Simple: ran, ran (third-person singular)
-Past Continuous: was running, ran, ran, etc.
-Future Simple: will run, will run (third-person singular)
-Future Continuous: will be running, will run, will run, etc.
-Present Perfect: has run, has run (third-person singular)
-Present Perfect Continuous: has been running, has run, has run, etc.
-Past Perfect: had run, had run (third-person singular)
-Past Perfect Continuous: had been running, had run, had run, etc.
-Future Perfect: will have run, will have run (third-person singular)
-Future Perfect Continuous: will have been running, will have run, will have run, etc.
+  {
+"word": "zapote",
+"language": "Spanish",
+"part_of_speech": "noun",
+"definition": "A type of large, round tropical fruit with thick skin and sweet, soft pulp.",
+"rarity": "common",
+"topic_area": "Food"
+}
 
-As for the noun "run," it refers to a continuous movement or course without any specific direction. Here are its singular and plural forms:
+'zapped' ==================================
 
-Singular: run
-Plural: runs (not typically used in everyday English)
+  {
+"word": "zapped",
+"partOfSpeech": "verb",
+"language": "English",
+"definition": "To be hit or affected by a beam of energy, especially a microwave beam.",
+"infinitiveForm": "to zap",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "zap"},
+{"person": "second", "tense": "present", "form": "zaps"},
+{"person": "third", "tense": "present", "form": "zaps"},
+{"person": "first", "tense": "past", "form": "zapped"},
+{"person": "second", "tense": "past", "form": "zapped"},
+{"person": "third", "tense": "past", "form": "was zapped/were zapped"},
+{"person": "first", "tense": "present perfect", "form": "have zapped"},
+{"person": "second", "tense": "present perfect", "form": "have zapped"},
+{"person": "third", "tense": "present perfect", "form": "has zapped/had zapped"},
+{"person": "first", "tense": "past perfect", "form": "had zapped"},
+{"person": "second", "tense": "past perfect", "form": "had zapped"},
+{"person": "third", "tense": "past perfect", "form": "had zapped"},
+{"person": "first", "tense": "present continuous", "form": "am zapping"},
+{"person": "second", "tense": "present continuous", "form": "are zapping"},
+{"person": "third", "tense": "present continuous", "form": "is zapping/are zapping"},
+{"person": "first", "tense": "past continuous", "form": "had been zapping"},
+{"person": "second", "tense": "past continuous", "form": "had been zapping"},
+{"person": "third", "tense": "past continuous", "form": "had been zapping"}
+]
+}
 
-The noun "run" can also be used in other contexts like a series of similar things, as in "a run of good luck" or "the run of the mill," which would have different plural forms.
+This word is common in English language. The topic area of this word can be technology or cooking (microwave oven).
 
-'jump' ==================================
+'zapper' ==================================
 
-  The word "jump" is primarily a verb in English. As a verb, it is used to describe an action where something moves from one place or level to another without staying there momentarily.
+  {
+"word": "zapper",
+"partOfSpeech": "noun",
+"language": "English",
+"definition": "A person or device for operating or controlling something, especially a remote control for a television set.",
+"rarity": "common",
+"topicArea": ["electronics", "television"]
+}
 
-Here are all the simple present tense conjugations of "jump": I jump, you jump, he/she/it jumps, we jump, they jump.
+'zappers' ==================================
 
-If used as a noun, "jump" typically refers to a movement or act of jumping. However, it is less common for "jump" to function as a noun. In such cases, the singular and plural forms remain the same: Jump (singular) and Jumps (plural).
+  {
+"word": "zappers",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": "Television or Media",
+"singular": "zapper",
+"plural": "zippers (unrelated meaning)"
+}
 
-For example:
-- Verb: John jumps over the fence.
-- Noun: Take a look at these high jumps in the Olympics.
+Note: The word "zappers" is commonly used in the context of television or media, referring to people who quickly change channels on their TV remote control. It is not related to the term "zippers," which is a fastener used to close garments.
 
-"Jump" is not an adjective, adverb, pronoun, preposition, conjunction, or interjection in the English language.
+'zappier' ==================================
 
-'been' ==================================
+  {
+"word": "zappier",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": "Technology",
+"definition": "More agile or responsive, especially in the context of technology applications or services."
+}
 
-  The word "been" functions as a verb in English grammar. It is the past-participle form of the verb "to be". Here are its conjugations:
+This word is not a noun, verb, adverb, pronoun, preposition, conjunction, or interjection. It is an adjective that describes something as more agile or responsive. The infinitive form and conjugations do not apply to this word as it is an adjective. The singular form of the noun that can be modified by "zappier" is any noun that can take the comparative degree, such as "application," "service," etc. The plural form would be "applications," "services," etc.
 
-1. I have been
-2. You have been
-3. He/She/It has been
-4. We have been
-5. They have been
-6. Has been (used in questions and negative sentences)
-7. Were + present participle (for past tense in the past simple, plural) - "Were you been?" or "We were been" (but this form is not commonly used in modern English)
+'zappiest' ==================================
 
-As a noun, "been" does not have singular and plural forms because it is not a countable noun. It can function as an adjective in some phrases like "I have been there", but it does not have distinct singular and plural forms when used this way.
+  {
+"word": "zappiest",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": "Informal, often used to describe the most exciting or entertaining thing in a particular context."
+}
 
-'are' ==================================
+This word is an adjective in English language. It's considered rare as it's not commonly used in formal writing or everyday conversations. The topic area for this word is informal and often used to describe the most exciting or entertaining thing in a particular context. Since "zappiest" is an adjective, it doesn't have infinitive form, singular or plural forms, or conjugations as it doesn't follow the typical verb structure.
 
-  The word "are" is a verb in the present tense, third person plural form. It is used to show that more than one subject is acting or is in a state.
+'zapping' ==================================
 
-In English, verbs typically have three main tenses: present, past, and future. However, the third-person plural present form of regular verbs doesn't change in most cases. So, for "are", there is no need to provide conjugations since it only has this one form.
-
-As a noun, "are" is not a common usage. However, in some specific contexts, it can be used as a collective noun referring to a group or assembly of something. But in general English conversation and writing, the word "are" functions primarily as a verb.
-
-In singular form, "are" cannot act as a noun, but if we use it as a noun in a context where it could be considered plural, then possible singular equivalents would be "is" or "an are" (in certain technical or poetic uses). For example, "An Are of Justice" or "The Is of Life." But these usages are not common.
+  {
+"word": "zapping",
+"part_of_speech": "verb",
+"language": "English",
+"rarity": "common",
+"topic_area": "Television or Media",
+"infinitive": "to zap",
+"conjugations": [
+{"person": 1, "tense": "present", "form": "zap"},
+{"person": 1, "tense": "past", "form": "zapped"},
+{"person": 1, "tense": "present_continuous", "form": "am zapping/is zapping/are zapping"},
+{"person": 1, "tense": "past_continuous", "form": "was zapping/were zapping"},
+{"person": 3, "tense": "present", "form": "zaps"},
+{"person": 3, "tense": "past", "form": "zapped"},
+{"person": 3, "tense": "present_continuous", "form": "are zapping"},
+{"person": 3, "tense": "past_continuous", "form": "were zapping"}
+]
+}

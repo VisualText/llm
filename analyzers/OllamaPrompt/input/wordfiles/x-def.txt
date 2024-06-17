@@ -1,0 +1,3334 @@
+
+
+'x' ==================================
+
+  {
+"word": "x",
+"part_of_speech": "It is necessary to have more context to determine if 'x' is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection.",
+"language": "English (or specify the language if known)",
+"definition": ""
+}
+
+If x is a verb:
+{
+"word": "x",
+"part_of_speech": "Verb",
+"language": "English",
+"definition": "",
+"infinitive": "",
+"conjugations": [
+["I", "present indicative"],
+["you", "present indicative"],
+["he/she/it", "present indicative"],
+["we", "present indicative"],
+["they", "present indicative"],
+["I", "past simple"],
+["you", "past simple"],
+["he/she/it", "past simple"],
+["we", "past simple"],
+["they", "past simple"],
+["I", "present participle"],
+["you", "present participle"],
+["he/she/it", "present participle"],
+["we", "present participle"],
+["they", "present participle"],
+["I", "past participle"],
+["you", "past participle"],
+["he/she/it", "past participle"],
+["we", "past participle"],
+["they", "past participle"]]
+}
+
+If x is a noun:
+{
+"word": "x",
+"part_of_speech": "Noun",
+"language": "English",
+"definition": "",
+"singular": "",
+"plural": ""
+}
+
+'x'ing' ==================================
+
+  {
+"word": "xing",
+"part_of_speech": "verb",
+"language": "English (or possibly other languages with similar forms)",
+"infinitive": "(not a standalone word in English)"
+}
+
+Note: The word "xing" itself does not exist as a standalone word in any major human language. It seems to be an incomplete or misspelled input. If you meant to ask about a specific verb, please provide the correct infinitive form instead.
+
+'x's' ==================================
+
+  {
+"word": "x",
+"part_of_speech": "Unknown",
+"language": "English (for example)",
+"definition": ""
+}
+
+To provide a definition and part of speech for the word "x", more information is needed such as its context or meaning in a sentence. Here's an example of how the output could look if we know that "x" is the English noun for "apple":
+
+{
+"word": "x",
+"part_of_speech": "Noun",
+"language": "English",
+"definition": "A round fruit with a red, green, or yellow skin and white, firm flesh.",
+"singular": "Apple",
+"plural": "Apples"
+}
+
+'x-axis' ==================================
+
+  {
+"word": "x-axis",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A straight line in a coordinate system, representing a variable against which another variable is plotted.",
+"singular": "x-axis",
+"plural": "x-axes"
+}
+
+'x-disease' ==================================
+
+  {
+"word": "x-disease",
+"part_of_speech": "noun",
+"language_origin": "English (or any language using the Latin alphabet 'x' as a placeholder for an unknown or unspecified letter)",
+"singular": "x-disease",
+"plural": "x-diseases"
+}
+
+'x-ed' ==================================
+
+  {
+"word": "x-ed",
+"part_of_speech": "verb",
+"language": "English",
+"infinitive": "x",
+"conjugations": [
+{"person": "first_singular", "tense": "present_continuous", "form": "am x-ing"},
+{"person": "first_singular", "tense": "present_perfect", "form": "have x-ed"},
+{"person": "first_singular", "tense": "past_participle", "form": "x-ed"},
+{"person": "second_singular", "tense": "present_continuous", "form": "are x-ing"},
+{"person": "second_singular", "tense": "present_perfect", "form": "have x-ed"},
+{"person": "third_person_singular", "tense": "present_continuous", "form": "is x-ing"},
+{"person": "third_person_singular", "tense": "present_perfect", "form": "has x-ed"},
+{"person": "first_plural", "tense": "present_continuous", "form": "are x-ing"},
+{"person": "first_plural", "tense": "present_perfect", "form": "have x-ed"},
+{"person": "second_plural", "tense": "present_continuous", "form": "are not x-ing"},
+{"person": "second_plural", "tense": "present_perfect", "form": "have not x-ed"},
+{"person": "third_plural", "tense": "present_continuous", "form": "are x-ing"},
+{"person": "third_plural", "tense": "present_perfect", "form": "have x-ed"}
+]
+}
+
+'x-height' ==================================
+
+  {
+"word": "x-height",
+"part_of_speech": "noun",
+"language_origin": "Typography",
+"definition": "The height of the lowercase x in a typeface.",
+"singular": "x-height",
+"plural": "x-heights"
+}
+
+'x-high' ==================================
+
+  {
+"word": "x-high",
+"part_of_speech": "none",
+"definition": "This term does not have a clear part of speech or definition in any known human language.",
+"language_origin": "Unknown"
+}
+
+'x-ing' ==================================
+
+  {
+"word": "xing",
+"part_of_speech": "verb",
+"language": "English (or any language with a similar construction)",
+"infinitive": "(there is no infinitive form 'xing')",
+"conjugations": [
+// This word does not follow the typical English verb conjugation pattern, as it is often used as an auxiliary verb in specific contexts like 'taxing' or 'sexing'. It doesn't have a standard set of conjugations.
+]
+}
+
+'x-line' ==================================
+
+  {
+"word": "x-line",
+"part_of_speech": "noun",
+"language_origin": "Technical English",
+"singular": "an x-line",
+"plural": "x-lines"
+}
+
+'x-out' ==================================
+
+  {
+"word": "x-out",
+"part_of_speech": "verb",
+"language": "English",
+"infinitive": "cross out",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I cross out, x-out out"},
+{"person": "second", "tense": "present", "form": "you cross out, you x-out"},
+{"person": "third", "tense": "present", "form": "he/she/it crosses out, he/she/it x-outs"},
+{"person": "first", "tense": "past", "form": "I crossed out, I x-ed out"},
+{"person": "second", "tense": "past", "form": "you crossed out, you x-ed out"},
+{"person": "third", "tense": "past", "form": "he/she/it crossed out, he/she/it x-ed out"},
+{"person": "first", "tense": "present perfect", "form": "I have crossed out, I have x-ed out"},
+{"person": "second", "tense": "present perfect", "form": "you have crossed out, you have x-ed out"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has crossed out, he/she/it has x-ed out"},
+{"person": "first", "tense": "past perfect", "form": "I had crossed out, I had x-ed out"},
+{"person": "second", "tense": "past perfect", "form": "you had crossed out, you had x-ed out"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had crossed out, he/she/it had x-ed out"},
+{"person": "first", "tense": "present continuous", "form": "I am crossing out, I am x-ing out"},
+{"person": "second", "tense": "present continuous", "form": "you are crossing out, you are x-ing out"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is crossing out, he/she/it is x-ing out"},
+{"person": "first", "tense": "past continuous", "form": "I had been crossing out, I had been x-ing out"},
+{"person": "second", "tense": "past continuous", "form": "you had been crossing out, you had been x-ing out"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it had been crossing out, he/she/it had been x-ing out"}
+]
+}
+
+'x-radiation' ==================================
+
+  {
+"word": "x-radiation",
+"part_of_speech": "noun",
+"language_origin": "English",
+"singular": "x-radiation",
+"plural": "x-radiations"
+}
+
+'x-stretcher' ==================================
+
+  {
+"word": "x-stretcher",
+"part_of_speech": "Noun",
+"language_origin": "Unknown",
+"definition": "A tool or device used to stretch or elongate an object, particularly in the context of graphics or imaging."
+}
+
+'x-unit' ==================================
+
+  {
+"word": "x-unit",
+"part_of_speech": "noun",
+"language_origin": "English",
+"singular": "x-unit",
+"plural": "x-units"
+}
+
+'xalostockite' ==================================
+
+  {
+"word": "xalostockite",
+"part_of_speech": "Unknown",
+"language": "Unidentified",
+"definition": ""
+}
+
+To provide a definition or conjugation for the word "xalostockite," more information is needed, such as the language it comes from and its grammatical role in that language.
+
+'xanth-' ==================================
+
+  {
+"word": "xanth",
+"part_of_speech": "noun or adjective",
+"language_origin": "Greek",
+"definition": {
+"noun": "a color, specifically a shade of yellow",
+"adjective": "yellow in color"
+},
+"infinitive_form": null,
+"conjugations": null,
+"singular": "xanthos (masculine)",
+"plural": "xantha (feminine), xantha (neuter)"
+}
+
+'xanthaline' ==================================
+
+  {
+"word": "xanthaline",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (Latin)",
+"singular": "xanthaline",
+"plural": "[not applicable for nouns in English]",
+"definition": "A yellow pigment derived from chrysophanic acid or related compounds."
+}
+
+'xanthamic' ==================================
+
+  {
+"word": "xanthamic",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A substance having the properties of xanthate or a salt or ester thereof.",
+"singular": "xanthate",
+"plural": "[not applicable for nouns]"
+}
+
+'xanthamid' ==================================
+
+  {
+"word": "xanthamum", // correction: you provided an incorrect form of the word in your question
+"part_of_speech": "noun",
+"definition": "A type of gum obtained from the fermented seeds of the plant Xanthomonas campestris.",
+"language_origin": "Latin", // xanthamum comes from Greek xanthos (yellow) and mannos (manna or substance)
+// No infinitive form, conjugations, singular or plural forms are applicable for this noun.
+
+'xanthamide' ==================================
+
+  {
+"word": "xanthamide",
+"part_of_speech": "noun",
+"language_origin": "English",
+"singular": "xanthamide",
+"plural": "[not applicable for nouns]"
+}
+
+'xanthan' ==================================
+
+  {
+"word": "xanthan",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of polysaccharide used as a food additive, particularly as a thickener.",
+"singular": "xanthan",
+"plural": "xanthans"
+}
+
+'xanthane' ==================================
+
+  {
+"word": "xanthan",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of polysaccharide used as a food additive, particularly as a thickener.",
+"singular": "xanthan",
+"plural": ""
+}
+
+'xanthans' ==================================
+
+  {
+"word": "xanthan",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of polysaccharide used as a food additive, particularly as a thickener.",
+"singular": "xanthan",
+"plural": "xanthans"
+}
+
+'xanthate' ==================================
+
+  {
+"word": "xanthate",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (English)",
+"definition": "A compound of hydroxyl ions and a metal or metalloid, in which the anion is derived from xanthic acid.",
+"singular": "xanthate",
+"plural": "[not applicable for nouns in English]"
+}
+
+'xanthates' ==================================
+
+  {
+"word": "xanthates",
+"part_of_speech": "noun",
+"language_origin": "Chemistry",
+"definition": "Compounds of hydroxyl groups (-OH) attached to a xanthate anion (S2O3-2), often derived from thiols and used as intermediates in the manufacture of cellulose derivatives."
+}
+
+'xanthation' ==================================
+
+  {
+"word": "xanthation",
+"part_of_speech": "Noun",
+"definition": "A chemical process that imparts a yellow color to an object or substance.",
+"language_origin": "Greek",
+"derivation": "[from xanthos, yellow]"
+}
+
+'xanthd-' ==================================
+
+  {
+"word": "xanthid-",
+"part_of_speech": "compound_form",
+"language_origin": "Greek",
+"definition": "pertaining to xanthids, a type of coral"
+}
+
+'xanthein' ==================================
+
+  {
+"word": "xanthein",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (organic compound)",
+"singular": "xanthein",
+"plural": "[not applicable for nouns in chemistry]"
+}
+
+'xantheins' ==================================
+
+  {
+"word": "xantheins",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (Greek)",
+"definition": "A class of yellow pigments derived from xanthophylls, a type of carotenoid."
+}
+
+'xanthelasma' ==================================
+
+  {
+"word": "xanthelasma",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"definition": "A yellowish deposit of fat under the conjunctiva or skin, usually associated with hyperlipidemia or atherosclerosis.",
+"singular": "xanthelasma",
+"plural": "xanthelasmas"
+}
+
+'xanthelasmic' ==================================
+
+  {
+"word": "xanthelasmic",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Relating to or containing xanthomas, which are yellowish deposits under the skin or in other tissues, especially in the eyes."
+}
+
+'xanthelasmoidea' ==================================
+
+  {
+"word": "xanthelasmoidea",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A type of lipid deposits in the eye, often associated with certain metabolic disorders.",
+"singular": "xanthelasma",
+"plural": "xanthelasmas or xanthelasma deposits"
+}
+
+'xanthene' ==================================
+
+  {
+"word": "xanthene",
+"part_of_speech": "noun",
+"language_origin": "Chemistry",
+"definition": "A type of organic compound that contains xanthene groups in their molecular structure.",
+"singular": "xanthene",
+"plural": "xanthenes"
+}
+
+'xanthenes' ==================================
+
+  {
+"word": "xanthenes",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (organic compounds)",
+"singular": "xanthene",
+"plural": "xanthenes"
+}
+
+'xanthic' ==================================
+
+  {
+"word": "xanthic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Of the color of saffron or yellow."
+}
+
+'xanthid' ==================================
+
+  {
+"word": "xanthid",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of coral.",
+"singular": "xanthid",
+"plural": "xanthids"
+}
+
+'xanthide' ==================================
+
+  {
+"word": "xanthide",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A compound containing xanthic (yellow) radicals.",
+"singular": "xanthide",
+"plural": "xanthides"
+}
+
+'xanthin' ==================================
+
+  {
+"word": "xanthin",
+"part_of_speech": "noun",
+"language_origin": "Chemistry",
+"singular": "xanthin",
+"plural": "[not applicable in English]",
+"definition": "A type of pigment, specifically a xanthophyll, which is a yellow carotenoid pigment found in various plants and animals."
+}
+
+'xanthindaba' ==================================
+
+  {
+"word": "xanthindaba",
+"language": "Unknown",
+"part_of_speech": "Noun or Unknown",
+"definition": "",
+"infinitive_form": "",
+"conjugations": [],
+"singular": "",
+"plural": ""
+}
+
+'xanthine' ==================================
+
+  {
+"word": "xanthine",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of organic compound that contains xanthine base, which includes purines such as hypoxanthine, xanthine, and theobromine.",
+"singular": "xanthine",
+"plural": "xanthines"
+}
+
+'xanthines' ==================================
+
+  {
+"word": "xanthines",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A class of naturally occurring alkaloids that include theobromine, caffeine, and theophylline. They are commonly found in tea, coffee, cocoa, and certain medicinal plants."
+}
+
+'xanthins' ==================================
+
+  {
+"word": "xanthins",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin or Greek",
+"definition": "Xanthins are a group of natural or synthetic compounds that exhibit xanthine structure, which is characterized by the presence of a heterocyclic ring system containing nitrogen and oxygen atoms."
+}
+
+'xanthinuria' ==================================
+
+  {
+"word": "xanthinuria",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A rare genetic disorder characterized by the accumulation of xanthine and its derivatives in the urine due to a deficiency in the enzyme xanthine oxidase."
+}
+
+'xanthione' ==================================
+
+  {
+"word": "xanthione",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (Greek root)",
+"definition": "A type of organic compound containing a xanthone moiety.",
+"singular": "xanthione",
+"plural": "[not applicable for nouns in English]"
+}
+
+'xanthism' ==================================
+
+  {
+"word": "xanthism",
+"part_of_speech": "Noun",
+"language_origin": "Greek",
+"definition": "A form of megalomania or delusional grandeur, characterized by an excessive love of one's own powers or qualities.",
+"singular": "xanthism",
+"plural": "[not provided]"
+}
+
+'xanthite' ==================================
+
+  {
+"word": "xanthite",
+"part_of_speech": "noun",
+"language_origin": "English or Chemistry",
+"definition": "A mineral composed of calcium oxalate monohydrate, with a yellowish-brown color.",
+"singular": "xanthite",
+"plural": "xanthites"
+}
+
+'xanthiuria' ==================================
+
+  {
+"word": "xanthiuria",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A yellowish or brownish urine.",
+"singular": "xanthiuria",
+"plural": "xanthiurias"
+}
+
+'xantho-' ==================================
+
+  {
+"word": "xantho-",
+"part_of_speech": "prefix",
+"language_origin": "Greek",
+"definition": "Relating to or containing xanthin (yellow pigment), yellow."
+}
+
+'xanthocarpous' ==================================
+
+  {
+"word": "xanthocarpous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "having golden-brown or yellowish-brown ripe fruit, especially certain trees and shrubs."
+}
+
+'xanthochroia' ==================================
+
+  {
+"word": "xanthochroia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "yellow pigmentation or coloration in plants or animals",
+"singular": "xanthochroia",
+"plural": "xanthochroias"
+}
+
+'xanthochroid' ==================================
+
+  {
+"word": "xanthochroic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "having yellow pigment in the skin or eyes"
+}
+
+'xanthochroism' ==================================
+
+  {
+"word": "xanthochroism",
+"part_of_speech": "noun",
+"definition": "A condition characterized by abnormally high levels of carotene pigments in the skin, resulting in a yellowish discoloration.",
+"language_origin": "Greek",
+"etymology": "{xanthos} (ξανθος) - yellow + {chroismatos} (χροισματος) - pigment"
+}
+
+'xanthochromia' ==================================
+
+  {
+"word": "xanthochromia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition characterized by an abnormal amount of xanthophilic pigments in the tissues, fluids, or cells, resulting in a yellowish discoloration.",
+"singular": "xanthochromia",
+"plural": "xanthochromias"
+}
+
+'xanthochromic' ==================================
+
+  {
+"word": "xanthochromic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": " exhibiting or characterized by an abnormal amount of xanthophylls in the tissues, especially in the blood, resulting in a yellowish discoloration."
+}
+
+'xanthochroous' ==================================
+
+  {
+"word": "xanthochroous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "having yellow or yellowish parts, especially in animals"
+}
+
+'xanthocobaltic' ==================================
+
+  {
+"word": "xanthocobaltic",
+"part_of_speech": "compound",
+"language_origin": "English",
+"definition": "Containing or resembling xanthophylls and cobalt."
+}
+
+This word is a compound adjective in English language. It describes something containing or resembling both xanthophylls (yellow pigments) and cobalt. There is no infinitive form, conjugations, singular or plural forms to delineate for this word as it functions as an adjective modifying a noun in a sentence.
+
+'xanthocone' ==================================
+
+  {
+"word": "xanthocone",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A conical structure covered with xanthophylls (yellow pigments) in the coral polyps.",
+"singular": "xanthocone",
+"plural": "[not provided]"
+}
+
+'xanthoconite' ==================================
+
+  {
+"word": "xanthoconite",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of limonite with a yellow color due to the presence of iron hydroxides.",
+"singular": "xanthoconite",
+"plural": "xanthoconites"
+}
+
+'xanthocreatinine' ==================================
+
+  {
+"word": "xanthocreatinine",
+"part_of_speech": "noun",
+"language_origin": "English or possibly other languages with a similar chemical nomenclature system",
+"definition": "A metabolic waste product, specifically a creatine derivative with a yellow color."
+}
+
+'xanthocyanopia' ==================================
+
+  {
+"word": "xanthocyanopia",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A condition characterized by the excessive production or accumulation of xanthophylls in the body, resulting in yellowish discoloration of the skin and mucous membranes."
+}
+
+'xanthocyanopsia' ==================================
+
+  {
+"word": "xanthocyanopsia",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A condition in which an individual perceives colors, particularly yellows and reds, more vividly than normal."
+}
+
+'xanthocyanopsy' ==================================
+
+  {
+"word": "xanthocyanopsy",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "The ability to see yellow and red colors.",
+"singular": "xanthocyanopsy",
+"plural": "xanthocyanopsies"
+}
+
+'xanthocyanopy' ==================================
+
+  {
+"word": "xanthocyanopy",
+"part_of_speech": "unknown",
+"language_origin": "unknown",
+"definition": {
+"meaning": ["[N] A pigment or a class of pigments responsible for various shades of yellow, orange, and red colors in plants."],
+"synonyms": ["xanthophyll", "anthocyanin"]
+}
+}
+
+This word appears to be of Greek origin, with the prefix "xantho-" meaning "yellow," "-cyano-" meaning "blue," and "-py" being a suffix indicating a pigment or dye. However, without further context or information, it is impossible to definitively determine its part of speech or conjugations/plural forms.
+
+'xanthoderm' ==================================
+
+  {
+"word": "xanthoderm",
+"part_of_speech": "noun",
+"language_origin": "Unknown",
+"definition": "A hypothetical organism or condition characterized by a yellow skin.",
+"singular": "xanthoderm",
+"plural": "xanthoderms"
+}
+
+'xanthoderma' ==================================
+
+  {
+"word": "xanthoderma",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A cutaneous condition characterized by yellowish discoloration of the skin.",
+"singular": "xanthoderma",
+"plural": "xanthodermas"
+}
+
+'xanthodermatous' ==================================
+
+  {
+"word": "xanthodermatous",
+"part_of_speech": "adjective",
+"language_origin": "Latin",
+"definition": "Pertaining to or having a yellow skin.",
+"singular": "xanthodermatous",
+"plural": "xanthodermatous things/creatures"
+}
+
+'xanthodont' ==================================
+
+  {
+"word": "xanthodont",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "yellow-toothed",
+"singular": "xanthodont",
+"plural": "xanthodonts"
+}
+
+'xanthodontous' ==================================
+
+  {
+"word": "xanthodontous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "having yellow teeth"
+}
+
+'xanthogen' ==================================
+
+  {
+"word": "xanthogen",
+"part_of_speech": "Unknown",
+"language_origin": "Unspecified",
+"definition": {}}
+
+To provide a definition or inflection for the word "xanthogen," more context is needed, such as the specific language and its part of speech (noun, verb, etc.). The given information does not allow me to determine if it's a known word or not. If you can provide additional context, I will be happy to help with the definition or inflection.
+
+'xanthogenamic' ==================================
+
+  {
+"word": "xanthogenamic",
+"part_of_speech": "Noun or Unknown",
+"language_origin": "Unknown",
+"definition": "No clear definition could be found for the word 'xanthogenamic' in any major human language."
+}
+
+'xanthogenamide' ==================================
+
+  {
+"word": "xanthogenamide",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (English)",
+"singular": "xanthogenamide",
+"plural": "[not applicable for nouns in English]"
+}
+
+'xanthogenate' ==================================
+
+  {
+"word": "xanthogenate",
+"part_of_speech": "verb",
+"language_origin": "Chemistry (English)",
+"infinitive": "xanthogenate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "xanthogenate"},
+{"person": "second", "tense": "present", "form": "xanthogenate-s"},
+{"person": "third", "tense": "present", "form": "xanthogenates"},
+{"person": "first", "tense": "past", "form": "xanthogenated"},
+{"person": "second", "tense": "past", "form": "xanthogenated-s"},
+{"person": "third", "tense": "past", "form": "xanthogenated"},
+{"person": "first", "tense": "present perfect", "form": "have xanthogenated"},
+{"person": "second", "tense": "present perfect", "form": "have xanthogenated-s"},
+{"person": "third", "tense": "present perfect", "form": "have xanthogenated"},
+{"person": "first", "tense": "past perfect", "form": "had xanthogenated"},
+{"person": "second", "tense": "past perfect", "form": "had xanthogenated-s"},
+{"person": "third", "tense": "past perfect", "form": "had xanthogenated"},
+{"person": "first", "tense": "present continuous", "form": "am xanthogenating"},
+{"person": "second", "tense": "present continuous", "form": "are xanthogenating-s"},
+{"person": "third", "tense": "present continuous", "form": "is xanthogenating"},
+{"person": "first", "tense": "past continuous", "form": "had been xanthogenating"},
+{"person": "second", "tense": "past continuous", "form": "had been xanthogenating-s"},
+{"person": "third", "tense": "past continuous", "form": "had been xanthogenating"}
+]
+}
+
+Please note that the term "xanthogenate" is not a commonly used word in English language, and it's mainly used in chemistry context to refer to the process of forming xanthophylls or other similar compounds.
+
+'xanthogenic' ==================================
+
+  {
+"word": "xanthogenic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Producing or containing xanthophylls or yellow pigments."
+}
+
+'xantholeucophore' ==================================
+
+  {
+"word": "xantholeucophore",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (specifically, organic chemistry)",
+"definition": "A type of chromophore that absorbs light in the blue and green regions of the electromagnetic spectrum and reflects or transmits light in the yellow region."
+}
+
+'xanthoma' ==================================
+
+  {
+"word": "xanthoma",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of benign lipid-containing tumor that grows under the skin or in the lining of the eye.",
+"singular": "xanthoma",
+"plural": "xanthomas"
+}
+
+'xanthomas' ==================================
+
+  {
+"word": "xanthomas",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"definition": "Deposits of lipids under the skin or in other organs, usually associated with high levels of cholesterol and lipoproteins in the blood.",
+"singular": "xanthoma",
+"plural": "xanthomas"
+}
+
+'xanthomata' ==================================
+
+  {
+"word": "xanthomata",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Xanthomata are cutaneous manifestations of lipid storage diseases, characterized by the presence of yellowish plaques (xanthomas) in various organs and tissues.",
+"singular": "xanthoma",
+"plural": "xanthomata"
+}
+
+'xanthomatosis' ==================================
+
+  {
+"word": "xanthomatosis",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A chronic inflammatory condition characterized by the formation of xanthomas (yellowish deposits) in various organs and tissues.",
+"singular": "xanthomatosis",
+"plural": "xanthomatosises or xanthomatoses"
+}
+
+'xanthomatous' ==================================
+
+  {
+"word": "xanthomatous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or characterized by xanthoma, a type of lipid storage disorder that results in the formation of yellowish nodular deposits under the skin or mucous membranes."
+}
+
+'xanthomelanous' ==================================
+
+  {
+"word": "xanthomelanous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Of or having both xanthic (yellow) and melanic (black or dark) pigments."
+}
+
+'xanthometer' ==================================
+
+  {
+"word": "xanthometer",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "An instrument used to measure the amount of xanthophylls or other pigments in a solution."
+}
+
+'xanthomyeloma' ==================================
+
+  {
+"word": "xanthomyeloma",
+"part_of_speech": "noun",
+"language_origin": "Medical Latin",
+"definition": "A type of tumor characterized by the presence of xanthomatous (yellow fat-laden) macrophages and lipid-laden foam cells in the affected tissue."
+}
+
+'xanthone' ==================================
+
+  {
+"word": "xanthone",
+"part_of_speech": "noun",
+"language_origin": "Chemistry",
+"definition": "A type of organic compound, specifically a class of polyphenolic compounds characterized by the presence of a xanthenoid chromophore."
+}
+
+'xanthones' ==================================
+
+  {
+"word": "xanthones",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "A class of natural or synthetic compounds containing xanthone as a core structure, characterized by their extensive conjugated systems and various biological activities."
+}
+
+'xanthophane' ==================================
+
+  {
+"word": "xanthophan", // Corrected spelling
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of carotenoid pigment that imparts a yellow color to various plants and animals.",
+"singular": "xanthophan",
+"plural": "xanthophans"
+}
+
+'xanthophore' ==================================
+
+  {
+"word": "xanthophore",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of cell that contains xanthophylls (pigments) and gives a yellow color to various plants and algae."
+}
+
+'xanthophose' ==================================
+
+  {
+"word": "xanthophore",
+"part_of_speech": "noun",
+"definition": "An organ or structure in certain plants that contains xanthophylls and functions in photosynthesis.",
+"language_origin": "Greek",
+"singular": "xanthophore",
+"plural": "xanthophores"
+}
+
+'xanthophyl' ==================================
+
+  {
+"word": "xanthophyll",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of pigment found in various plants, giving them a yellow color.",
+"singular": "xanthophyll",
+"plural": "xanthophylls"
+}
+
+'xanthophyll' ==================================
+
+  {
+"word": "xanthophyll",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of pigment found in plants, especially in leaves, that gives them a yellow color.",
+"singular": "xanthophyll",
+"plural": "xanthophylls"
+}
+
+'xanthophyllic' ==================================
+
+  {
+"word": "xanthophyllic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or containing xanthophylls, yellow pigments found in some plants."
+}
+
+'xanthophyllite' ==================================
+
+  {
+"word": "xanthophyllite",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of phyllosilicate mineral that contains xanthophyll pigments.",
+"singular": "xanthophyllite",
+"plural": "xanthophyllites"
+}
+
+'xanthophyllous' ==================================
+
+  {
+"word": "xanthophyllous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Containing xanthophylls, yellow pigments in chloroplasts of plants."
+}
+
+'xanthophylls' ==================================
+
+  {
+"word": "xanthophylls",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A class of pigments that give yellow, orange, or red colors to plants.",
+"singular": "xanthophyll",
+"plural": "xanthophylls"
+}
+
+'xanthopicrin' ==================================
+
+  {
+"word": "xanthopicrin",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A yellow crystalline compound, C14H12O5, obtained from the essential oil of various plants and used as a food coloring and in medicine.",
+"singular": "xanthopicrin",
+"plural": "xanthopicrins"
+}
+
+'xanthopicrite' ==================================
+
+  {
+"word": "xanthopicrite",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A mineral composed of calcium magnesium silicate hydroxide, with a yellowish-green color.",
+"singular": "xanthopicrite",
+"plural": "xanthopicrites"
+}
+
+'xanthoproteic' ==================================
+
+  {
+"word": "xanthoproteic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": {
+"meaning": "yellow-protein or yellow-pigmented",
+"etymology": "xanthos (γηλύξ, ξάνθος) meaning 'yellow' + proteios (πρότειος) meaning 'first' or 'primary'"
+}
+}
+
+'xanthoprotein' ==================================
+
+  {
+"word": "xanthoprotein",
+"part_of_speech": "noun",
+"language_origin": "Science (specifically, Biochemistry)",
+"definition": "A protein that imparts a yellow color to an organism or biological tissue.",
+"singular": "xanthoprotein",
+"plural": "xanthoproteins"
+}
+
+'xanthoproteinic' ==================================
+
+  {
+"word": "xanthoproteinic",
+"part_of_speech": "adjective",
+"language_origin": "Latin-Greek",
+"definition": "Relating to or containing xanthoproteins, yellow protein pigments found in some organisms."
+}
+
+'xanthopsia' ==================================
+
+  {
+"word": "xanthopsia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition of the eye in which yellow pigment is present in the cornea or lens, causing objects to appear yellowish.",
+"singular": "xanthopsia",
+"plural": "xanthopsias"
+}
+
+'xanthopsin' ==================================
+
+  {
+"word": "xanthopsin",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A pigment found in some animals that gives them a yellow color, especially in the eyes.",
+"singular": "xanthopsin",
+"plural": "xanthopsins"
+}
+
+'xanthopsydracia' ==================================
+
+  {
+"word": "xanthopsydracia",
+"part_of_speech": "unknown",
+"language_origin": "Greek",
+"definition": ""
+}
+
+To provide a definition or conjugation for the word "xanthopsydracia," more context is needed. This word appears to be of Greek origin, but it's not clear whether it's a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Without further information, it's impossible to determine its meaning or provide any conjugations or infinitive form.
+
+'xanthopterin' ==================================
+
+  {
+"word": "xanthopterin",
+"part_of_speech": "noun",
+"language_origin": "English or Scientific Latin",
+"definition": "A yellow pigment found in some plants and animals."
+}
+
+'xanthopurpurin' ==================================
+
+  {
+"word": "xanthopurpurin",
+"part_of_speech": "noun",
+"language_origin": "Unknown",
+"definition": "A pigment with the chemical formula C32H18N6O12S2, which is a complex organic sulfide. It exhibits both xanthic (yellow) and purpurin (red-purple) hues."
+}
+
+'xanthorhamnin' ==================================
+
+  {
+"word": "xanthorhamnin",
+"part_of_speech": "noun",
+"language_origin": "Latin or Greek",
+"definition": "A type of flavonoid pigment found in certain plants, characterized by its yellow color."
+}
+
+'xanthosiderite' ==================================
+
+  {
+"word": "xanthosiderite",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A yellow-brown mineral, specifically a manganese oxide hydroxide."
+}
+
+'xanthosis' ==================================
+
+  {
+"word": "xanthosis",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A yellowish discoloration of the skin.",
+"singular": "xanthosis",
+"plural": "xanthoses"
+}
+
+'xanthospermous' ==================================
+
+  {
+"word": "xanthospermous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Bearing or producing yellow seeds."
+}
+
+'xanthotic' ==================================
+
+  {
+"word": "xanthotic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Of a yellow color.",
+"singular": "xanthotic",
+"plural": "xanthotic things"
+}
+
+'xanthous' ==================================
+
+  {
+"word": "xanthous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Of a yellow color, especially a pale or clear yellow."
+}
+
+'xanthoxenite' ==================================
+
+  {
+"word": "xanthoxenite",
+"part_of_speech": "unknown",
+"language_origin": "unknown",
+"definition": ""
+}
+
+Without additional context or information, it is impossible to determine if "xanthoxenite" is a valid word in any human language, let alone its part of speech, definition, infinitive form, conjugations, singular and plural forms, or even which language it belongs to.
+
+'xanthoxylin' ==================================
+
+  {
+"word": "xanthoxylin",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (specifically, from the field of natural products)",
+"definition": "A yellow pigment obtained from various plants, especially from the rind of citrus fruits."
+}
+
+'xanthrochroid' ==================================
+
+  {
+"word": "xanthrochroid",
+"part_of_speech": "noun",
+"definition": "A person or thing that has yellowish skin or fur.",
+"language_origin": "Greek",
+"etymology": "From xanthos (yellow) + chroides (skin)"
+}
+
+'xanthuria' ==================================
+
+  {
+"word": "xanthuria",
+"part_of_speech": "Noun",
+"language_origin": "Unknown",
+"singular": "xanthuria",
+"plural": "[not provided]"
+}
+
+'xanthydrol' ==================================
+
+  {
+"word": "xanthydrol",
+"part_of_speech": "Unknown",
+"language_origin": "Greek",
+"definition": ""
+}
+
+To provide a definition or inflection for the word "xanthydrol," more context is needed. It appears to be of Greek origin, but its part of speech and meaning are unknown without additional information.
+
+'xanthyl' ==================================
+
+  {
+"word": "xanthyl",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (organic compound)",
+"singular": "xanthyl",
+"plural": "[not applicable for nouns in English]",
+"definition": "A type of alcohol used as a solvent and an intermediate in organic synthesis."
+}
+
+'xarque' ==================================
+
+  {
+"word": "xarque",
+"language": "Catalan",
+"part_of_speech": "Unknown",
+"definition": ""
+}
+
+To provide a definition or conjugation for the word "xarque" in Catalan, I would need more context or information about its meaning and grammatical role in a sentence. It could be any part of speech (noun, verb, adjective, etc.) depending on how it is used in a given context. If you provide a specific sentence or context for the word "xarque" in Catalan, I can help you determine its part of speech and provide a definition or conjugation if applicable.
+
+'xat' ==================================
+
+  {
+"word": "xat",
+"language": "Unknown",
+"part_of_speech": "Unknown",
+"infinitive_form": "N/A",
+"conjugations": "N/A",
+"singular": "N/A",
+"plural": "N/A"
+}
+
+'xc' ==================================
+
+  {
+"word": "xc",
+"part_of_speech": "Unknown",
+"language": "Unknown",
+"definition": "",
+"infinitive_form": "",
+"conjugations": [],
+"singular": "",
+"plural": ""
+}
+
+'xcl' ==================================
+
+  {
+"word": "xcl",
+"part_of_speech": "Unknown",
+"language": "Unknown",
+"definition": {}
+}
+
+To provide a definition or inflection for the word "xcl," more information is needed such as the specific language it comes from and its role in that language (noun, verb, etc.).
+
+'xctl' ==================================
+
+  {
+"word": "xctl",
+"part_of_speech": "Unknown",
+"language": "Unknown",
+"definition": ""
+}
+
+To provide a definition or inflection for the word "xctl", more information is required such as the specific language it comes from and its role in that language (noun, verb, etc.).
+
+'xdiv' ==================================
+
+  {
+"word": "xdiv",
+"part_of_speech": "Unknown",
+"language": "Unknown",
+"definition": ""
+}
+
+To provide a definition or inflection for the word "xdiv", more information is needed such as the language it comes from and its context in a sentence.
+
+'xebec' ==================================
+
+  {
+"word": "xebec",
+"part_of_speech": "noun",
+"language_origin": "Maritime French",
+"definition": "A type of small, fast, and maneuverable sailing ship with a square mainmast and lateen-rigged foremast.",
+"singular": "xebec",
+"plural": "xebecs"
+}
+
+'xebecs' ==================================
+
+  {
+"word": "xebecs",
+"part_of_speech": "noun",
+"language_origin": "unknown",
+"definition": "A type of small, fast, and maneuverable sailing ship with a square mainmast and lateen-rigged foremast and jib.",
+"plural": "xebecs or xebecs's (if referring to the ships themselves) or xebec crews (if referring to the people)"
+}
+
+'xed' ==================================
+
+  {
+"word": "xed",
+"part_of_speech": "verb",
+"language": "English",
+"infinitive": "x",
+"conjugations": [
+{"person": "first_singular", "tense": "present", "form": "x"},
+{"person": "second_singular", "tense": "present", "form": "x_s"},
+{"person": "third_singular", "tense": "present", "form": "xes"},
+{"person": "first_singular", "tense": "past", "form": "xed"},
+{"person": "second_singular", "tense": "past", "form": "xed"},
+{"person": "third_singular", "tense": "past", "form": "xed"},
+{"person": "first_plural", "tense": "present", "form": "x"},
+{"person": "second_plural", "tense": "present", "form": "x"},
+{"person": "third_plural", "tense": "present", "form": "x"},
+{"person": "first_singular", "tense": "past", "form": "xed"},
+{"person": "second_plural", "tense": "past", "form": "xed"},
+{"person": "third_plural", "tense": "past", "form": "xed"}
+]
+}
+
+Note: The word "xed" is not a common English verb and does not have widely accepted infinitive or past tense forms. The above information is provided for illustrative purposes only.
+
+'xeme' ==================================
+
+  {
+"word": "xeme",
+"language": "Unknown",
+"part_of_speech": "Unknown",
+"infinitive_form": "N/A",
+"conjugations": [],
+"singular": "N/A",
+"plural": "N/A"
+}
+
+'xen-' ==================================
+
+  {
+"word": "xen",
+"part_of_speech": "prefix",
+"language_origin": "Greek",
+"definition": "relating to or being a stranger or foreigner; hospitable towards strangers or foreigners"
+}
+
+'xenacanthine' ==================================
+
+  {
+"word": "xenacanthine",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of prehistoric shark characterized by its large dorsal fin.",
+"singular": "xenacanthine",
+"plural": "xenacanthines"
+}
+
+'xenagogue' ==================================
+
+  {
+"word": "xenagogue",
+"part_of_speech": "noun",
+"definition": "An innkeeper or one who provides lodging for travelers.",
+"language_origin": "Greek"
+}
+
+'xenagogy' ==================================
+
+  {
+"word": "xenagogy",
+"part_of_speech": "unknown",
+"language_origin": "Greek",
+"definition": ""}
+
+This word is of Greek origin, but it's meaning and part of speech are unknown without additional context.
+
+'xenarthral' ==================================
+
+  {
+"word": "xenarthral",
+"part_of_speech": "noun",
+"language_origin": "Zoology",
+"definition": "A mammal belonging to the order Xenarthra, having a unique skeletal structure with a fused vertebral column and a specialized shoulder girdle."
+}
+
+'xenarthrous' ==================================
+
+  {
+"word": "xenarthrous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": {
+"meaning": "belonging to or characterized by xenarthrans, a group of mammals that includes sloths and anteaters",
+"singular": "",
+"plural": ""
+}
+}
+
+'xenelasia' ==================================
+
+  {
+"word": "xenelasia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A sending or sending forth of guests or strangers; hospitality.",
+"singular": "xenelasia",
+"plural": "xenelasias"
+}
+
+'xenelasy' ==================================
+
+  {
+"word": "xenelasy",
+"part_of_speech": "Unknown",
+"language_origin": "Unidentified",
+"definition": {}}
+
+To provide a definition or conjugation for the word "xenelasy," more context is needed, such as the specific language and its grammar rules. The given information does not allow me to determine if it's a noun, verb, adjective, etc., or even from which human language it originates.
+
+'xenia' ==================================
+
+  {
+"word": "xenia",
+"language": "Greek",
+"part_of_speech": "noun",
+"definition": "the ancient Greek custom of hospitality towards strangers and guests",
+"singular": "xenia",
+"plural": "xenia (\[in this context\]) or xeniai"
+}
+
+'xenial' ==================================
+
+  {
+"word": "xenial",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Friendly and welcoming to strangers or guests"
+}
+
+'xenian' ==================================
+
+  {
+"word": "xenian",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A guest or stranger, especially one receiving hospitality.",
+"singular": "xenian",
+"plural": "xenians"
+}
+
+'xenias' ==================================
+
+  {
+"word": "xenias",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "hospitality extended by travelers to their hosts, or by hosts to their guests"
+}
+
+'xenic' ==================================
+
+  {
+"word": "xenic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or living in a foreign environment; alien or strange."
+}
+
+'xenically' ==================================
+
+  {
+"word": "xenically",
+"part_of_speech": "adverb",
+"language_origin": "Greek",
+"definition": "In a way that is characteristic of a foreigner or stranger; not native to a place."
+}
+
+Please note that "xenically" is derived from the Greek word "xenikos," which means "relating to guests or strangers." It has lost its independent existence as a word in English and is typically used as an adverb to modify other verbs. Therefore, it does not have infinitive or conjugated forms in English.
+
+'xenium' ==================================
+
+  {
+"word": "xenium",
+"part_of_speech": "Noun",
+"language_origin": "Latin",
+"singular": "xenium (neut. n.)",
+"plural": "[xenia, xeniae] (neut. n. pl.)"
+}
+
+'xeno-' ==================================
+
+  {
+"word": "xeno-",
+"part_of_speech": "prefix",
+"language_origin": "Greek",
+"definition": "relating to or being foreign or otherworldly"
+}
+
+'xenobiologies' ==================================
+
+  {
+"word": "xenobiology",
+"part_of_speech": "noun",
+"definition": "The study of alien organisms and their environments.",
+"language_origin": "English"
+}
+
+'xenobiology' ==================================
+
+  {
+"word": "xenobiology",
+"part_of_speech": "noun",
+"definition": "The scientific study of extraterrestrial organisms and their environments.",
+"origin_language": "English"
+}
+
+'xenobiosis' ==================================
+
+  {
+"word": "xenobiosis",
+"part_of_speech": "noun",
+"definition": "The living together of organisms that are not normally found in each other's company and are able to benefit from the relationship.",
+"language_origin": "Greek",
+"singular": "xenobiosis",
+"plural": "xenobioses"
+}
+
+'xenobiotic' ==================================
+
+  {
+"word": "xenobiotic",
+"part_of_speech": "adjective",
+"language_origin": "Science (specifically, biology and chemistry)"
+}
+
+Singular form: xenobiotic
+Plural form: xenobiotics
+
+'xenobiotics' ==================================
+
+  {
+"word": "xenobiotics",
+"part_of_speech": "noun",
+"language_origin": "Science (Chemistry or Biology)",
+"definition": "Substances that are foreign to living organisms and must be metabolized before they can have an effect.",
+"singular": "xenobiotic",
+"plural": "xenobiotics"
+}
+
+'xenoblast' ==================================
+
+  {
+"word": "xenoblast",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "A type of cell derived from an embryo or an adult organism that can form tissues other than those present in the original tissue.",
+"singular": "xenoblast",
+"plural": "xenoblasts"
+}
+
+'xenochia' ==================================
+
+  {
+"word": "xenochia",
+"part_of_speech": "Noun",
+"language_origin": "Greek",
+"definition": "Hospitality shown to strangers or foreigners.",
+"singular": "xenochia",
+"plural": "xenochiai"
+}
+
+'xenocryst' ==================================
+
+  {
+"word": "xenocryst",
+"part_of_speech": "noun",
+"definition": "A mineral crystal formed extraterrestrially.",
+"language_origin": "English",
+"singular": "xenocryst",
+"plural": "xenocrysts"
+}
+
+'xenocrystic' ==================================
+
+  {
+"word": "xenocrystic",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Relating to or containing xenocrysts, which are minerals or other substances that have formed in an extraterrestrial environment."
+}
+
+'xenocyst' ==================================
+
+  {
+"word": "xenocyst",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "A protective capsule or vesicle produced by certain xenophyophores, single-celled organisms that inhabit the deep sea.",
+"singular": "xenocyst",
+"plural": "[not provided in English, as it is a scientific term with no established plural form]"
+}
+
+'xenoderm' ==================================
+
+  {
+"word": "xenoderm",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of skin graft in which tissue is taken from a different species.",
+"singular": "xenoderm",
+"plural": "xenoderms"
+}
+
+'xenodiagnoses' ==================================
+
+  {
+"word": "xenodiagnosis",
+"part_of_speech": "noun",
+"definition": "The diagnosis of a disease in another organism, typically an animal, for the purpose of understanding human diseases.",
+"language_origin": "English"
+}
+
+'xenodiagnosis' ==================================
+
+  {
+"word": "xenodiagnosis",
+"part_of_speech": "noun",
+"definition": "A medical diagnosis made by studying the parasites or other organisms found in a patient's body.",
+"language_origin": "English"
+}
+
+'xenodiagnostic' ==================================
+
+  {
+"word": "xenodiagnostic",
+"part_of_speech": "noun",
+"definition": "A medical test or procedure that uses an organism (such as a parasite) from another species to diagnose a disease.",
+"language_origin": "English"
+}
+
+'xenodocheion' ==================================
+
+  {
+"word": "xenodocheion",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A lodging place for travelers or strangers, especially one maintained by a religious community.",
+"singular": "xenodocheion",
+"plural": "xenodochia"
+}
+
+'xenodochia' ==================================
+
+  {
+"word": "xenodochia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "The practice of providing hospitality to strangers or travelers.",
+"singular": "xenodochia",
+"plural": "xenodochiae"
+}
+
+'xenodochium' ==================================
+
+  {
+"word": "xenodochium",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A house or inn providing lodging for travelers.",
+"singular": "xenodochium",
+"plural": "xenodochia"
+}
+
+'xenodochy' ==================================
+
+  {
+"word": "xenodochy",
+"part_of_speech": "noun",
+"origin_language": "Greek",
+"definition": "The practice of receiving and entertaining strangers or foreigners.",
+"singular": "xenodochy",
+"plural": "xenodochies"
+}
+
+'xenogamies' ==================================
+
+  {
+"word": "xenogamies",
+"part_of_speech": "noun",
+"definition": "The practice of interbreeding between individuals or populations of different species.",
+"origin_language": "English"
+}
+
+'xenogamous' ==================================
+
+  {
+"word": "xenogamous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or involving cross-species fertilization, especially in plants."
+}
+
+'xenogamy' ==================================
+
+  {
+"word": "xenogamy",
+"part_of_speech": "noun",
+"definition": "The practice of cultivating plants or animals from other regions or countries.",
+"origin_language": "Greek"
+}
+
+'xenogeneic' ==================================
+
+  {
+"word": "xenogeneic",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Related to or involving the transfer of genes between species."
+}
+
+'xenogenesis' ==================================
+
+  {
+"word": "xenogenesis",
+"part_of_speech": "noun",
+"definition": "The process by which organisms develop outside their own species or kind.",
+"origin_language": "English"
+}
+
+'xenogenetic' ==================================
+
+  {
+"word": "xenogenetic",
+"part_of_speech": "noun",
+"definition": "Relating to the development of organisms by means other than their own bodies, especially through the introduction of foreign genetic material.",
+"language_origin": "English"
+}
+
+'xenogenic' ==================================
+
+  {
+"word": "xenogenic",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Related to or produced in organisms other than those of the same species, especially microorganisms grown in artificial media."
+}
+
+'xenogenies' ==================================
+
+  {
+"word": "xenogenies",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "The production of living organisms in an artificial environment, especially in a laboratory."
+}
+
+'xenogenous' ==================================
+
+  {
+"word": "xenogenous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Originating in or produced by organisms of different species, especially microorganisms grown in a laboratory for medical research."
+}
+
+'xenogeny' ==================================
+
+  {
+"word": "xenogeny",
+"part_of_speech": "noun",
+"definition": "The process or practice of producing living organisms in a laboratory through techniques such as cell fusion, hybridization, or genetic engineering.",
+"origin_language": "English"
+}
+
+'xenoglossia' ==================================
+
+  {
+"word": "xenoglossia",
+"part_of_speech": "noun",
+"definition": "The ability to speak or understand a language that one has not learned naturally, often attributed to supernatural or exotic sources.",
+"origin_language": "Greek"
+}
+
+'xenograft' ==================================
+
+  {
+"word": "xenograft",
+"part_of_speech": "noun",
+"definition": "A surgical procedure in which tissue or an organ from one species is grafted onto another species.",
+"language_origin": "Medical English"
+}
+
+'xenografts' ==================================
+
+  {
+"word": "xenografts",
+"part_of_speech": "noun",
+"definition": "A xenograft is a graft (transplantation of cells, tissues, or organs) derived from a donor of another species.",
+"language_origin": "Medical English"
+}
+
+'xenolite' ==================================
+
+  {
+"word": "xenolite",
+"part_of_speech": "noun",
+"language_origin": "Geology",
+"definition": "A mineral or rock formed in or brought from another planet or meteorite.",
+"singular": "xenolite",
+"plural": "xenolites"
+}
+
+'xenolith' ==================================
+
+  {
+"word": "xenolith",
+"part_of_speech": "noun",
+"definition": "A piece of country rock that is enclosed within a volcanic or sedimentary rock.",
+"language_origin": "English"
+}
+
+'xenolithic' ==================================
+
+  {
+"word": "xenolithic",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Relating to or containing foreign objects or inclusions in a rock."
+}
+
+'xenoliths' ==================================
+
+  {
+"word": "xenoliths",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A piece of country rock that has been enclosed within a volcanic or sedimentary rock.",
+"plural": "xenoliths (mass noun) or xenolites (countable noun)"
+}
+
+'xenomania' ==================================
+
+  {
+"word": "xenomania",
+"part_of_speech": "noun",
+"definition": "An excessive interest in or fascination with things foreign or alien.",
+"language_origin": "Greek",
+"etymology": "From xenos (guest, stranger) + mania (madness)"
+}
+
+'xenomaniac' ==================================
+
+  {
+"word": "xenomaniac",
+"part_of_speech": "noun",
+"definition": "A person who collects or studies objects from other countries or cultures.",
+"language_origin": "English"
+}
+
+'xenomorphic' ==================================
+
+  {
+"word": "xenomorphic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Having the form of a creature from another world or dimension, especially one that is alien or monstrous."
+}
+
+'xenomorphically' ==================================
+
+  {
+"word": "xenomorphically",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Having the form or character of the xenomorph alien species, as in the Alien film franchise."
+}
+
+'xenomorphosis' ==================================
+
+  {
+"word": "xenomorphosis",
+"part_of_speech": "noun",
+"definition": "A process of transformation into a xenomorph, a creature from the Alien film franchise.",
+"language_origin": "English, derived from Greek 'xenos' (stranger) and 'morphē' (form)"
+}
+
+'xenon' ==================================
+
+  {
+"word": "xenon",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A colorless, odorless, heavy noble gas that is the least dense of all the elements and is chemically inert under standard conditions.",
+"singular": "xenon",
+"plural": ""
+}
+
+'xenons' ==================================
+
+  {
+"word": "xenon",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A colorless, odorless, inert noble gas that is the liquid at room temperature and is chemically similar to neon and argon.",
+"singular": "xenon",
+"plural": ""
+}
+
+'xenoparasite' ==================================
+
+  {
+"word": "xenoparasite",
+"part_of_speech": "noun",
+"definition": "An organism that lives in or on another organism (its host) and obtains its food from it.",
+"language_origin": "English",
+"singular": "xenoparasite",
+"plural": "xenoparasites"
+}
+
+'xenoparasitism' ==================================
+
+  {
+"word": "xenoparasitism",
+"part_of_speech": "noun",
+"definition": "The existence, multiplication, development, and survival of one organism (the parasite) in or on another organism (the host), which is of different species.",
+"language_origin": "Greek",
+"etymology": "{xeno-} foreign + {para-} near + {-itis} inflammation or condition"
+}
+
+'xenopeltid' ==================================
+
+  {
+"word": "xenopeltid",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A member of the Xenopeltidae family of snakes, characterized by their unique body scales."
+}
+
+'xenophile' ==================================
+
+  {
+"word": "xenophile",
+"part_of_speech": "noun",
+"definition": "A person who loves or is fascinated by people, cultures, and ideas from foreign countries.",
+"language_origin": "Greek",
+"etymology": "From the Greek word 'xenos' meaning stranger or guest, and 'philos' meaning lover."
+}
+
+'xenophiles' ==================================
+
+  {
+"word": "xenophiles",
+"part_of_speech": "noun",
+"definition": "People who are enthusiastic about cultures and ideas different from their own.",
+"language_origin": "Greek",
+"etymology": "From the Greek word 'xenos' meaning stranger or guest, and 'philos' meaning lover."
+}
+
+'xenophilism' ==================================
+
+  {
+"word": "xenophilism",
+"part_of_speech": "noun",
+"definition": "The love or appreciation of people, cultures, and ideas from other countries.",
+"language_origin": "Greek",
+"singular": "xenophilism",
+"plural": "xenophilisms (rare) or xenophile attitudes/xenophilic people (common)"
+}
+
+'xenophilous' ==================================
+
+  {
+"word": "xenophilous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Expressing fondness for or appreciation of that which is foreign or alien.",
+"singular": "xenophilous",
+"plural": "xenophilous beings/people"
+}
+
+'xenophobe' ==================================
+
+  {
+"word": "xenophobe",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "A person who fears or hates people from other countries or cultures."
+}
+
+'xenophobes' ==================================
+
+  {
+"word": "xenophobes",
+"part_of_speech": "noun",
+"definition": "People who fear or hate foreigners or strangers.",
+"language_origin": "Greek",
+"etymology": "From the Greek word 'xenos' meaning stranger or guest, and 'phobos' meaning fear."
+}
+
+'xenophobia' ==================================
+
+  {
+"word": "xenophobia",
+"part_of_speech": "noun",
+"definition": "fear or hatred of foreigners, or people from different cultures or ethnic backgrounds.",
+"language_origin": "Greek",
+"singular": "xenophobia",
+"plural": "xenophobias"
+}
+
+'xenophobian' ==================================
+
+  {
+"word": "xenophobian",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": {
+"meaning": "Fear or hatred of foreigners, strangers, or peoples different from one's own.",
+"etymology": "From the Greek words xenos (guest, stranger) and phobos (fear)."
+}
+}
+
+'xenophobias' ==================================
+
+  {
+"word": "xenophobia",
+"part_of_speech": "noun",
+"definition": "fear or hatred of foreigners, or people from different cultures or ethnic backgrounds.",
+"language_origin": "Greek"
+}
+
+'xenophobic' ==================================
+
+  {
+"word": "xenophobic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Fear or hatred of foreigners, strangers, or peoples different from one's own."
+}
+
+'xenophobically' ==================================
+
+  {
+"word": "xenophobically",
+"part_of_speech": "adverb",
+"language_origin": "English",
+"definition": "In a fearful or hostile way toward people, cultures, or ideas that are perceived to be different from one's own."
+}
+
+'xenophobism' ==================================
+
+  {
+"word": "xenophobia",
+"part_of_speech": "noun",
+"definition": "fear or hatred of foreigners, or people from different cultures or ethnic backgrounds.",
+"language_origin": "Greek",
+"singular": "xenophobia",
+"plural": "xenophobias"
+}
+
+'xenophoby' ==================================
+
+  {
+"word": "xenophobia",
+"part_of_speech": "noun",
+"definition": "fear or hatred of foreigners, or of that which is strange or unusual",
+"language_origin": "Greek"
+}
+
+'xenophoran' ==================================
+
+  {
+"word": "xenophoran",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of animal belonging to the phylum Xenacoelomata, characterized by having a body plan with an anterior-posterior axis and a distinct head region.",
+"singular": "xenophoran",
+"plural": "xenophorans"
+}
+
+'xenophthalmia' ==================================
+
+  {
+"word": "xenophthalmia",
+"part_of_speech": "noun",
+"definition": "A condition characterized by an abnormal enlargement of the eyes, often seen in certain animals or in humans exposed to certain toxins.",
+"language_origin": "Medical English"
+}
+
+'xenophya' ==================================
+
+  {
+"word": "xenophya",
+"part_of_speech": "Noun",
+"language_origin": "Unknown",
+"definition": "A term with an unclear or disputed meaning in linguistics, often used to describe a word or concept that is not easily classifiable."
+}
+
+'xenoplastic' ==================================
+
+  {
+"word": "xenoplastic",
+"part_of_speech": "noun",
+"definition": "Relating to or being foreign substances or materials incorporated into the tissues of an organism.",
+"language_origin": "English"
+}
+
+'xenopodid' ==================================
+
+  {
+"word": "xenopodid",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "A group of crustaceans belonging to the order Xenocarida, characterized by their long, slender tails.",
+"singular": "xenopodid",
+"plural": "xenopodids"
+}
+
+'xenopodoid' ==================================
+
+  {
+"word": "xenopodoid",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "Belonging to or resembling the Xenopoda, an order of crustaceans characterized by a long, slender body and a pair of large, paddle-like swimming limbs."
+}
+
+'xenopteran' ==================================
+
+  {
+"word": "xenopteran",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A type of bird with white feathers and black markings, specifically a member of the Ibis family.",
+"singular": "xenopteran",
+"plural": "xenopterans"
+}
+
+'xenopterygian' ==================================
+
+  {
+"word": "xenopterygian",
+"part_of_speech": "noun",
+"origin_language": "Latin",
+"definition": "Relating to or having wings covered with scales or membranes of a different color from the rest of the wing.",
+"singular": "xenopterygian",
+"plural": "xenopterygians"
+}
+
+'xenosaurid' ==================================
+
+  {
+"word": "xenosaurid",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A type of prehistoric reptile, characterized by certain physical features such as elongated snouts and hip bones that faced backward.",
+"singular": "xenosaurid",
+"plural": "xenosaurids"
+}
+
+'xenosauroid' ==================================
+
+  {
+"word": "xenosauroid",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "A group of extinct archosaurian reptiles, characterized by their sauropod-like body and aerial sails on their backs.",
+"singular": "xenosauroid",
+"plural": "xenosauroids"
+}
+
+'xenotime' ==================================
+
+  {
+"word": "xenotime",
+"part_of_speech": "noun",
+"language_origin": "Geology",
+"definition": "A mineral composed of calcium aluminium silicate hydroxide, with the formula CaAl2(SiO4)2(OH), and is a member of the zeolite group.",
+"singular": "xenotime",
+"plural": "xenotimes"
+}
+
+'xenotropic' ==================================
+
+  {
+"word": "xenotropic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Having the ability to recognize and respond to foreign or non-self elements, especially in the context of immune system response."
+}
+
+'xenyl' ==================================
+
+  {
+"word": "xenyl",
+"part_of_speech": "Unknown",
+"language_origin": "Unspecified",
+"definition": ""
+}
+
+To provide a definition or part of speech for the word "xenyl," more information is needed such as the specific language it comes from and its context in a sentence. If it is a known word, please provide that information first. If it's a new term, it might be a technical term specific to a certain field, in which case more context would be helpful.
+
+For example, if "xenyl" is a chemical term:
+{
+"word": "xenyl",
+"part_of_speech": "Noun",
+"language_origin": "English (Chemistry)",
+"definition": "A hydrocarbon radical derived from xylenes."
+}
+
+Or, if it's a verb:
+{
+"word": "xenyl",
+"part_of_speech": "Verb",
+"language_origin": "English (Chemistry)",
+"definition": "To add a xenyl group to a molecule.",
+"infinitive": "to xenyl",
+"conjugations": ["I xenyl, you xenyl, he/she/it xenyls, we xenyl, they xenyl"]
+}
+
+Or, if it's a noun:
+{
+"word": "xenyl",
+"part_of_speech": "Noun",
+"language_origin": "English (Chemistry)",
+"definition": "A hydrocarbon radical derived from xylenes.",
+"singular": "xenyl",
+"plural": "xenyls"
+}
+
+'xenylamine' ==================================
+
+  {
+"word": "xenylamine",
+"part_of_speech": "noun",
+"language_origin": "Chemistry (English)",
+"singular": "xenylamine",
+"plural": "[not applicable for nouns in English]"
+}
+
+'xer-' ==================================
+
+  {
+"word": "xer",
+"part_of_speech": "Unknown",
+"language": "Unspecified",
+"definition": {}
+}
+
+To provide a definition or conjugation for the word "xer," more information is required such as the specific language and its part of speech.
+
+'xerafin' ==================================
+
+  {
+"word": "xerafin",
+"part_of_speech": "Unknown",
+"language": "Unidentified",
+"definition": {}
+}
+
+To provide a definition or conjugation for the word "xerafin," more information is needed, such as the specific human language it comes from and its grammatical role in that language.
+
+'xeransis' ==================================
+
+  {
+"word": "xeransis",
+"part_of_speech": "Unknown",
+"language": "Greek (ancient)",
+"definition": ""}
+
+This word is of ancient Greek origin, but there is no clear information available about its part of speech or meaning. Therefore, the definition field remains empty. If more context or information becomes available, this section can be updated accordingly.
+
+For a valid input, please provide a well-defined word from a modern human language along with its required part of speech and definition.
+
+'xerantic' ==================================
+
+  {
+"word": "xerantic",
+"part_of_speech": "Unknown",
+"language_origin": "Unkown",
+"definition": ""
+}
+
+This word is not recognized in standard English or any other major human language. Therefore, it cannot be classified as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Its definition and inflection forms are also unknown.
+
+'xeraphin' ==================================
+
+  {
+"word": "xeraphin",
+"part_of_speech": "Unknown",
+"language_origin": "Unidentified",
+"definition": {}}
+
+To provide a definition or conjugation for the word "xeraphin," more information is needed, such as the language it comes from and its grammatical role in that language.
+
+'xerarch' ==================================
+
+  {
+"word": "xerarch",
+"part_of_speech": "Unknown",
+"language": "Unknown",
+"definition": ""
+}
+
+To provide a definition or inflection for the word "xerarch," more information is needed, such as the specific language it comes from and its role in that language (noun, verb, etc.). Without this information, it's impossible to accurately define or inflect the word.
+
+'xerasia' ==================================
+
+  {
+"word": "xerasia",
+"language": "Greek",
+"part_of_speech": "noun",
+"singular": "ξεράσια",
+"plural": "ξεράσιατα",
+"definition": "A light, dry wind from the north or northeast in Greece."
+}
+
+'xeric' ==================================
+
+  {
+"word": "xeric",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or living in dry places; arid."
+}
+
+'xerically' ==================================
+
+  {
+"word": "xerically",
+"part_of_speech": "adverb",
+"language_origin": "Greek",
+"definition": "In a dry or arid manner; pertaining to xerosis (drying up)"
+}
+
+Please note that "xerically" is not an independent word in English, but rather an adverb modifying other words. It does not have infinitive form, conjugations, singular or plural forms as it is not a verb, noun, pronoun, preposition, conjunction, or interjection by itself.
+
+'xeriff' ==================================
+
+  {
+"word": "xeriff",
+"meaning": {"category": "Unknown"},
+"part_of_speech": {"tag": "Unknown"},
+"origin_language": "English (unknown dialect)"}
+
+'xero-' ==================================
+
+  {
+"word": "xero-",
+"part_of_speech": "prefix",
+"language_origin": "Greek",
+"definition": "relating to or having the properties of xero- (zero)"
+}
+
+'xerocline' ==================================
+
+  {
+"word": "xerocline",
+"part_of_speech": "unknown",
+"origin_language": "Greek",
+"definition": {
+"meaning": "[Botany] A plant that is adapted to survive in dry conditions by having small leaves or no leaves at all and storing water in its stem."
+}
+}
+
+Note: The given word "xerocline" does not have a known usage as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection in English or any other common human language. It is derived from the Greek word ξερόκλινος (xeroklinos), which means "dry-lying" or "drought-resistant".
+
+'xeroderma' ==================================
+
+  {
+"word": "xeroderma",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A group of genetic disorders characterized by hypersensitivity to sunlight and premature aging of the skin.",
+"singular": "xeroderma",
+"plural": "xerodermas"
+}
+
+'xerodermatic' ==================================
+
+  {
+"word": "xerodermic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or caused by exposure to sunlight, especially in relation to the drying and wrinkling of skin."
+}
+
+'xerodermatous' ==================================
+
+  {
+"word": "xerodermatous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or affected by xeroderma, a condition characterized by hypersensitivity to sunlight and resulting in premature aging and pigmentation of the skin."
+}
+
+'xerodermia' ==================================
+
+  {
+"word": "xeroderma",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A group of rare genetic disorders characterized by extreme sensitivity to sunlight.",
+"singular": "xeroderma",
+"plural": "xerodermas"
+}
+
+'xerodermic' ==================================
+
+  {
+"word": "xerodermic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or caused by exposure to sunlight, especially in relation to plant or skin aging.",
+"singular": "xerodermic",
+"plural": "xerodermic (rare)"
+}
+
+'xerogel' ==================================
+
+  {
+"word": "xerogel",
+"part_of_speech": "noun",
+"language_origin": "Scientific Latin",
+"definition": "A type of hydrogel obtained from the polymerization of certain photochemical monomers in the presence of a solvent.",
+"singular": "xerogel",
+"plural": "xerogels"
+}
+
+'xerographer' ==================================
+
+  {
+"word": "xerographer",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A person who operates a photocopier or makes copies using a xerographic process.",
+"singular": "xerographer",
+"plural": "xerographers"
+}
+
+'xerographic' ==================================
+
+  {
+"word": "xerographic",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Relating to or produced by xerography (a method of making copies, especially of documents, using a dry process)"
+}
+
+'xerographically' ==================================
+
+  {
+"word": "xerographically",
+"part_of_speech": "adverb",
+"language_origin": "English",
+"definition": "Relating to or done using a xerographic process, especially in making copies."
+}
+
+'xerographies' ==================================
+
+  {
+"word": "xerographies",
+"part_of_speech": "noun",
+"definition": "Plural form of xerography, which is the process of making copies of documents using a xerographic copier.",
+"language_origin": "English"
+}
+
+'xerography' ==================================
+
+  {
+"word": "xerography",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "The process of making copies of documents using an electrically charged drum coated with a light-sensitive material and dry powdered toner."
+}
+
+'xeroma' ==================================
+
+  {
+"word": "xeroma",
+"part_of_speech": "unknown",
+"language_origin": "Greek",
+"definition": ""}
+
+This word is of Greek origin, but without additional context it is impossible to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, no definition can be provided until the part of speech is determined.
+
+'xeromata' ==================================
+
+  {
+"word": "xeromata",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Plural form of xeroma, meaning a sebaceous or waxy growth.",
+"singular_form": "xeroma"
+}
+
+'xeromenia' ==================================
+
+  {
+"word": "xeromenia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"singular": "xeromenia",
+"plural": "[not provided in Greek grammar, but it can be assumed to have a plural form derived from the singular by adding -eis or -as]"
+}
+
+'xeromorph' ==================================
+
+  {
+"word": "xeromorph",
+"part_of_speech": "Unknown",
+"language_origin": "Unknown",
+"definition": {}}
+
+To provide an accurate definition for the word "xeromorph," more context is needed, such as the specific language or field of study it comes from. The given information does not allow me to determine if it is a noun, verb, adjective, etc., or even what language it belongs to. If you can provide additional context, please let me know and I will be happy to help with the definition in JSON format.
+
+'xeromorphic' ==================================
+
+  {
+"word": "xeromorphic",
+"part_of_speech": "none",
+"definition": "Having the appearance or character of xeromorphs, organisms that are able to survive in extremely dry conditions.",
+"language_origin": "Greek",
+"derivation": "[xero-] (dry) + [morph-] (form)"
+}
+
+'xeromorphous' ==================================
+
+  {
+"word": "xeromorphous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Resembling or resembling xeromorphs, organisms that are able to survive in extremely dry conditions by undergoing a state of desiccation and reviving when water is available."
+}
+
+This word does not have any known infinitive form, conjugations, singular or plural forms as it is an adjective describing a quality.
+
+'xeromorphy' ==================================
+
+  {
+"word": "xeromorphy",
+"part_of_speech": "noun",
+"definition": "The ability of certain organisms to survive and reproduce by absorbing water directly from their environment, without the need for soil.",
+"language_origin": "English",
+"singular": "xeromorphism",
+"plural": "xeromorphies"
+}
+
+'xeromyron' ==================================
+
+  {
+"word": "xeromyron",
+"part_of_speech": "unknown",
+"language_origin": "Greek",
+"definition": ""
+}
+
+To provide a definition or conjugation for the word "xeromyron," more context is needed. It appears to be a Greek term, but its part of speech and meaning are unknown without additional information.
+
+'xeromyrum' ==================================
+
+  {
+"word": "xeromyrum",
+"part_of_speech": "Unknown",
+"language": "Unidentified",
+"definition": ""
+}
+
+To provide a definition or conjugation for the word "xeromyrum," more information is needed, such as the language it comes from and its grammatical role in that language.
+
+'xeronate' ==================================
+
+  {
+"word": "xeronate",
+"part_of_speech": "Unknown",
+"language_origin": "Greek (ancient)",
+"definition": ""}
+
+To provide an accurate definition and part of speech for the word "xeronate," more context is needed. The given information does not allow me to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, without further information, I cannot provide the infinitive form or conjugations for a verb, singular and plural forms for a noun, or any other specific information.
+
+'xeronic' ==================================
+
+  {
+"word": "xeronic",
+"part_of_speech": "Unknown",
+"language_origin": "Unkown",
+"definition": ""
+}
+
+The word "xeronic" is not a standard word in any human language that I am aware of. It does not have a part of speech, definition, or known infinitive form or conjugations. It may be a typo or an unfamiliar term specific to a certain field or industry. Further research would be needed to determine its meaning and linguistic properties.
+
+'xerophagia' ==================================
+
+  {
+"word": "xerophagia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition in which an organism is able to survive by deriving water and nutrients from dry, withered plant material or other non-liquid food sources."
+}
+
+'xerophagies' ==================================
+
+  {
+"word": "xerophagie",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition in which an organism is able to survive by deriving nutrients from dry, withered plant material or other extremely dry sources.",
+"singular": "xerophagie",
+"plural": "xerophagies"
+}
+
+'xerophagy' ==================================
+
+  {
+"word": "xerophagy",
+"part_of_speech": "noun",
+"definition": "A type of metabolism in which an organism obtains nutrients from dry or desert-like environments, often by absorbing water directly from the food.",
+"language_origin": "Greek",
+"singular": "xerophagy",
+"plural": "xerophagies"
+}
+
+'xerophil' ==================================
+
+  {
+"word": "xerophil",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A plant or organism that is able to survive in extremely dry conditions.",
+"singular": "xerophyte",
+"plural": "xerophytes"
+}
+
+'xerophile' ==================================
+
+  {
+"word": "xerophile",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "An organism that can survive in extremely dry conditions.",
+"singular": "xerophile",
+"plural": "xerophiles"
+}
+
+'xerophilies' ==================================
+
+  {
+"word": "xerophilies",
+"part_of_speech": "noun",
+"definition": "The ability of an organism to survive in a dry environment.",
+"origin_language": "Greek"
+}
+
+'xerophilous' ==================================
+
+  {
+"word": "xerophilous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Adapted to living in dry conditions; drought-resistant."
+}
+
+'xerophily' ==================================
+
+  {
+"word": "xerophily",
+"part_of_speech": "noun",
+"definition": "The ability of organisms to survive in extremely dry conditions.",
+"origin_language": "Greek"
+}
+
+'xerophobous' ==================================
+
+  {
+"word": "xerophobous",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Fearful of dry places or things.",
+"singular": "xerophobous",
+"plural": "xerophobous beings/creatures"
+}
+
+'xerophthalmia' ==================================
+
+  {
+"word": "xerophthalmia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of eye damage resulting from vitamin A deficiency, characterized by dryness of the eyes and night blindness.",
+"singular": "xerophthalmia",
+"plural": "xerophthalmias"
+}
+
+'xerophthalmias' ==================================
+
+  {
+"word": "xerophthalmia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of eye disease characterized by dryness of the eyes and cornea, often leading to blindness.",
+"singular": "xerophthalmia",
+"plural": "xerophthalmias"
+}
+
+'xerophthalmic' ==================================
+
+  {
+"word": "xerophthalmic",
+"part_of_speech": "adjective",
+"language_origin": "Medical English",
+"definition": "Relating to or affected by xerophthalmia (a condition of the eyes characterized by dryness and ulceration, especially due to vitamin A deficiency)"
+}
+
+'xerophthalmos' ==================================
+
+  {
+"word": "xerophthalmos",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition of the eyes characterized by dryness and atrophy of the conjunctiva and cornea.",
+"singular": "xerophthalmos",
+"plural": "xerophthalmoses"
+}
+
+'xerophthalmy' ==================================
+
+  {
+"word": "xerophthalmy",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition of the eyes characterized by dryness and atrophy of the conjunctiva and cornea.",
+"singular": "xerophthalmy",
+"plural": "xerophthalmies"
+}
+
+'xerophyte' ==================================
+
+  {
+"word": "xerophyte",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A plant that is able to survive in extremely dry conditions by having adaptations such as small leaves, succulent stems, or deep roots.",
+"singular": "xerophyte",
+"plural": "xerophytes"
+}
+
+'xerophytes' ==================================
+
+  {
+"word": "xerophytes",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Plants that are adapted to survive in dry conditions.",
+"singular": "xerophyte",
+"plural": "xerophytes"
+}
+
+'xerophytic' ==================================
+
+  {
+"word": "xerophytic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Able to withstand dry conditions; drought-resistant."
+}
+
+'xerophytically' ==================================
+
+  {
+"word": "xerophytically",
+"part_of_speech": "adverb",
+"language_origin": "Greek",
+"definition": "Adapted to survive in extremely dry conditions; drought-resistant."
+}
+
+'xerophytism' ==================================
+
+  {
+"word": "xerophytism",
+"part_of_speech": "noun",
+"definition": "The ability of plants to survive in extremely dry conditions.",
+"origin_language": "Greek"
+}
+
+'xerophytisms' ==================================
+
+  {
+"word": "xerophytisms",
+"part_of_speech": "noun",
+"definition": "The quality or characteristic of being xerophytic.",
+"origin_language": "Science"
+}
+
+'xeroprinting' ==================================
+
+  {
+"word": "xeroprinting",
+"part_of_speech": "verb",
+"definition": "The process of making a copy of an original document using xerography, which is a dry printing process.",
+"language_origin": "English",
+"infinitive_form": "xerox or xerograph",
+"conjugations": {
+"present_simple": "xeroxes or xerographs",
+"present_continuous": "xeroxing or xerographing",
+"past_simple": "xeroxed or xerographed",
+"past_continuous": "had been xeroxing or had been xerographing",
+"past_perfect": "have xeroxed or have xerographed",
+"present_perfect": "have xeroxed or have xerographed",
+"future_simple": "will xerox or will xerograph",
+"future_continuous": "will be xeroxing or will be xerographing"
+}
+}
+
+'xeroradiographies' ==================================
+
+  {
+"word": "xeroradiographies",
+"part_of_speech": "noun",
+"definition": "The plural form of xeroradiography, which is the medical imaging technique that uses x-rays to produce detailed images of organs, bones, and other internal structures on a radiographic film.",
+"language_origin": "English"
+}
+
+'xeroradiography' ==================================
+
+  {
+"word": "xeroradiography",
+"part_of_speech": "noun",
+"definition": "The process of producing an image of an object by passing it through X-rays and registering the transmitted or reflected radiation on a sensitive medium.",
+"language_origin": "English"
+}
+
+'xerosere' ==================================
+
+  {
+"word": "xerosere",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A type of secondary succession in which a xerophytic vegetation colonizes an area that has been exposed to desiccation, such as a dried-up riverbed or a salt pan.",
+"singular": "xerosere",
+"plural": "xeroseres"
+}
+
+'xeroseres' ==================================
+
+  {
+"word": "xeroseres",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A dry, arid place or landscape.",
+"singular": "xeroseres",
+"plural": "xeroseres (informal) or xerosera (formal)"
+}
+
+'xeroses' ==================================
+
+  {
+"word": "xeroses",
+"part_of_speech": "Unknown",
+"language": "English (or possibly other languages with similar roots)",
+"definition": {}}
+
+To provide a definition or conjugation for the word "xeroses," more context is needed. The term appears to be of Greek origin, and it could potentially mean "dryness" as a noun or an abstract concept related to drying as a verb. However, without further information, it's impossible to definitively classify its part of speech or provide a definition or conjugation.
+
+Here are some possible definitions based on the context:
+
+1. Noun (dryness): A state of being dry or lacking moisture.
+2. Verb (to dry or make dry): To remove moisture from something, making it dry.
+
+If "xeroses" is a verb, its infinitive form would be "to xeroses," and the following conjugations could be possible:
+
+1. Present simple: xeroses
+2. Present continuous: xerosing
+3. Past simple: xerosed
+4. Past participle: xerosed
+5. Present perfect: have xerosed / has xerosed / had xerosed
+6. Present perfect continuous: have been xerosing / has been xerosing / had been xerosing
+7. Past perfect: had xerosed
+8. Past perfect continuous: had been xerosing
+9. Future simple: will xeroses / shall xeroses / going to xeroses
+10. Future continuous: will be xerosing / shall be xerosing / going to be xerosing
+11. Future perfect: will have xerosed / shall have xerosed / going to have xerosed
+12. Future perfect continuous: will have been xerosing / shall have been xerosing / going to have been xerosing
+
+If "xeroses" is a noun, its singular form would be "xerosis," and the plural form could be "xeroses" or "xeroses." However, without further context, it's impossible to determine the exact plural form.
+
+'xerosis' ==================================
+
+  {
+"word": "xerosis",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Dryness or abnormal loss of moisture in the skin.",
+"singular": "xerosis",
+"plural": "xeroses"
+}
+
+'xerostoma' ==================================
+
+  {
+"word": "xerostoma",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Dry mouth, a medical condition characterized by decreased saliva flow.",
+"singular": "xerostomia",
+"plural": "xerostomias"
+}
+
+'xerostomia' ==================================
+
+  {
+"word": "xerostomia",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "Dryness of the mouth due to decreased saliva flow.",
+"singular": "xerostomia",
+"plural": "xerostomias"
+}
+
+'xerotes' ==================================
+
+  {
+"word": "xerotes",
+"language": "Greek",
+"part_of_speech": "noun",
+"singular": "xerotes",
+"plural": "xerota"
+}
+
+This word is a Greek noun, with singular form "xerotes" and plural form "xerota". There is no need to provide infinitive forms or conjugations for this word as it is not a verb.
+
+'xerotherm' ==================================
+
+  {
+"word": "xerotherm",
+"part_of_speech": "noun",
+"definition": "An organism that can survive in a dry environment.",
+"language_origin": "Greek",
+"derivation": "[xero-] (dry) + [-therm] (heat)"
+}
+
+'xerothermic' ==================================
+
+  {
+"word": "xerothermic",
+"part_of_speech": "adjective",
+"language_origin": "Greek",
+"definition": "Relating to or maintaining a constant temperature in an environment without the need for heating or cooling."
+}
+
+'xerotic' ==================================
+
+  {
+"word": "xerotic",
+"part_of_speech": "None",
+"definition": "There is no known meaning or usage for the word 'xerotic' in any human language.",
+"origin_language": "Unknown"
+}
+
+'xerotocia' ==================================
+
+  {
+"word": "xerotocia",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition characterized by excessive dryness of the skin, mucous membranes, or both, due to deficient secretion of moisture from the glands."
+}
+
+'xerotripsis' ==================================
+
+  {
+"word": "xerotripsis",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "A condition of excessive dryness in an organ or tissue, especially in the lungs.",
+"singular": "xerotripsis",
+"plural": "[not applicable for a singular noun]"
+}
+
+'xerox' ==================================
+
+  {
+"word": "xerox",
+"part_of_speech": "verb",
+"language_origin": "English",
+"infinitive": "xerox",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "xerox"},
+{"person": "second", "tense": "present", "form": "you xerox"},
+{"person": "third", "tense": "present", "form": "he/she/it xeroxes"},
+{"person": "first", "tense": "past", "form": "I xeroxed"},
+{"person": "second", "tense": "past", "form": "you xeroxed"},
+{"person": "third", "tense": "past", "form": "he/she/it xeroxed"},
+{"person": "first", "tense": "present perfect", "form": "I have xeroxed"},
+{"person": "second", "tense": "present perfect", "form": "you have xeroxed"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has xeroxed"},
+{"person": "first", "tense": "past perfect", "form": "I had xeroxed"},
+{"person": "second", "tense": "past perfect", "form": "you had xeroxed"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had xeroxed"},
+{"person": "first", "tense": "present continuous", "form": "I am xeroxing"},
+{"person": "second", "tense": "present continuous", "form": "you are xeroxing"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is xeroxing"},
+{"person": "first", "tense": "past continuous", "form": "I was xeroxing"},
+{"person": "second", "tense": "past continuous", "form": "you were xeroxing"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it was xeroxing"}
+]
+}
+
+Note: Xerox is a trademark for making copies of documents using a photocopier. It can be used as a verb meaning to make a copy of (something) by using a photocopier.
+
+'xeroxed' ==================================
+
+  {
+"word": "xeroxed",
+"part_of_speech": "verb",
+"language": "English",
+"infinitive": "to xerox",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "xerox I"},
+{"person": "second", "tense": "present", "form": "xerox you"},
+{"person": "third", "tense": "present", "form": "xeroxs or xeroxes"},
+{"person": "first", "tense": "past", "form": "xeroxed"},
+{"person": "second", "tense": "past", "form": "xeroxed you"},
+{"person": "third", "tense": "past", "form": "xeroxed it or xeroxed them"},
+{"person": "first", "tense": "present perfect", "form": "have xeroxed"},
+{"person": "second", "tense": "present perfect", "form": "have xeroxed you"},
+{"person": "third", "tense": "present perfect", "form": "have xeroxed it or have xeroxed them"},
+{"person": "first", "tense": "past perfect", "form": "had xeroxed"},
+{"person": "second", "tense": "past perfect", "form": "had xeroxed you"},
+{"person": "third", "tense": "past perfect", "form": "had xeroxed it or had xeroxed them"},
+{"person": "first", "tense": "present continuous", "form": "am xeroxing or Xeroxing"},
+{"person": "second", "tense": "present continuous", "form": "are xeroxing or Xeroxing you"},
+{"person": "third", "tense": "present continuous", "form": "is xeroxing or Xeroxes"},
+{"person": "first", "tense": "past continuous", "form": "had been xeroxing or had been Xeroxing"},
+{"person": "second", "tense": "past continuous", "form": "had been xeroxing you"},
+{"person": "third", "tense": "past continuous", "form": "had been xeroxing it or had been xeroxing them"}
+]
+}
+
+'xeroxes' ==================================
+
+  {
+"word": "xeroxes",
+"part_of_speech": "noun",
+"definition": "Copies made by a Xerox machine or other photocopier.",
+"language_origin": "English",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "xerox",
+"plural": "xeroxes"
+}
+
+'xeroxing' ==================================
+
+  {
+"word": "xeroxing",
+"part_of_speech": "verb",
+"definition": "Making a copy of something using a xerographic copier.",
+"language_origin": "English",
+"infinitive": "to xerox",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "xerox"},
+{"person": "second", "tense": "present", "form": "you xerox"},
+{"person": "third", "tense": "present", "singular": "he/she/it xeroxes", "plural": "they xerox"},
+{"person": "first", "tense": "past", "singular": "I xeroxed", "plural": "we xeroxed"},
+{"person": "second", "tense": "past", "singular": "you xeroxed", "plural": "you xeroxed"},
+{"person": "third", "tense": "past", "singular": "he/she/it xeroxed", "plural": "they xeroxed"},
+{"person": "first", "tense": "future", "singular": "I will xerox", "plural": "we will xerox"},
+{"person": "second", "tense": "future", "singular": "you will xerox", "plural": "you will xerox"},
+{"person": "third", "tense": "future", "singular": "he/she/it will xerox", "plural": "they will xerox"}
+]
+}
+
+'xerus' ==================================
+
+  {
+"word": "xerus",
+"part_of_speech": "Unknown",
+"language": "Unspecified",
+"definition": ""
+}
+
+To provide a definition or inflection for the word "xerus," more information is needed, such as which language it comes from and what its role in that language is (noun, verb, etc.).
+
+'xeruses' ==================================
+
+  {
+"word": "xeruses",
+"part_of_speech": "Unknown",
+"language": "English (or any other language for which this word exists)",
+"definition": ""}
+
+To provide a definition or conjugation for the word "xeruses," I would need more context, such as the source of the word and its meaning in the given language. If it is an English word, please provide more information so I can assist you accordingly.
+
+'xi' ==================================
+
+  {
+"word": "xi",
+"language": "Mandarin Chinese",
+"part_of_speech": "Unknown",
+"definition": ""
+}
+
+To provide a definition or part of speech for the word "xi" in Mandarin Chinese, more context is needed. It could be a number (十, shí), a particle (кси, xī), or something else entirely depending on the context in which it is used. If you can provide additional information about the sentence or context in which this word appears, I would be happy to help further!
+
+If "xi" turns out to be a verb, its infinitive form and conjugations are not provided here as there are many ways to conjug Chinese verbs depending on the tense, aspect, and other factors. In general, Chinese verbs do not have infinitives or distinct forms for different tenses like English verbs do. Instead, Chinese uses a combination of particles, auxiliary verbs, and context to convey tense and aspect information.
+
+'xi-particle' ==================================
+
+  {
+"word": "xi-particle",
+"part_of_speech": "noun",
+"language_origin": "English (specifically, physics)",
+"singular": "xi-particle",
+"plural": "xi-particles"
+}
+
+'xii' ==================================
+
+  {
+"word": "xii",
+"part_of_speech": "roman numeral",
+"language": "Latin"
+}
+
+This word "xii" is a roman numeral and does not have a specific meaning as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection in any human language. It is used to represent the number twelve.
+
+'xiii' ==================================
+
+  {
+"word": "xiii",
+"part_of_speech": "roman_number",
+"human_language": "Latin"
+}
+
+'xint' ==================================
+
+  {
+"word": "xint",
+"language": "I cannot determine the language of the word 'xint' without additional context.",
+"part_of_speech": "Unknown",
+"definition": ""}
+
+'xiphi-' ==================================
+
+  {
+"word": "xiphi-",
+"part_of_speech": "Unknown",
+"language": "Greek",
+"definition": {}
+}
+
+To provide a definition or conjugation for the word "xiphi-", more context is needed as it is a Greek root that can form different words depending on the suffixes added. For instance, it could be the stem of a verb meaning "to slice" or "to cut", or the stem of a noun meaning "sword" or "fish". Without additional information, it's impossible to determine its exact form and conjugations.
+
+'xiphihumeralis' ==================================
+
+  {
+"word": "xiphihumeralis",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"singular": "xiphihumeralis",
+"plural": "[not provided in Latin]",
+"definition": "Relating to the area between the scapula and the humerus (shoulder blade and upper arm bone)"
+}
+
+'xiphiid' ==================================
+
+  {
+"word": "xiphiid",
+"part_of_speech": "unknown",
+"language_origin": "Greek",
+"definition": ""}
+
+This word is of Greek origin, but without additional context it is impossible to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, no definition can be provided until the part of speech is determined.
+
+'xiphiiform' ==================================
+
+  {
+"word": "xiphiiform",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Shaped like a fish's sword (i.e., long and slender with a pointed tip)",
+"singular": "xiphiiform",
+"plural": "xiphiiforms"
+}
+
+'xiphioid' ==================================
+
+  {
+"word": "xiphioid",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Having the shape of a sword or a dorsal fin resembling a sword, especially in certain fish.",
+"singular": "xiphioid",
+"plural": "xiphioids"
+}
+
+'xiphiplastra' ==================================
+
+  {
+"word": "xiphiplastra",
+"part_of_speech": "Unknown",
+"language_origin": "Greek (ancient)",
+"definition": {}}
+
+To provide a definition or conjugation for the word "xiphiplastra," more information is needed, as this term is not recognized in standard modern Greek or English language. It seems to be an ancient Greek term, possibly related to military or medical contexts, but its exact meaning and usage are unclear without additional context.
+
+'xiphiplastral' ==================================
+
+  {
+"word": "xiphiplastral",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"definition": "Relating to or having the form of a hippopotamus's lower jaw, with two large canine teeth projecting from each side."
+}
+
+This word is a noun in English language and comes from Greek origin. It refers to anything related to or having the shape of a hippopotamus's lower jaw, with two large canine teeth on each side. There are no infinitive forms, conjugations, singular or plural forms for this term as it is not a verb in English.
+
+'xiphiplastron' ==================================
+
+  {
+"word": "xiphiplastron",
+"part_of_speech": "noun",
+"language_origin": "Greek",
+"singular": "xiphiplastron",
+"plural": "[not provided in Greek grammar]"
+}
+
+Note: Xiphiplastron is a bone found in the pectoral girdle of certain animals, including humans. It is not a commonly used word outside of anatomical contexts.
+
+'xiphisterna' ==================================
+
+  {
+"word": "xiphisterna",
+"part_of_speech": "noun",
+"language_origin": "Anatomy, from Greek",
+"singular": "xiphisternum",
+"plural": "[not applicable in English]",
+"definition": "A bony prominence at the junction of the sternum and costal cartilages in humans."
+}
+
+'xiphisternal' ==================================
+
+  {
+"word": "xiphisternal",
+"part_of_speech": "noun",
+"language_origin": "Anatomy, from Greek 'xiphistēr' meaning 'vertebral' or 'relating to the seventh cervical vertebra'",
+"singular": "xiphisternum",
+"plural": "[not applicable for nouns in English]"
+}
+
+'xiphisternum' ==================================
+
+  {
+"word": "xiphisternum",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "The cartilaginous portion of the sixth costal cartilage, forming the anterior extremity of the ribs.",
+"singular": "xiphisternum",
+"plural": ""
+}
