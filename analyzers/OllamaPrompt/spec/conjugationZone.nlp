@@ -1,0 +1,15 @@
+###############################################
+# FILE: conjugationZone
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-17 19:17:14
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _wordZone
+
+@RULES
+_conjugations <-
+	_conjugation					### (1)
+	_xWILD [plus match=(_brackets)]	### (2)
+	@@

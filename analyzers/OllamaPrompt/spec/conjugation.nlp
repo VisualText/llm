@@ -1,18 +1,15 @@
 ###############################################
-# FILE: pos
+# FILE: attrsMain
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2024-6-17 21:17:9
+# CREATED: 2024-6-17 20:35:40
 # MODIFIED:
 ###############################################
 
-@PATH _ROOT _wordZone _LINE
-
-@PRE
-<1,1> vareq("attr","part_of_speech");
+@PATH _ROOT _wordZone _conjugations _brackets
 
 @POST
-S("con") = MakeCountCon(X("con",2),N("val",1));
+AddConjugationAttr(X(2),X(4),N("attr"),N("val"));
 
 @RULES
 _xNIL <-

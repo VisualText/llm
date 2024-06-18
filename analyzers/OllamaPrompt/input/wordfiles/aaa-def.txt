@@ -1,72 +1,125 @@
 
 
-'run' ==================================
+'kaama' ==================================
 
-  The word "run" is primarily a verb in English language. Its infinitive form is "to run." Here are some common conjugations of "run" as a verb:
+  {
+"word": "kaama",
+"language": "Hindi",
+"part_of_speech": "verb",
+"definition": "to desire or long for something",
+"infinitive": "karna",
+"conjugations": [
+{"person": "first singular", "form": "karoon"},
+{"person": "second singular", "form": "kartaa"},
+{"person": "third singular masculine", "form": "karta hai"},
+{"person": "third singular feminine", "form": "karti hai"},
+{"person": "first plural", "form": "karte hain"},
+{"person": "second plural", "form": "kartaao"},
+{"person": "third plural", "form": "karnaa"}
+]
+}
 
-1. I run
-2. You run (singular)
-3. He/She/It runs
-4. We run
-5. They run
-6. Running
-7. Ran
-8. Will run
-9. Would run
-10. Has run
-11. Have run
-12. Had run
-13. Runs (present continuous third person singular)
+'boat' ==================================
 
-As a noun, "run" can refer to a race or a continuous flow of something. Singular: a run; Plural: runs. For example, "I entered the 5k run," or "There are several runs in the river."
+  {
+"word": "boat",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Transportation",
+"singular": "boat",
+"plural": "boats"
+}
 
-'jump' ==================================
+'xanthophyll' ==================================
 
-  The word "jump" is primarily a verb in English language. Its infinitive form is "to jump". Here's a list of some common conjugations of the verb "to jump":
+  {
+"word": "xanthophyll",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Botany",
+"definition": "A class of pigments that give yellow, orange, or red colors to plants.",
+"singular": "xanthophyll",
+"plural": "xanthophylls"
+}
 
-1. I jump / you jump / he jumps / she jumps / it jumps (present simple)
-2. I jumped / you jumped / he jumped / she jumped / they jumped / it jumped (past simple)
-3. I have jumped / you have jumped / he/she/it has jumped (present perfect)
-4. I will jump / you will jump / he/she/it will jump (future simple)
-5. I had jumped / you had jumped / he/she/it had jumped (past perfect)
-6. I would jump / you would jump / he/she/it would jump (conditional)
-7. I should jump / you should jump / he/she/it should jump (modal verbs: obligation)
-8. I could jump / you could jump / he/she/it could jump (modal verb: ability)
+'bamboozeled' ==================================
 
-As for a noun, "jump" can be used as a noun but its meaning is different from the verb form. It refers to a leap or bound made with the feet leaving the ground. The singular form of "jump" as a noun is still "jump", and the plural form is also "jumps". For example, "He made three jumps over the fence."
+  {
+"word": "bamboozled",
+"partOfSpeech": "verb",
+"languageOrigin": "English",
+"rarity": "common",
+"topicArea": "Idiomatic expressions",
+"infinitiveForm": "to bamboozle",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "bamboozle"},
+{"person": "second", "tense": "present", "form": "bamboozles"},
+{"person": "third", "tense": "present", "form": "bamboozles"},
+{"person": "first", "tense": "past", "form": "bamboozled"},
+{"person": "second", "tense": "past", "form": "bamboozled"},
+{"person": "third", "tense": "past", "form": "were bamboozled"},
+{"person": "first", "tense": "present perfect", "form": "have been bamboozled"},
+{"person": "second", "tense": "present perfect", "form": "have been bamboozled"},
+{"person": "third", "tense": "present perfect", "form": "have been bamboozled"},
+{"person": "first", "tense": "past perfect", "form": "had been bamboozled"},
+{"person": "second", "tense": "past perfect", "form": "had been bamboozled"},
+{"person": "third", "tense": "past perfect", "form": "had been bamboozled"}
+]
+}
 
-'been' ==================================
+'judge' ==================================
 
-  The word "been" is a past participle, which can function as an auxiliary verb in the present perfect tense constructions, or it can be used as a past participle in various other tenses and verb forms. For example:
+  {
+"word": "judge",
+"part_of_speech": "noun, verb, adjective",
+"definition": {
+  "noun": "a person who is able to make decisions or give rulings on a matter with authority.",
+  "verb": "to form an opinion about (something or someone) based on evidence and careful consideration."
+},
+"language": "English",
+"topic_area": ["law", "decision making"],
+"rarity": "common"
+}
 
-* As an auxiliary verb in the present perfect tense: I have been to Paris three times. (here, "been" is the third person singular form of the auxiliary verb "have," and it combines with the past participle "gone" to form the present perfect tense)
-* As a past participle in the past perfect tense: They had been studying for hours before the test.
-* As a past participle in the passive voice: The cake has been baked and is now cooling on the counter.
+If "judge" is used as a verb, the infinitive form is "to judge". The conjugations for "judge" as a verb in English are:
 
-Infinitive form of "be": to be
+- I judge / you judge / we judge / they judge
+- I judged / you judged / we judged / they judged
+- I will judge / you will judge / we will judge / they will judge
+- I had judged / you had judged / we had judged / they had judged.
 
-Here are some common conjugations of the auxiliary verb "be" (present tense) + past participle "been" in various tenses:
+'law' ==================================
 
-* Present perfect simple: I have been to Paris three times. You/He/She/It has been to Paris once. We/You/They/They (pl.) have never been to Paris.
-* Present perfect continuous: I have been living in New York for five years. You/He/She/It have been studying for hours.
-* Past perfect simple: He had been working on the project for weeks before he submitted it.
-* Past perfect continuous: They had been arguing for hours when their parents came home.
-* Future perfect simple: By next year, I will have been living in this city for a decade.
-* Future perfect continuous: In five years, they will have been working on the project together for ten years.
+  {
+"word": "law",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Legal",
+"definition": "A rule or collection of rules recognized in a community as regulating the conduct or behavior of its members.",
+"singular": "law",
+"plural": "laws"
+}
 
-'are' ==================================
+'facade' ==================================
 
-  The word "are" can function as both a verb and a contraction. As a verb, "are" is an auxiliary or helping verb used to form the present continuous (progressive) tense and the present indicative of the verb "be." In its infinitive form, it is written as "to be." Here are some examples of conjugations:
+  {
+"word": "facade",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "The front part of a building, typically constructed to be pleasing to look at from the street or other public viewpoint, while the back may be quite different.",
+"rarity": "common",
+"topic_area": ["architecture", "design"]
+}
 
-Present indicative (singular): I am, you are, he/she/it is, we are, they are.
+'touchdown' ==================================
 
-Present indicative (plural): You all are, they are.
-
-Present continuous (progressive): I am being, you are being, he/she/it is being, we are being, they are being.
-
-As a contraction, "are" represents the auxiliary verb "am" or "is" followed by the base form of the linking verb in present tense: "I am," "you are," "he/she/it is," "we are," and "they are."
-
-When used as a noun, "are" can refer to various concepts such as the plural form of "a" or "an" article (as in "the Ares River"), a group or collection of items, or a mathematical set. In this context, it does not have any infinitive form, singular or plural forms are:
-
-Singular: Are
-Plural: Areas, Ares, etc. (depending on the context)
+  {
+"word": "touchdown",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Sports",
+"definition": "A scoring action in American football or Canadian football, achieved when a player carries or catches the ball into the opposing team's end zone.",
+"synonyms": ["touchdown score", "six points"],
+"singular": "touchdown",
+"plural": "touchdowns"
+}

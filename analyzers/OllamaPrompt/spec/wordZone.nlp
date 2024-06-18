@@ -8,6 +8,10 @@
 
 @NODES _ROOT
 
+@POST
+S("con") = N("con",1);
+single();
+
 @RULES
 _wordZone <-
 	_wordHeader								### (1)

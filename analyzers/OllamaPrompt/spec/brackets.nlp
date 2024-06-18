@@ -1,20 +1,19 @@
 ###############################################
-# FILE: quotes
+# FILE: brackets
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2024-6-14 15:29:2
+# CREATED: 2024-6-17 19:9:14
 # MODIFIED:
 ###############################################
 
 @PATH _ROOT _wordZone _LINE
 
 @POST
-S("text") = N("$text",2);
-single();
+pnrename(X(3),"_brackets");
 
 @RULES
-_quote <-
-	\"					### (1)
-	_xWILD [fail=(\")]	### (2)
-	\"					### (3)
+_brackets <-
+	\{					### (1)
+	_xWILD [fail=(\})]	### (2)
+	\}					### (3)
 	@@

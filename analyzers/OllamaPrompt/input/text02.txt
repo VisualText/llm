@@ -1,0 +1,20 @@
+'zapping' ==================================
+
+  {
+"word": "zapping",
+"part_of_speech": "verb",
+"language": "English",
+"rarity": "common",
+"topic_area": "Television or Media",
+"infinitive": "to zap",
+"conjugations": [
+{"person": 1, "tense": "present", "form": "zap"},
+{"person": 1, "tense": "past", "form": "zapped"},
+{"person": 1, "tense": "present_continuous", "form": "am zapping/is zapping/are zapping"},
+{"person": 1, "tense": "past_continuous", "form": "was zapping/were zapping"},
+{"person": 3, "tense": "present", "form": "zaps"},
+{"person": 3, "tense": "past", "form": "zapped"},
+{"person": 3, "tense": "present_continuous", "form": "are zapping"},
+{"person": 3, "tense": "past_continuous", "form": "were zapping"}
+]
+}

@@ -1,0 +1,43 @@
+###############################################
+# FILE: funcs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-17 20:23:0
+# MODIFIED:
+###############################################
+
+@DECL
+
+AddAttribute(L("word node"),L("attr node")) {
+    L("attr") = pnvar(L("attr node"),"attr");
+    L("value") = pnvar(L("attr node"),"val");
+    if (L("attr") != "word" && L("attr")) {
+        L("attr") = pnvar(L("attr node"),"attr");
+        L("value") = pnvar(L("attr node"),"val");
+        if (L("attr") == "part_of_speech") {
+            L("attr") = "pos";
+        }
+        L("con") = pnvar(L("word node"),"con");
+        L("def") = MakeCountCon(L("con"),"attr");
+        pnmakevar(L("attr node"),"con",L("def"));
+        if (L("value")) {
+            addstrval(L("def"),L("attr"),L("value"));
+        }
+    }
+}
+
+AddConjugationAttr(L("word node"),L("bracket node"),L("attr"),L("value")) {
+    if (L("attr") && L("value")) {
+        L("con") = pnvar(L("word node"),"con");
+        L("conjugation") = getconcept(L("con"),"conjugation");
+        L("conju") = pnvar(L("bracket node"),"con");
+        if (!L("conju")) {
+            L("conju") = MakeCountCon(L("conjugation"),"attr");
+            pnmakevar(L("bracket node"),"con",L("conju"));
+        }
+        L("a") = MakeCountCon(L("conju"),"attr");
+        addstrval(L("a"),L("attr"),L("value"));
+    }
+}
+
+@@DECL
