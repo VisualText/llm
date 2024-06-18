@@ -4,7 +4,7 @@ The idea behind this analyzer is to use a local LLM to generate responses to pro
 
 ## Installing Ollama
 
-Currently, the python script in this analzyzer is only working for Linux systems. It was developed using WSL on a windows machine.
+The current python scripts were developed in a Windows WSL Linux system.
 
 Install the python package using pip:
 
