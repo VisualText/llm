@@ -1,6 +1,6 @@
 
 
-'x' ==================================
+"x" ==================================
 
   {
 "word": "x",
@@ -49,7 +49,7 @@ If x is a noun:
 "plural": ""
 }
 
-'x'ing' ==================================
+"x'ing" ==================================
 
   {
 "word": "xing",
@@ -60,7 +60,7 @@ If x is a noun:
 
 Note: The word "xing" itself does not exist as a standalone word in any major human language. It seems to be an incomplete or misspelled input. If you meant to ask about a specific verb, please provide the correct infinitive form instead.
 
-'x's' ==================================
+"x's" ==================================
 
   {
 "word": "x",
@@ -80,7 +80,7 @@ To provide a definition and part of speech for the word "x", more information is
 "plural": "Apples"
 }
 
-'x-axis' ==================================
+"x-axis" ==================================
 
   {
 "word": "x-axis",
@@ -91,7 +91,7 @@ To provide a definition and part of speech for the word "x", more information is
 "plural": "x-axes"
 }
 
-'x-disease' ==================================
+"x-disease" ==================================
 
   {
 "word": "x-disease",
@@ -101,7 +101,7 @@ To provide a definition and part of speech for the word "x", more information is
 "plural": "x-diseases"
 }
 
-'x-ed' ==================================
+"x-ed" ==================================
 
   {
 "word": "x-ed",
@@ -125,7 +125,7 @@ To provide a definition and part of speech for the word "x", more information is
 ]
 }
 
-'x-height' ==================================
+"x-height" ==================================
 
   {
 "word": "x-height",
@@ -136,7 +136,7 @@ To provide a definition and part of speech for the word "x", more information is
 "plural": "x-heights"
 }
 
-'x-high' ==================================
+"x-high" ==================================
 
   {
 "word": "x-high",
@@ -145,7 +145,7 @@ To provide a definition and part of speech for the word "x", more information is
 "language_origin": "Unknown"
 }
 
-'x-ing' ==================================
+"x-ing" ==================================
 
   {
 "word": "xing",
@@ -157,7 +157,7 @@ To provide a definition and part of speech for the word "x", more information is
 ]
 }
 
-'x-line' ==================================
+"x-line" ==================================
 
   {
 "word": "x-line",
@@ -167,7 +167,7 @@ To provide a definition and part of speech for the word "x", more information is
 "plural": "x-lines"
 }
 
-'x-out' ==================================
+"x-out" ==================================
 
   {
 "word": "x-out",
@@ -196,7 +196,7 @@ To provide a definition and part of speech for the word "x", more information is
 ]
 }
 
-'x-radiation' ==================================
+"x-radiation" ==================================
 
   {
 "word": "x-radiation",
@@ -206,7 +206,7 @@ To provide a definition and part of speech for the word "x", more information is
 "plural": "x-radiations"
 }
 
-'x-stretcher' ==================================
+"x-stretcher" ==================================
 
   {
 "word": "x-stretcher",
@@ -215,7 +215,7 @@ To provide a definition and part of speech for the word "x", more information is
 "definition": "A tool or device used to stretch or elongate an object, particularly in the context of graphics or imaging."
 }
 
-'x-unit' ==================================
+"x-unit" ==================================
 
   {
 "word": "x-unit",
@@ -225,7 +225,7 @@ To provide a definition and part of speech for the word "x", more information is
 "plural": "x-units"
 }
 
-'xalostockite' ==================================
+"xalostockite" ==================================
 
   {
 "word": "xalostockite",
@@ -236,7 +236,7 @@ To provide a definition and part of speech for the word "x", more information is
 
 To provide a definition or conjugation for the word "xalostockite," more information is needed, such as the language it comes from and its grammatical role in that language.
 
-'xanth-' ==================================
+"xanth-" ==================================
 
   {
 "word": "xanth",
@@ -252,7 +252,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xantha (feminine), xantha (neuter)"
 }
 
-'xanthaline' ==================================
+"xanthaline" ==================================
 
   {
 "word": "xanthaline",
@@ -263,7 +263,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "A yellow pigment derived from chrysophanic acid or related compounds."
 }
 
-'xanthamic' ==================================
+"xanthamic" ==================================
 
   {
 "word": "xanthamic",
@@ -274,7 +274,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "[not applicable for nouns]"
 }
 
-'xanthamid' ==================================
+"xanthamid" ==================================
 
   {
 "word": "xanthamum", // correction: you provided an incorrect form of the word in your question
@@ -283,7 +283,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "language_origin": "Latin", // xanthamum comes from Greek xanthos (yellow) and mannos (manna or substance)
 // No infinitive form, conjugations, singular or plural forms are applicable for this noun.
 
-'xanthamide' ==================================
+"xanthamide" ==================================
 
   {
 "word": "xanthamide",
@@ -293,7 +293,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "[not applicable for nouns]"
 }
 
-'xanthan' ==================================
+"xanthan" ==================================
 
   {
 "word": "xanthan",
@@ -304,7 +304,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthans"
 }
 
-'xanthane' ==================================
+"xanthane" ==================================
 
   {
 "word": "xanthan",
@@ -315,7 +315,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": ""
 }
 
-'xanthans' ==================================
+"xanthans" ==================================
 
   {
 "word": "xanthan",
@@ -326,7 +326,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthans"
 }
 
-'xanthate' ==================================
+"xanthate" ==================================
 
   {
 "word": "xanthate",
@@ -337,7 +337,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "[not applicable for nouns in English]"
 }
 
-'xanthates' ==================================
+"xanthates" ==================================
 
   {
 "word": "xanthates",
@@ -346,7 +346,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "Compounds of hydroxyl groups (-OH) attached to a xanthate anion (S2O3-2), often derived from thiols and used as intermediates in the manufacture of cellulose derivatives."
 }
 
-'xanthation' ==================================
+"xanthation" ==================================
 
   {
 "word": "xanthation",
@@ -356,7 +356,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "derivation": "[from xanthos, yellow]"
 }
 
-'xanthd-' ==================================
+"xanthd-" ==================================
 
   {
 "word": "xanthid-",
@@ -365,7 +365,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "pertaining to xanthids, a type of coral"
 }
 
-'xanthein' ==================================
+"xanthein" ==================================
 
   {
 "word": "xanthein",
@@ -375,7 +375,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "[not applicable for nouns in chemistry]"
 }
 
-'xantheins' ==================================
+"xantheins" ==================================
 
   {
 "word": "xantheins",
@@ -384,7 +384,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "A class of yellow pigments derived from xanthophylls, a type of carotenoid."
 }
 
-'xanthelasma' ==================================
+"xanthelasma" ==================================
 
   {
 "word": "xanthelasma",
@@ -395,7 +395,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthelasmas"
 }
 
-'xanthelasmic' ==================================
+"xanthelasmic" ==================================
 
   {
 "word": "xanthelasmic",
@@ -404,7 +404,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "Relating to or containing xanthomas, which are yellowish deposits under the skin or in other tissues, especially in the eyes."
 }
 
-'xanthelasmoidea' ==================================
+"xanthelasmoidea" ==================================
 
   {
 "word": "xanthelasmoidea",
@@ -415,7 +415,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthelasmas or xanthelasma deposits"
 }
 
-'xanthene' ==================================
+"xanthene" ==================================
 
   {
 "word": "xanthene",
@@ -426,7 +426,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthenes"
 }
 
-'xanthenes' ==================================
+"xanthenes" ==================================
 
   {
 "word": "xanthenes",
@@ -436,7 +436,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthenes"
 }
 
-'xanthic' ==================================
+"xanthic" ==================================
 
   {
 "word": "xanthic",
@@ -445,7 +445,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "Of the color of saffron or yellow."
 }
 
-'xanthid' ==================================
+"xanthid" ==================================
 
   {
 "word": "xanthid",
@@ -456,7 +456,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthids"
 }
 
-'xanthide' ==================================
+"xanthide" ==================================
 
   {
 "word": "xanthide",
@@ -467,7 +467,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthides"
 }
 
-'xanthin' ==================================
+"xanthin" ==================================
 
   {
 "word": "xanthin",
@@ -478,7 +478,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "A type of pigment, specifically a xanthophyll, which is a yellow carotenoid pigment found in various plants and animals."
 }
 
-'xanthindaba' ==================================
+"xanthindaba" ==================================
 
   {
 "word": "xanthindaba",
@@ -491,7 +491,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": ""
 }
 
-'xanthine' ==================================
+"xanthine" ==================================
 
   {
 "word": "xanthine",
@@ -502,7 +502,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthines"
 }
 
-'xanthines' ==================================
+"xanthines" ==================================
 
   {
 "word": "xanthines",
@@ -511,7 +511,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "A class of naturally occurring alkaloids that include theobromine, caffeine, and theophylline. They are commonly found in tea, coffee, cocoa, and certain medicinal plants."
 }
 
-'xanthins' ==================================
+"xanthins" ==================================
 
   {
 "word": "xanthins",
@@ -520,7 +520,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "Xanthins are a group of natural or synthetic compounds that exhibit xanthine structure, which is characterized by the presence of a heterocyclic ring system containing nitrogen and oxygen atoms."
 }
 
-'xanthinuria' ==================================
+"xanthinuria" ==================================
 
   {
 "word": "xanthinuria",
@@ -529,7 +529,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "A rare genetic disorder characterized by the accumulation of xanthine and its derivatives in the urine due to a deficiency in the enzyme xanthine oxidase."
 }
 
-'xanthione' ==================================
+"xanthione" ==================================
 
   {
 "word": "xanthione",
@@ -540,7 +540,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "[not applicable for nouns in English]"
 }
 
-'xanthism' ==================================
+"xanthism" ==================================
 
   {
 "word": "xanthism",
@@ -551,7 +551,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "[not provided]"
 }
 
-'xanthite' ==================================
+"xanthite" ==================================
 
   {
 "word": "xanthite",
@@ -562,7 +562,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthites"
 }
 
-'xanthiuria' ==================================
+"xanthiuria" ==================================
 
   {
 "word": "xanthiuria",
@@ -573,7 +573,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthiurias"
 }
 
-'xantho-' ==================================
+"xantho-" ==================================
 
   {
 "word": "xantho-",
@@ -582,7 +582,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "Relating to or containing xanthin (yellow pigment), yellow."
 }
 
-'xanthocarpous' ==================================
+"xanthocarpous" ==================================
 
   {
 "word": "xanthocarpous",
@@ -591,7 +591,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "having golden-brown or yellowish-brown ripe fruit, especially certain trees and shrubs."
 }
 
-'xanthochroia' ==================================
+"xanthochroia" ==================================
 
   {
 "word": "xanthochroia",
@@ -602,7 +602,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthochroias"
 }
 
-'xanthochroid' ==================================
+"xanthochroid" ==================================
 
   {
 "word": "xanthochroic",
@@ -611,7 +611,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "having yellow pigment in the skin or eyes"
 }
 
-'xanthochroism' ==================================
+"xanthochroism" ==================================
 
   {
 "word": "xanthochroism",
@@ -621,7 +621,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "etymology": "{xanthos} (ξανθος) - yellow + {chroismatos} (χροισματος) - pigment"
 }
 
-'xanthochromia' ==================================
+"xanthochromia" ==================================
 
   {
 "word": "xanthochromia",
@@ -632,7 +632,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "plural": "xanthochromias"
 }
 
-'xanthochromic' ==================================
+"xanthochromic" ==================================
 
   {
 "word": "xanthochromic",
@@ -641,7 +641,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": " exhibiting or characterized by an abnormal amount of xanthophylls in the tissues, especially in the blood, resulting in a yellowish discoloration."
 }
 
-'xanthochroous' ==================================
+"xanthochroous" ==================================
 
   {
 "word": "xanthochroous",
@@ -650,7 +650,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 "definition": "having yellow or yellowish parts, especially in animals"
 }
 
-'xanthocobaltic' ==================================
+"xanthocobaltic" ==================================
 
   {
 "word": "xanthocobaltic",
@@ -661,7 +661,7 @@ To provide a definition or conjugation for the word "xalostockite," more informa
 
 This word is a compound adjective in English language. It describes something containing or resembling both xanthophylls (yellow pigments) and cobalt. There is no infinitive form, conjugations, singular or plural forms to delineate for this word as it functions as an adjective modifying a noun in a sentence.
 
-'xanthocone' ==================================
+"xanthocone" ==================================
 
   {
 "word": "xanthocone",
@@ -672,7 +672,7 @@ This word is a compound adjective in English language. It describes something co
 "plural": "[not provided]"
 }
 
-'xanthoconite' ==================================
+"xanthoconite" ==================================
 
   {
 "word": "xanthoconite",
@@ -683,7 +683,7 @@ This word is a compound adjective in English language. It describes something co
 "plural": "xanthoconites"
 }
 
-'xanthocreatinine' ==================================
+"xanthocreatinine" ==================================
 
   {
 "word": "xanthocreatinine",
@@ -692,7 +692,7 @@ This word is a compound adjective in English language. It describes something co
 "definition": "A metabolic waste product, specifically a creatine derivative with a yellow color."
 }
 
-'xanthocyanopia' ==================================
+"xanthocyanopia" ==================================
 
   {
 "word": "xanthocyanopia",
@@ -701,7 +701,7 @@ This word is a compound adjective in English language. It describes something co
 "definition": "A condition characterized by the excessive production or accumulation of xanthophylls in the body, resulting in yellowish discoloration of the skin and mucous membranes."
 }
 
-'xanthocyanopsia' ==================================
+"xanthocyanopsia" ==================================
 
   {
 "word": "xanthocyanopsia",
@@ -710,7 +710,7 @@ This word is a compound adjective in English language. It describes something co
 "definition": "A condition in which an individual perceives colors, particularly yellows and reds, more vividly than normal."
 }
 
-'xanthocyanopsy' ==================================
+"xanthocyanopsy" ==================================
 
   {
 "word": "xanthocyanopsy",
@@ -721,7 +721,7 @@ This word is a compound adjective in English language. It describes something co
 "plural": "xanthocyanopsies"
 }
 
-'xanthocyanopy' ==================================
+"xanthocyanopy" ==================================
 
   {
 "word": "xanthocyanopy",
@@ -735,7 +735,7 @@ This word is a compound adjective in English language. It describes something co
 
 This word appears to be of Greek origin, with the prefix "xantho-" meaning "yellow," "-cyano-" meaning "blue," and "-py" being a suffix indicating a pigment or dye. However, without further context or information, it is impossible to definitively determine its part of speech or conjugations/plural forms.
 
-'xanthoderm' ==================================
+"xanthoderm" ==================================
 
   {
 "word": "xanthoderm",
@@ -746,7 +746,7 @@ This word appears to be of Greek origin, with the prefix "xantho-" meaning "yell
 "plural": "xanthoderms"
 }
 
-'xanthoderma' ==================================
+"xanthoderma" ==================================
 
   {
 "word": "xanthoderma",
@@ -757,7 +757,7 @@ This word appears to be of Greek origin, with the prefix "xantho-" meaning "yell
 "plural": "xanthodermas"
 }
 
-'xanthodermatous' ==================================
+"xanthodermatous" ==================================
 
   {
 "word": "xanthodermatous",
@@ -768,7 +768,7 @@ This word appears to be of Greek origin, with the prefix "xantho-" meaning "yell
 "plural": "xanthodermatous things/creatures"
 }
 
-'xanthodont' ==================================
+"xanthodont" ==================================
 
   {
 "word": "xanthodont",
@@ -779,7 +779,7 @@ This word appears to be of Greek origin, with the prefix "xantho-" meaning "yell
 "plural": "xanthodonts"
 }
 
-'xanthodontous' ==================================
+"xanthodontous" ==================================
 
   {
 "word": "xanthodontous",
@@ -788,7 +788,7 @@ This word appears to be of Greek origin, with the prefix "xantho-" meaning "yell
 "definition": "having yellow teeth"
 }
 
-'xanthogen' ==================================
+"xanthogen" ==================================
 
   {
 "word": "xanthogen",
@@ -798,7 +798,7 @@ This word appears to be of Greek origin, with the prefix "xantho-" meaning "yell
 
 To provide a definition or inflection for the word "xanthogen," more context is needed, such as the specific language and its part of speech (noun, verb, etc.). The given information does not allow me to determine if it's a known word or not. If you can provide additional context, I will be happy to help with the definition or inflection.
 
-'xanthogenamic' ==================================
+"xanthogenamic" ==================================
 
   {
 "word": "xanthogenamic",
@@ -807,7 +807,7 @@ To provide a definition or inflection for the word "xanthogen," more context is 
 "definition": "No clear definition could be found for the word 'xanthogenamic' in any major human language."
 }
 
-'xanthogenamide' ==================================
+"xanthogenamide" ==================================
 
   {
 "word": "xanthogenamide",
@@ -817,7 +817,7 @@ To provide a definition or inflection for the word "xanthogen," more context is 
 "plural": "[not applicable for nouns in English]"
 }
 
-'xanthogenate' ==================================
+"xanthogenate" ==================================
 
   {
 "word": "xanthogenate",
@@ -848,7 +848,7 @@ To provide a definition or inflection for the word "xanthogen," more context is 
 
 Please note that the term "xanthogenate" is not a commonly used word in English language, and it's mainly used in chemistry context to refer to the process of forming xanthophylls or other similar compounds.
 
-'xanthogenic' ==================================
+"xanthogenic" ==================================
 
   {
 "word": "xanthogenic",
@@ -857,7 +857,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "Producing or containing xanthophylls or yellow pigments."
 }
 
-'xantholeucophore' ==================================
+"xantholeucophore" ==================================
 
   {
 "word": "xantholeucophore",
@@ -866,7 +866,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "A type of chromophore that absorbs light in the blue and green regions of the electromagnetic spectrum and reflects or transmits light in the yellow region."
 }
 
-'xanthoma' ==================================
+"xanthoma" ==================================
 
   {
 "word": "xanthoma",
@@ -877,7 +877,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthomas"
 }
 
-'xanthomas' ==================================
+"xanthomas" ==================================
 
   {
 "word": "xanthomas",
@@ -888,7 +888,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthomas"
 }
 
-'xanthomata' ==================================
+"xanthomata" ==================================
 
   {
 "word": "xanthomata",
@@ -899,7 +899,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthomata"
 }
 
-'xanthomatosis' ==================================
+"xanthomatosis" ==================================
 
   {
 "word": "xanthomatosis",
@@ -910,7 +910,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthomatosises or xanthomatoses"
 }
 
-'xanthomatous' ==================================
+"xanthomatous" ==================================
 
   {
 "word": "xanthomatous",
@@ -919,7 +919,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "Relating to or characterized by xanthoma, a type of lipid storage disorder that results in the formation of yellowish nodular deposits under the skin or mucous membranes."
 }
 
-'xanthomelanous' ==================================
+"xanthomelanous" ==================================
 
   {
 "word": "xanthomelanous",
@@ -928,7 +928,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "Of or having both xanthic (yellow) and melanic (black or dark) pigments."
 }
 
-'xanthometer' ==================================
+"xanthometer" ==================================
 
   {
 "word": "xanthometer",
@@ -937,7 +937,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "An instrument used to measure the amount of xanthophylls or other pigments in a solution."
 }
 
-'xanthomyeloma' ==================================
+"xanthomyeloma" ==================================
 
   {
 "word": "xanthomyeloma",
@@ -946,7 +946,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "A type of tumor characterized by the presence of xanthomatous (yellow fat-laden) macrophages and lipid-laden foam cells in the affected tissue."
 }
 
-'xanthone' ==================================
+"xanthone" ==================================
 
   {
 "word": "xanthone",
@@ -955,7 +955,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "A type of organic compound, specifically a class of polyphenolic compounds characterized by the presence of a xanthenoid chromophore."
 }
 
-'xanthones' ==================================
+"xanthones" ==================================
 
   {
 "word": "xanthones",
@@ -964,7 +964,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "A class of natural or synthetic compounds containing xanthone as a core structure, characterized by their extensive conjugated systems and various biological activities."
 }
 
-'xanthophane' ==================================
+"xanthophane" ==================================
 
   {
 "word": "xanthophan", // Corrected spelling
@@ -975,7 +975,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthophans"
 }
 
-'xanthophore' ==================================
+"xanthophore" ==================================
 
   {
 "word": "xanthophore",
@@ -984,7 +984,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "A type of cell that contains xanthophylls (pigments) and gives a yellow color to various plants and algae."
 }
 
-'xanthophose' ==================================
+"xanthophose" ==================================
 
   {
 "word": "xanthophore",
@@ -995,7 +995,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthophores"
 }
 
-'xanthophyl' ==================================
+"xanthophyl" ==================================
 
   {
 "word": "xanthophyll",
@@ -1006,7 +1006,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthophylls"
 }
 
-'xanthophyll' ==================================
+"xanthophyll" ==================================
 
   {
 "word": "xanthophyll",
@@ -1017,7 +1017,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthophylls"
 }
 
-'xanthophyllic' ==================================
+"xanthophyllic" ==================================
 
   {
 "word": "xanthophyllic",
@@ -1026,7 +1026,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "Relating to or containing xanthophylls, yellow pigments found in some plants."
 }
 
-'xanthophyllite' ==================================
+"xanthophyllite" ==================================
 
   {
 "word": "xanthophyllite",
@@ -1037,7 +1037,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthophyllites"
 }
 
-'xanthophyllous' ==================================
+"xanthophyllous" ==================================
 
   {
 "word": "xanthophyllous",
@@ -1046,7 +1046,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "Containing xanthophylls, yellow pigments in chloroplasts of plants."
 }
 
-'xanthophylls' ==================================
+"xanthophylls" ==================================
 
   {
 "word": "xanthophylls",
@@ -1057,7 +1057,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthophylls"
 }
 
-'xanthopicrin' ==================================
+"xanthopicrin" ==================================
 
   {
 "word": "xanthopicrin",
@@ -1068,7 +1068,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthopicrins"
 }
 
-'xanthopicrite' ==================================
+"xanthopicrite" ==================================
 
   {
 "word": "xanthopicrite",
@@ -1079,7 +1079,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthopicrites"
 }
 
-'xanthoproteic' ==================================
+"xanthoproteic" ==================================
 
   {
 "word": "xanthoproteic",
@@ -1091,7 +1091,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 }
 }
 
-'xanthoprotein' ==================================
+"xanthoprotein" ==================================
 
   {
 "word": "xanthoprotein",
@@ -1102,7 +1102,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthoproteins"
 }
 
-'xanthoproteinic' ==================================
+"xanthoproteinic" ==================================
 
   {
 "word": "xanthoproteinic",
@@ -1111,7 +1111,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "definition": "Relating to or containing xanthoproteins, yellow protein pigments found in some organisms."
 }
 
-'xanthopsia' ==================================
+"xanthopsia" ==================================
 
   {
 "word": "xanthopsia",
@@ -1122,7 +1122,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthopsias"
 }
 
-'xanthopsin' ==================================
+"xanthopsin" ==================================
 
   {
 "word": "xanthopsin",
@@ -1133,7 +1133,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 "plural": "xanthopsins"
 }
 
-'xanthopsydracia' ==================================
+"xanthopsydracia" ==================================
 
   {
 "word": "xanthopsydracia",
@@ -1144,7 +1144,7 @@ Please note that the term "xanthogenate" is not a commonly used word in English 
 
 To provide a definition or conjugation for the word "xanthopsydracia," more context is needed. This word appears to be of Greek origin, but it's not clear whether it's a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Without further information, it's impossible to determine its meaning or provide any conjugations or infinitive form.
 
-'xanthopterin' ==================================
+"xanthopterin" ==================================
 
   {
 "word": "xanthopterin",
@@ -1153,7 +1153,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "definition": "A yellow pigment found in some plants and animals."
 }
 
-'xanthopurpurin' ==================================
+"xanthopurpurin" ==================================
 
   {
 "word": "xanthopurpurin",
@@ -1162,7 +1162,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "definition": "A pigment with the chemical formula C32H18N6O12S2, which is a complex organic sulfide. It exhibits both xanthic (yellow) and purpurin (red-purple) hues."
 }
 
-'xanthorhamnin' ==================================
+"xanthorhamnin" ==================================
 
   {
 "word": "xanthorhamnin",
@@ -1171,7 +1171,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "definition": "A type of flavonoid pigment found in certain plants, characterized by its yellow color."
 }
 
-'xanthosiderite' ==================================
+"xanthosiderite" ==================================
 
   {
 "word": "xanthosiderite",
@@ -1180,7 +1180,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "definition": "A yellow-brown mineral, specifically a manganese oxide hydroxide."
 }
 
-'xanthosis' ==================================
+"xanthosis" ==================================
 
   {
 "word": "xanthosis",
@@ -1191,7 +1191,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "plural": "xanthoses"
 }
 
-'xanthospermous' ==================================
+"xanthospermous" ==================================
 
   {
 "word": "xanthospermous",
@@ -1200,7 +1200,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "definition": "Bearing or producing yellow seeds."
 }
 
-'xanthotic' ==================================
+"xanthotic" ==================================
 
   {
 "word": "xanthotic",
@@ -1211,7 +1211,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "plural": "xanthotic things"
 }
 
-'xanthous' ==================================
+"xanthous" ==================================
 
   {
 "word": "xanthous",
@@ -1220,7 +1220,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 "definition": "Of a yellow color, especially a pale or clear yellow."
 }
 
-'xanthoxenite' ==================================
+"xanthoxenite" ==================================
 
   {
 "word": "xanthoxenite",
@@ -1231,7 +1231,7 @@ To provide a definition or conjugation for the word "xanthopsydracia," more cont
 
 Without additional context or information, it is impossible to determine if "xanthoxenite" is a valid word in any human language, let alone its part of speech, definition, infinitive form, conjugations, singular and plural forms, or even which language it belongs to.
 
-'xanthoxylin' ==================================
+"xanthoxylin" ==================================
 
   {
 "word": "xanthoxylin",
@@ -1240,7 +1240,7 @@ Without additional context or information, it is impossible to determine if "xan
 "definition": "A yellow pigment obtained from various plants, especially from the rind of citrus fruits."
 }
 
-'xanthrochroid' ==================================
+"xanthrochroid" ==================================
 
   {
 "word": "xanthrochroid",
@@ -1250,7 +1250,7 @@ Without additional context or information, it is impossible to determine if "xan
 "etymology": "From xanthos (yellow) + chroides (skin)"
 }
 
-'xanthuria' ==================================
+"xanthuria" ==================================
 
   {
 "word": "xanthuria",
@@ -1260,7 +1260,7 @@ Without additional context or information, it is impossible to determine if "xan
 "plural": "[not provided]"
 }
 
-'xanthydrol' ==================================
+"xanthydrol" ==================================
 
   {
 "word": "xanthydrol",
@@ -1271,7 +1271,7 @@ Without additional context or information, it is impossible to determine if "xan
 
 To provide a definition or inflection for the word "xanthydrol," more context is needed. It appears to be of Greek origin, but its part of speech and meaning are unknown without additional information.
 
-'xanthyl' ==================================
+"xanthyl" ==================================
 
   {
 "word": "xanthyl",
@@ -1282,7 +1282,7 @@ To provide a definition or inflection for the word "xanthydrol," more context is
 "definition": "A type of alcohol used as a solvent and an intermediate in organic synthesis."
 }
 
-'xarque' ==================================
+"xarque" ==================================
 
   {
 "word": "xarque",
@@ -1293,7 +1293,7 @@ To provide a definition or inflection for the word "xanthydrol," more context is
 
 To provide a definition or conjugation for the word "xarque" in Catalan, I would need more context or information about its meaning and grammatical role in a sentence. It could be any part of speech (noun, verb, adjective, etc.) depending on how it is used in a given context. If you provide a specific sentence or context for the word "xarque" in Catalan, I can help you determine its part of speech and provide a definition or conjugation if applicable.
 
-'xat' ==================================
+"xat" ==================================
 
   {
 "word": "xat",
@@ -1305,7 +1305,7 @@ To provide a definition or conjugation for the word "xarque" in Catalan, I would
 "plural": "N/A"
 }
 
-'xc' ==================================
+"xc" ==================================
 
   {
 "word": "xc",
@@ -1318,7 +1318,7 @@ To provide a definition or conjugation for the word "xarque" in Catalan, I would
 "plural": ""
 }
 
-'xcl' ==================================
+"xcl" ==================================
 
   {
 "word": "xcl",
@@ -1329,7 +1329,7 @@ To provide a definition or conjugation for the word "xarque" in Catalan, I would
 
 To provide a definition or inflection for the word "xcl," more information is needed such as the specific language it comes from and its role in that language (noun, verb, etc.).
 
-'xctl' ==================================
+"xctl" ==================================
 
   {
 "word": "xctl",
@@ -1340,7 +1340,7 @@ To provide a definition or inflection for the word "xcl," more information is ne
 
 To provide a definition or inflection for the word "xctl", more information is required such as the specific language it comes from and its role in that language (noun, verb, etc.).
 
-'xdiv' ==================================
+"xdiv" ==================================
 
   {
 "word": "xdiv",
@@ -1351,7 +1351,7 @@ To provide a definition or inflection for the word "xctl", more information is r
 
 To provide a definition or inflection for the word "xdiv", more information is needed such as the language it comes from and its context in a sentence.
 
-'xebec' ==================================
+"xebec" ==================================
 
   {
 "word": "xebec",
@@ -1362,7 +1362,7 @@ To provide a definition or inflection for the word "xdiv", more information is n
 "plural": "xebecs"
 }
 
-'xebecs' ==================================
+"xebecs" ==================================
 
   {
 "word": "xebecs",
@@ -1372,7 +1372,7 @@ To provide a definition or inflection for the word "xdiv", more information is n
 "plural": "xebecs or xebecs's (if referring to the ships themselves) or xebec crews (if referring to the people)"
 }
 
-'xed' ==================================
+"xed" ==================================
 
   {
 "word": "xed",
@@ -1397,7 +1397,7 @@ To provide a definition or inflection for the word "xdiv", more information is n
 
 Note: The word "xed" is not a common English verb and does not have widely accepted infinitive or past tense forms. The above information is provided for illustrative purposes only.
 
-'xeme' ==================================
+"xeme" ==================================
 
   {
 "word": "xeme",
@@ -1409,7 +1409,7 @@ Note: The word "xed" is not a common English verb and does not have widely accep
 "plural": "N/A"
 }
 
-'xen-' ==================================
+"xen-" ==================================
 
   {
 "word": "xen",
@@ -1418,7 +1418,7 @@ Note: The word "xed" is not a common English verb and does not have widely accep
 "definition": "relating to or being a stranger or foreigner; hospitable towards strangers or foreigners"
 }
 
-'xenacanthine' ==================================
+"xenacanthine" ==================================
 
   {
 "word": "xenacanthine",
@@ -1429,7 +1429,7 @@ Note: The word "xed" is not a common English verb and does not have widely accep
 "plural": "xenacanthines"
 }
 
-'xenagogue' ==================================
+"xenagogue" ==================================
 
   {
 "word": "xenagogue",
@@ -1438,7 +1438,7 @@ Note: The word "xed" is not a common English verb and does not have widely accep
 "language_origin": "Greek"
 }
 
-'xenagogy' ==================================
+"xenagogy" ==================================
 
   {
 "word": "xenagogy",
@@ -1448,7 +1448,7 @@ Note: The word "xed" is not a common English verb and does not have widely accep
 
 This word is of Greek origin, but it's meaning and part of speech are unknown without additional context.
 
-'xenarthral' ==================================
+"xenarthral" ==================================
 
   {
 "word": "xenarthral",
@@ -1457,7 +1457,7 @@ This word is of Greek origin, but it's meaning and part of speech are unknown wi
 "definition": "A mammal belonging to the order Xenarthra, having a unique skeletal structure with a fused vertebral column and a specialized shoulder girdle."
 }
 
-'xenarthrous' ==================================
+"xenarthrous" ==================================
 
   {
 "word": "xenarthrous",
@@ -1470,7 +1470,7 @@ This word is of Greek origin, but it's meaning and part of speech are unknown wi
 }
 }
 
-'xenelasia' ==================================
+"xenelasia" ==================================
 
   {
 "word": "xenelasia",
@@ -1481,7 +1481,7 @@ This word is of Greek origin, but it's meaning and part of speech are unknown wi
 "plural": "xenelasias"
 }
 
-'xenelasy' ==================================
+"xenelasy" ==================================
 
   {
 "word": "xenelasy",
@@ -1491,7 +1491,7 @@ This word is of Greek origin, but it's meaning and part of speech are unknown wi
 
 To provide a definition or conjugation for the word "xenelasy," more context is needed, such as the specific language and its grammar rules. The given information does not allow me to determine if it's a noun, verb, adjective, etc., or even from which human language it originates.
 
-'xenia' ==================================
+"xenia" ==================================
 
   {
 "word": "xenia",
@@ -1502,7 +1502,7 @@ To provide a definition or conjugation for the word "xenelasy," more context is 
 "plural": "xenia (\[in this context\]) or xeniai"
 }
 
-'xenial' ==================================
+"xenial" ==================================
 
   {
 "word": "xenial",
@@ -1511,7 +1511,7 @@ To provide a definition or conjugation for the word "xenelasy," more context is 
 "definition": "Friendly and welcoming to strangers or guests"
 }
 
-'xenian' ==================================
+"xenian" ==================================
 
   {
 "word": "xenian",
@@ -1522,7 +1522,7 @@ To provide a definition or conjugation for the word "xenelasy," more context is 
 "plural": "xenians"
 }
 
-'xenias' ==================================
+"xenias" ==================================
 
   {
 "word": "xenias",
@@ -1531,7 +1531,7 @@ To provide a definition or conjugation for the word "xenelasy," more context is 
 "definition": "hospitality extended by travelers to their hosts, or by hosts to their guests"
 }
 
-'xenic' ==================================
+"xenic" ==================================
 
   {
 "word": "xenic",
@@ -1540,7 +1540,7 @@ To provide a definition or conjugation for the word "xenelasy," more context is 
 "definition": "Relating to or living in a foreign environment; alien or strange."
 }
 
-'xenically' ==================================
+"xenically" ==================================
 
   {
 "word": "xenically",
@@ -1551,7 +1551,7 @@ To provide a definition or conjugation for the word "xenelasy," more context is 
 
 Please note that "xenically" is derived from the Greek word "xenikos," which means "relating to guests or strangers." It has lost its independent existence as a word in English and is typically used as an adverb to modify other verbs. Therefore, it does not have infinitive or conjugated forms in English.
 
-'xenium' ==================================
+"xenium" ==================================
 
   {
 "word": "xenium",
@@ -1561,7 +1561,7 @@ Please note that "xenically" is derived from the Greek word "xenikos," which mea
 "plural": "[xenia, xeniae] (neut. n. pl.)"
 }
 
-'xeno-' ==================================
+"xeno-" ==================================
 
   {
 "word": "xeno-",
@@ -1570,7 +1570,7 @@ Please note that "xenically" is derived from the Greek word "xenikos," which mea
 "definition": "relating to or being foreign or otherworldly"
 }
 
-'xenobiologies' ==================================
+"xenobiologies" ==================================
 
   {
 "word": "xenobiology",
@@ -1579,7 +1579,7 @@ Please note that "xenically" is derived from the Greek word "xenikos," which mea
 "language_origin": "English"
 }
 
-'xenobiology' ==================================
+"xenobiology" ==================================
 
   {
 "word": "xenobiology",
@@ -1588,7 +1588,7 @@ Please note that "xenically" is derived from the Greek word "xenikos," which mea
 "origin_language": "English"
 }
 
-'xenobiosis' ==================================
+"xenobiosis" ==================================
 
   {
 "word": "xenobiosis",
@@ -1599,7 +1599,7 @@ Please note that "xenically" is derived from the Greek word "xenikos," which mea
 "plural": "xenobioses"
 }
 
-'xenobiotic' ==================================
+"xenobiotic" ==================================
 
   {
 "word": "xenobiotic",
@@ -1610,7 +1610,7 @@ Please note that "xenically" is derived from the Greek word "xenikos," which mea
 Singular form: xenobiotic
 Plural form: xenobiotics
 
-'xenobiotics' ==================================
+"xenobiotics" ==================================
 
   {
 "word": "xenobiotics",
@@ -1621,7 +1621,7 @@ Plural form: xenobiotics
 "plural": "xenobiotics"
 }
 
-'xenoblast' ==================================
+"xenoblast" ==================================
 
   {
 "word": "xenoblast",
@@ -1632,7 +1632,7 @@ Plural form: xenobiotics
 "plural": "xenoblasts"
 }
 
-'xenochia' ==================================
+"xenochia" ==================================
 
   {
 "word": "xenochia",
@@ -1643,7 +1643,7 @@ Plural form: xenobiotics
 "plural": "xenochiai"
 }
 
-'xenocryst' ==================================
+"xenocryst" ==================================
 
   {
 "word": "xenocryst",
@@ -1654,7 +1654,7 @@ Plural form: xenobiotics
 "plural": "xenocrysts"
 }
 
-'xenocrystic' ==================================
+"xenocrystic" ==================================
 
   {
 "word": "xenocrystic",
@@ -1663,7 +1663,7 @@ Plural form: xenobiotics
 "definition": "Relating to or containing xenocrysts, which are minerals or other substances that have formed in an extraterrestrial environment."
 }
 
-'xenocyst' ==================================
+"xenocyst" ==================================
 
   {
 "word": "xenocyst",
@@ -1674,7 +1674,7 @@ Plural form: xenobiotics
 "plural": "[not provided in English, as it is a scientific term with no established plural form]"
 }
 
-'xenoderm' ==================================
+"xenoderm" ==================================
 
   {
 "word": "xenoderm",
@@ -1685,7 +1685,7 @@ Plural form: xenobiotics
 "plural": "xenoderms"
 }
 
-'xenodiagnoses' ==================================
+"xenodiagnoses" ==================================
 
   {
 "word": "xenodiagnosis",
@@ -1694,7 +1694,7 @@ Plural form: xenobiotics
 "language_origin": "English"
 }
 
-'xenodiagnosis' ==================================
+"xenodiagnosis" ==================================
 
   {
 "word": "xenodiagnosis",
@@ -1703,7 +1703,7 @@ Plural form: xenobiotics
 "language_origin": "English"
 }
 
-'xenodiagnostic' ==================================
+"xenodiagnostic" ==================================
 
   {
 "word": "xenodiagnostic",
@@ -1712,7 +1712,7 @@ Plural form: xenobiotics
 "language_origin": "English"
 }
 
-'xenodocheion' ==================================
+"xenodocheion" ==================================
 
   {
 "word": "xenodocheion",
@@ -1723,7 +1723,7 @@ Plural form: xenobiotics
 "plural": "xenodochia"
 }
 
-'xenodochia' ==================================
+"xenodochia" ==================================
 
   {
 "word": "xenodochia",
@@ -1734,7 +1734,7 @@ Plural form: xenobiotics
 "plural": "xenodochiae"
 }
 
-'xenodochium' ==================================
+"xenodochium" ==================================
 
   {
 "word": "xenodochium",
@@ -1745,7 +1745,7 @@ Plural form: xenobiotics
 "plural": "xenodochia"
 }
 
-'xenodochy' ==================================
+"xenodochy" ==================================
 
   {
 "word": "xenodochy",
@@ -1756,7 +1756,7 @@ Plural form: xenobiotics
 "plural": "xenodochies"
 }
 
-'xenogamies' ==================================
+"xenogamies" ==================================
 
   {
 "word": "xenogamies",
@@ -1765,7 +1765,7 @@ Plural form: xenobiotics
 "origin_language": "English"
 }
 
-'xenogamous' ==================================
+"xenogamous" ==================================
 
   {
 "word": "xenogamous",
@@ -1774,7 +1774,7 @@ Plural form: xenobiotics
 "definition": "Relating to or involving cross-species fertilization, especially in plants."
 }
 
-'xenogamy' ==================================
+"xenogamy" ==================================
 
   {
 "word": "xenogamy",
@@ -1783,7 +1783,7 @@ Plural form: xenobiotics
 "origin_language": "Greek"
 }
 
-'xenogeneic' ==================================
+"xenogeneic" ==================================
 
   {
 "word": "xenogeneic",
@@ -1792,7 +1792,7 @@ Plural form: xenobiotics
 "definition": "Related to or involving the transfer of genes between species."
 }
 
-'xenogenesis' ==================================
+"xenogenesis" ==================================
 
   {
 "word": "xenogenesis",
@@ -1801,7 +1801,7 @@ Plural form: xenobiotics
 "origin_language": "English"
 }
 
-'xenogenetic' ==================================
+"xenogenetic" ==================================
 
   {
 "word": "xenogenetic",
@@ -1810,7 +1810,7 @@ Plural form: xenobiotics
 "language_origin": "English"
 }
 
-'xenogenic' ==================================
+"xenogenic" ==================================
 
   {
 "word": "xenogenic",
@@ -1819,7 +1819,7 @@ Plural form: xenobiotics
 "definition": "Related to or produced in organisms other than those of the same species, especially microorganisms grown in artificial media."
 }
 
-'xenogenies' ==================================
+"xenogenies" ==================================
 
   {
 "word": "xenogenies",
@@ -1828,7 +1828,7 @@ Plural form: xenobiotics
 "definition": "The production of living organisms in an artificial environment, especially in a laboratory."
 }
 
-'xenogenous' ==================================
+"xenogenous" ==================================
 
   {
 "word": "xenogenous",
@@ -1837,7 +1837,7 @@ Plural form: xenobiotics
 "definition": "Originating in or produced by organisms of different species, especially microorganisms grown in a laboratory for medical research."
 }
 
-'xenogeny' ==================================
+"xenogeny" ==================================
 
   {
 "word": "xenogeny",
@@ -1846,7 +1846,7 @@ Plural form: xenobiotics
 "origin_language": "English"
 }
 
-'xenoglossia' ==================================
+"xenoglossia" ==================================
 
   {
 "word": "xenoglossia",
@@ -1855,7 +1855,7 @@ Plural form: xenobiotics
 "origin_language": "Greek"
 }
 
-'xenograft' ==================================
+"xenograft" ==================================
 
   {
 "word": "xenograft",
@@ -1864,7 +1864,7 @@ Plural form: xenobiotics
 "language_origin": "Medical English"
 }
 
-'xenografts' ==================================
+"xenografts" ==================================
 
   {
 "word": "xenografts",
@@ -1873,7 +1873,7 @@ Plural form: xenobiotics
 "language_origin": "Medical English"
 }
 
-'xenolite' ==================================
+"xenolite" ==================================
 
   {
 "word": "xenolite",
@@ -1884,7 +1884,7 @@ Plural form: xenobiotics
 "plural": "xenolites"
 }
 
-'xenolith' ==================================
+"xenolith" ==================================
 
   {
 "word": "xenolith",
@@ -1893,7 +1893,7 @@ Plural form: xenobiotics
 "language_origin": "English"
 }
 
-'xenolithic' ==================================
+"xenolithic" ==================================
 
   {
 "word": "xenolithic",
@@ -1902,7 +1902,7 @@ Plural form: xenobiotics
 "definition": "Relating to or containing foreign objects or inclusions in a rock."
 }
 
-'xenoliths' ==================================
+"xenoliths" ==================================
 
   {
 "word": "xenoliths",
@@ -1912,7 +1912,7 @@ Plural form: xenobiotics
 "plural": "xenoliths (mass noun) or xenolites (countable noun)"
 }
 
-'xenomania' ==================================
+"xenomania" ==================================
 
   {
 "word": "xenomania",
@@ -1922,7 +1922,7 @@ Plural form: xenobiotics
 "etymology": "From xenos (guest, stranger) + mania (madness)"
 }
 
-'xenomaniac' ==================================
+"xenomaniac" ==================================
 
   {
 "word": "xenomaniac",
@@ -1931,7 +1931,7 @@ Plural form: xenobiotics
 "language_origin": "English"
 }
 
-'xenomorphic' ==================================
+"xenomorphic" ==================================
 
   {
 "word": "xenomorphic",
@@ -1940,7 +1940,7 @@ Plural form: xenobiotics
 "definition": "Having the form of a creature from another world or dimension, especially one that is alien or monstrous."
 }
 
-'xenomorphically' ==================================
+"xenomorphically" ==================================
 
   {
 "word": "xenomorphically",
@@ -1949,7 +1949,7 @@ Plural form: xenobiotics
 "definition": "Having the form or character of the xenomorph alien species, as in the Alien film franchise."
 }
 
-'xenomorphosis' ==================================
+"xenomorphosis" ==================================
 
   {
 "word": "xenomorphosis",
@@ -1958,7 +1958,7 @@ Plural form: xenobiotics
 "language_origin": "English, derived from Greek 'xenos' (stranger) and 'morphē' (form)"
 }
 
-'xenon' ==================================
+"xenon" ==================================
 
   {
 "word": "xenon",
@@ -1969,7 +1969,7 @@ Plural form: xenobiotics
 "plural": ""
 }
 
-'xenons' ==================================
+"xenons" ==================================
 
   {
 "word": "xenon",
@@ -1980,7 +1980,7 @@ Plural form: xenobiotics
 "plural": ""
 }
 
-'xenoparasite' ==================================
+"xenoparasite" ==================================
 
   {
 "word": "xenoparasite",
@@ -1991,7 +1991,7 @@ Plural form: xenobiotics
 "plural": "xenoparasites"
 }
 
-'xenoparasitism' ==================================
+"xenoparasitism" ==================================
 
   {
 "word": "xenoparasitism",
@@ -2001,7 +2001,7 @@ Plural form: xenobiotics
 "etymology": "{xeno-} foreign + {para-} near + {-itis} inflammation or condition"
 }
 
-'xenopeltid' ==================================
+"xenopeltid" ==================================
 
   {
 "word": "xenopeltid",
@@ -2010,7 +2010,7 @@ Plural form: xenobiotics
 "definition": "A member of the Xenopeltidae family of snakes, characterized by their unique body scales."
 }
 
-'xenophile' ==================================
+"xenophile" ==================================
 
   {
 "word": "xenophile",
@@ -2020,7 +2020,7 @@ Plural form: xenobiotics
 "etymology": "From the Greek word 'xenos' meaning stranger or guest, and 'philos' meaning lover."
 }
 
-'xenophiles' ==================================
+"xenophiles" ==================================
 
   {
 "word": "xenophiles",
@@ -2030,7 +2030,7 @@ Plural form: xenobiotics
 "etymology": "From the Greek word 'xenos' meaning stranger or guest, and 'philos' meaning lover."
 }
 
-'xenophilism' ==================================
+"xenophilism" ==================================
 
   {
 "word": "xenophilism",
@@ -2041,7 +2041,7 @@ Plural form: xenobiotics
 "plural": "xenophilisms (rare) or xenophile attitudes/xenophilic people (common)"
 }
 
-'xenophilous' ==================================
+"xenophilous" ==================================
 
   {
 "word": "xenophilous",
@@ -2052,7 +2052,7 @@ Plural form: xenobiotics
 "plural": "xenophilous beings/people"
 }
 
-'xenophobe' ==================================
+"xenophobe" ==================================
 
   {
 "word": "xenophobe",
@@ -2061,7 +2061,7 @@ Plural form: xenobiotics
 "definition": "A person who fears or hates people from other countries or cultures."
 }
 
-'xenophobes' ==================================
+"xenophobes" ==================================
 
   {
 "word": "xenophobes",
@@ -2071,7 +2071,7 @@ Plural form: xenobiotics
 "etymology": "From the Greek word 'xenos' meaning stranger or guest, and 'phobos' meaning fear."
 }
 
-'xenophobia' ==================================
+"xenophobia" ==================================
 
   {
 "word": "xenophobia",
@@ -2082,7 +2082,7 @@ Plural form: xenobiotics
 "plural": "xenophobias"
 }
 
-'xenophobian' ==================================
+"xenophobian" ==================================
 
   {
 "word": "xenophobian",
@@ -2094,7 +2094,7 @@ Plural form: xenobiotics
 }
 }
 
-'xenophobias' ==================================
+"xenophobias" ==================================
 
   {
 "word": "xenophobia",
@@ -2103,7 +2103,7 @@ Plural form: xenobiotics
 "language_origin": "Greek"
 }
 
-'xenophobic' ==================================
+"xenophobic" ==================================
 
   {
 "word": "xenophobic",
@@ -2112,7 +2112,7 @@ Plural form: xenobiotics
 "definition": "Fear or hatred of foreigners, strangers, or peoples different from one's own."
 }
 
-'xenophobically' ==================================
+"xenophobically" ==================================
 
   {
 "word": "xenophobically",
@@ -2121,7 +2121,7 @@ Plural form: xenobiotics
 "definition": "In a fearful or hostile way toward people, cultures, or ideas that are perceived to be different from one's own."
 }
 
-'xenophobism' ==================================
+"xenophobism" ==================================
 
   {
 "word": "xenophobia",
@@ -2132,7 +2132,7 @@ Plural form: xenobiotics
 "plural": "xenophobias"
 }
 
-'xenophoby' ==================================
+"xenophoby" ==================================
 
   {
 "word": "xenophobia",
@@ -2141,7 +2141,7 @@ Plural form: xenobiotics
 "language_origin": "Greek"
 }
 
-'xenophoran' ==================================
+"xenophoran" ==================================
 
   {
 "word": "xenophoran",
@@ -2152,7 +2152,7 @@ Plural form: xenobiotics
 "plural": "xenophorans"
 }
 
-'xenophthalmia' ==================================
+"xenophthalmia" ==================================
 
   {
 "word": "xenophthalmia",
@@ -2161,7 +2161,7 @@ Plural form: xenobiotics
 "language_origin": "Medical English"
 }
 
-'xenophya' ==================================
+"xenophya" ==================================
 
   {
 "word": "xenophya",
@@ -2170,7 +2170,7 @@ Plural form: xenobiotics
 "definition": "A term with an unclear or disputed meaning in linguistics, often used to describe a word or concept that is not easily classifiable."
 }
 
-'xenoplastic' ==================================
+"xenoplastic" ==================================
 
   {
 "word": "xenoplastic",
@@ -2179,7 +2179,7 @@ Plural form: xenobiotics
 "language_origin": "English"
 }
 
-'xenopodid' ==================================
+"xenopodid" ==================================
 
   {
 "word": "xenopodid",
@@ -2190,7 +2190,7 @@ Plural form: xenobiotics
 "plural": "xenopodids"
 }
 
-'xenopodoid' ==================================
+"xenopodoid" ==================================
 
   {
 "word": "xenopodoid",
@@ -2199,7 +2199,7 @@ Plural form: xenobiotics
 "definition": "Belonging to or resembling the Xenopoda, an order of crustaceans characterized by a long, slender body and a pair of large, paddle-like swimming limbs."
 }
 
-'xenopteran' ==================================
+"xenopteran" ==================================
 
   {
 "word": "xenopteran",
@@ -2210,7 +2210,7 @@ Plural form: xenobiotics
 "plural": "xenopterans"
 }
 
-'xenopterygian' ==================================
+"xenopterygian" ==================================
 
   {
 "word": "xenopterygian",
@@ -2221,7 +2221,7 @@ Plural form: xenobiotics
 "plural": "xenopterygians"
 }
 
-'xenosaurid' ==================================
+"xenosaurid" ==================================
 
   {
 "word": "xenosaurid",
@@ -2232,7 +2232,7 @@ Plural form: xenobiotics
 "plural": "xenosaurids"
 }
 
-'xenosauroid' ==================================
+"xenosauroid" ==================================
 
   {
 "word": "xenosauroid",
@@ -2243,7 +2243,7 @@ Plural form: xenobiotics
 "plural": "xenosauroids"
 }
 
-'xenotime' ==================================
+"xenotime" ==================================
 
   {
 "word": "xenotime",
@@ -2254,7 +2254,7 @@ Plural form: xenobiotics
 "plural": "xenotimes"
 }
 
-'xenotropic' ==================================
+"xenotropic" ==================================
 
   {
 "word": "xenotropic",
@@ -2263,7 +2263,7 @@ Plural form: xenobiotics
 "definition": "Having the ability to recognize and respond to foreign or non-self elements, especially in the context of immune system response."
 }
 
-'xenyl' ==================================
+"xenyl" ==================================
 
   {
 "word": "xenyl",
@@ -2302,7 +2302,7 @@ Or, if it's a noun:
 "plural": "xenyls"
 }
 
-'xenylamine' ==================================
+"xenylamine" ==================================
 
   {
 "word": "xenylamine",
@@ -2312,7 +2312,7 @@ Or, if it's a noun:
 "plural": "[not applicable for nouns in English]"
 }
 
-'xer-' ==================================
+"xer-" ==================================
 
   {
 "word": "xer",
@@ -2323,7 +2323,7 @@ Or, if it's a noun:
 
 To provide a definition or conjugation for the word "xer," more information is required such as the specific language and its part of speech.
 
-'xerafin' ==================================
+"xerafin" ==================================
 
   {
 "word": "xerafin",
@@ -2334,7 +2334,7 @@ To provide a definition or conjugation for the word "xer," more information is r
 
 To provide a definition or conjugation for the word "xerafin," more information is needed, such as the specific human language it comes from and its grammatical role in that language.
 
-'xeransis' ==================================
+"xeransis" ==================================
 
   {
 "word": "xeransis",
@@ -2346,7 +2346,7 @@ This word is of ancient Greek origin, but there is no clear information availabl
 
 For a valid input, please provide a well-defined word from a modern human language along with its required part of speech and definition.
 
-'xerantic' ==================================
+"xerantic" ==================================
 
   {
 "word": "xerantic",
@@ -2357,7 +2357,7 @@ For a valid input, please provide a well-defined word from a modern human langua
 
 This word is not recognized in standard English or any other major human language. Therefore, it cannot be classified as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Its definition and inflection forms are also unknown.
 
-'xeraphin' ==================================
+"xeraphin" ==================================
 
   {
 "word": "xeraphin",
@@ -2367,7 +2367,7 @@ This word is not recognized in standard English or any other major human languag
 
 To provide a definition or conjugation for the word "xeraphin," more information is needed, such as the language it comes from and its grammatical role in that language.
 
-'xerarch' ==================================
+"xerarch" ==================================
 
   {
 "word": "xerarch",
@@ -2378,7 +2378,7 @@ To provide a definition or conjugation for the word "xeraphin," more information
 
 To provide a definition or inflection for the word "xerarch," more information is needed, such as the specific language it comes from and its role in that language (noun, verb, etc.). Without this information, it's impossible to accurately define or inflect the word.
 
-'xerasia' ==================================
+"xerasia" ==================================
 
   {
 "word": "xerasia",
@@ -2389,7 +2389,7 @@ To provide a definition or inflection for the word "xerarch," more information i
 "definition": "A light, dry wind from the north or northeast in Greece."
 }
 
-'xeric' ==================================
+"xeric" ==================================
 
   {
 "word": "xeric",
@@ -2398,7 +2398,7 @@ To provide a definition or inflection for the word "xerarch," more information i
 "definition": "Relating to or living in dry places; arid."
 }
 
-'xerically' ==================================
+"xerically" ==================================
 
   {
 "word": "xerically",
@@ -2409,7 +2409,7 @@ To provide a definition or inflection for the word "xerarch," more information i
 
 Please note that "xerically" is not an independent word in English, but rather an adverb modifying other words. It does not have infinitive form, conjugations, singular or plural forms as it is not a verb, noun, pronoun, preposition, conjunction, or interjection by itself.
 
-'xeriff' ==================================
+"xeriff" ==================================
 
   {
 "word": "xeriff",
@@ -2417,7 +2417,7 @@ Please note that "xerically" is not an independent word in English, but rather a
 "part_of_speech": {"tag": "Unknown"},
 "origin_language": "English (unknown dialect)"}
 
-'xero-' ==================================
+"xero-" ==================================
 
   {
 "word": "xero-",
@@ -2426,7 +2426,7 @@ Please note that "xerically" is not an independent word in English, but rather a
 "definition": "relating to or having the properties of xero- (zero)"
 }
 
-'xerocline' ==================================
+"xerocline" ==================================
 
   {
 "word": "xerocline",
@@ -2439,7 +2439,7 @@ Please note that "xerically" is not an independent word in English, but rather a
 
 Note: The given word "xerocline" does not have a known usage as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection in English or any other common human language. It is derived from the Greek word ξερόκλινος (xeroklinos), which means "dry-lying" or "drought-resistant".
 
-'xeroderma' ==================================
+"xeroderma" ==================================
 
   {
 "word": "xeroderma",
@@ -2450,7 +2450,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "plural": "xerodermas"
 }
 
-'xerodermatic' ==================================
+"xerodermatic" ==================================
 
   {
 "word": "xerodermic",
@@ -2459,7 +2459,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "definition": "Relating to or caused by exposure to sunlight, especially in relation to the drying and wrinkling of skin."
 }
 
-'xerodermatous' ==================================
+"xerodermatous" ==================================
 
   {
 "word": "xerodermatous",
@@ -2468,7 +2468,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "definition": "Relating to or affected by xeroderma, a condition characterized by hypersensitivity to sunlight and resulting in premature aging and pigmentation of the skin."
 }
 
-'xerodermia' ==================================
+"xerodermia" ==================================
 
   {
 "word": "xeroderma",
@@ -2479,7 +2479,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "plural": "xerodermas"
 }
 
-'xerodermic' ==================================
+"xerodermic" ==================================
 
   {
 "word": "xerodermic",
@@ -2490,7 +2490,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "plural": "xerodermic (rare)"
 }
 
-'xerogel' ==================================
+"xerogel" ==================================
 
   {
 "word": "xerogel",
@@ -2501,7 +2501,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "plural": "xerogels"
 }
 
-'xerographer' ==================================
+"xerographer" ==================================
 
   {
 "word": "xerographer",
@@ -2512,7 +2512,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "plural": "xerographers"
 }
 
-'xerographic' ==================================
+"xerographic" ==================================
 
   {
 "word": "xerographic",
@@ -2521,7 +2521,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "definition": "Relating to or produced by xerography (a method of making copies, especially of documents, using a dry process)"
 }
 
-'xerographically' ==================================
+"xerographically" ==================================
 
   {
 "word": "xerographically",
@@ -2530,7 +2530,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "definition": "Relating to or done using a xerographic process, especially in making copies."
 }
 
-'xerographies' ==================================
+"xerographies" ==================================
 
   {
 "word": "xerographies",
@@ -2539,7 +2539,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "language_origin": "English"
 }
 
-'xerography' ==================================
+"xerography" ==================================
 
   {
 "word": "xerography",
@@ -2548,7 +2548,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 "definition": "The process of making copies of documents using an electrically charged drum coated with a light-sensitive material and dry powdered toner."
 }
 
-'xeroma' ==================================
+"xeroma" ==================================
 
   {
 "word": "xeroma",
@@ -2558,7 +2558,7 @@ Note: The given word "xerocline" does not have a known usage as a noun, verb, ad
 
 This word is of Greek origin, but without additional context it is impossible to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, no definition can be provided until the part of speech is determined.
 
-'xeromata' ==================================
+"xeromata" ==================================
 
   {
 "word": "xeromata",
@@ -2568,7 +2568,7 @@ This word is of Greek origin, but without additional context it is impossible to
 "singular_form": "xeroma"
 }
 
-'xeromenia' ==================================
+"xeromenia" ==================================
 
   {
 "word": "xeromenia",
@@ -2578,7 +2578,7 @@ This word is of Greek origin, but without additional context it is impossible to
 "plural": "[not provided in Greek grammar, but it can be assumed to have a plural form derived from the singular by adding -eis or -as]"
 }
 
-'xeromorph' ==================================
+"xeromorph" ==================================
 
   {
 "word": "xeromorph",
@@ -2588,7 +2588,7 @@ This word is of Greek origin, but without additional context it is impossible to
 
 To provide an accurate definition for the word "xeromorph," more context is needed, such as the specific language or field of study it comes from. The given information does not allow me to determine if it is a noun, verb, adjective, etc., or even what language it belongs to. If you can provide additional context, please let me know and I will be happy to help with the definition in JSON format.
 
-'xeromorphic' ==================================
+"xeromorphic" ==================================
 
   {
 "word": "xeromorphic",
@@ -2598,7 +2598,7 @@ To provide an accurate definition for the word "xeromorph," more context is need
 "derivation": "[xero-] (dry) + [morph-] (form)"
 }
 
-'xeromorphous' ==================================
+"xeromorphous" ==================================
 
   {
 "word": "xeromorphous",
@@ -2609,7 +2609,7 @@ To provide an accurate definition for the word "xeromorph," more context is need
 
 This word does not have any known infinitive form, conjugations, singular or plural forms as it is an adjective describing a quality.
 
-'xeromorphy' ==================================
+"xeromorphy" ==================================
 
   {
 "word": "xeromorphy",
@@ -2620,7 +2620,7 @@ This word does not have any known infinitive form, conjugations, singular or plu
 "plural": "xeromorphies"
 }
 
-'xeromyron' ==================================
+"xeromyron" ==================================
 
   {
 "word": "xeromyron",
@@ -2631,7 +2631,7 @@ This word does not have any known infinitive form, conjugations, singular or plu
 
 To provide a definition or conjugation for the word "xeromyron," more context is needed. It appears to be a Greek term, but its part of speech and meaning are unknown without additional information.
 
-'xeromyrum' ==================================
+"xeromyrum" ==================================
 
   {
 "word": "xeromyrum",
@@ -2642,7 +2642,7 @@ To provide a definition or conjugation for the word "xeromyron," more context is
 
 To provide a definition or conjugation for the word "xeromyrum," more information is needed, such as the language it comes from and its grammatical role in that language.
 
-'xeronate' ==================================
+"xeronate" ==================================
 
   {
 "word": "xeronate",
@@ -2652,7 +2652,7 @@ To provide a definition or conjugation for the word "xeromyrum," more informatio
 
 To provide an accurate definition and part of speech for the word "xeronate," more context is needed. The given information does not allow me to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, without further information, I cannot provide the infinitive form or conjugations for a verb, singular and plural forms for a noun, or any other specific information.
 
-'xeronic' ==================================
+"xeronic" ==================================
 
   {
 "word": "xeronic",
@@ -2663,7 +2663,7 @@ To provide an accurate definition and part of speech for the word "xeronate," mo
 
 The word "xeronic" is not a standard word in any human language that I am aware of. It does not have a part of speech, definition, or known infinitive form or conjugations. It may be a typo or an unfamiliar term specific to a certain field or industry. Further research would be needed to determine its meaning and linguistic properties.
 
-'xerophagia' ==================================
+"xerophagia" ==================================
 
   {
 "word": "xerophagia",
@@ -2672,7 +2672,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "definition": "A condition in which an organism is able to survive by deriving water and nutrients from dry, withered plant material or other non-liquid food sources."
 }
 
-'xerophagies' ==================================
+"xerophagies" ==================================
 
   {
 "word": "xerophagie",
@@ -2683,7 +2683,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophagies"
 }
 
-'xerophagy' ==================================
+"xerophagy" ==================================
 
   {
 "word": "xerophagy",
@@ -2694,7 +2694,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophagies"
 }
 
-'xerophil' ==================================
+"xerophil" ==================================
 
   {
 "word": "xerophil",
@@ -2705,7 +2705,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophytes"
 }
 
-'xerophile' ==================================
+"xerophile" ==================================
 
   {
 "word": "xerophile",
@@ -2716,7 +2716,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophiles"
 }
 
-'xerophilies' ==================================
+"xerophilies" ==================================
 
   {
 "word": "xerophilies",
@@ -2725,7 +2725,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "origin_language": "Greek"
 }
 
-'xerophilous' ==================================
+"xerophilous" ==================================
 
   {
 "word": "xerophilous",
@@ -2734,7 +2734,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "definition": "Adapted to living in dry conditions; drought-resistant."
 }
 
-'xerophily' ==================================
+"xerophily" ==================================
 
   {
 "word": "xerophily",
@@ -2743,7 +2743,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "origin_language": "Greek"
 }
 
-'xerophobous' ==================================
+"xerophobous" ==================================
 
   {
 "word": "xerophobous",
@@ -2754,7 +2754,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophobous beings/creatures"
 }
 
-'xerophthalmia' ==================================
+"xerophthalmia" ==================================
 
   {
 "word": "xerophthalmia",
@@ -2765,7 +2765,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophthalmias"
 }
 
-'xerophthalmias' ==================================
+"xerophthalmias" ==================================
 
   {
 "word": "xerophthalmia",
@@ -2776,7 +2776,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophthalmias"
 }
 
-'xerophthalmic' ==================================
+"xerophthalmic" ==================================
 
   {
 "word": "xerophthalmic",
@@ -2785,7 +2785,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "definition": "Relating to or affected by xerophthalmia (a condition of the eyes characterized by dryness and ulceration, especially due to vitamin A deficiency)"
 }
 
-'xerophthalmos' ==================================
+"xerophthalmos" ==================================
 
   {
 "word": "xerophthalmos",
@@ -2796,7 +2796,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophthalmoses"
 }
 
-'xerophthalmy' ==================================
+"xerophthalmy" ==================================
 
   {
 "word": "xerophthalmy",
@@ -2807,7 +2807,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophthalmies"
 }
 
-'xerophyte' ==================================
+"xerophyte" ==================================
 
   {
 "word": "xerophyte",
@@ -2818,7 +2818,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophytes"
 }
 
-'xerophytes' ==================================
+"xerophytes" ==================================
 
   {
 "word": "xerophytes",
@@ -2829,7 +2829,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xerophytes"
 }
 
-'xerophytic' ==================================
+"xerophytic" ==================================
 
   {
 "word": "xerophytic",
@@ -2838,7 +2838,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "definition": "Able to withstand dry conditions; drought-resistant."
 }
 
-'xerophytically' ==================================
+"xerophytically" ==================================
 
   {
 "word": "xerophytically",
@@ -2847,7 +2847,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "definition": "Adapted to survive in extremely dry conditions; drought-resistant."
 }
 
-'xerophytism' ==================================
+"xerophytism" ==================================
 
   {
 "word": "xerophytism",
@@ -2856,7 +2856,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "origin_language": "Greek"
 }
 
-'xerophytisms' ==================================
+"xerophytisms" ==================================
 
   {
 "word": "xerophytisms",
@@ -2865,7 +2865,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "origin_language": "Science"
 }
 
-'xeroprinting' ==================================
+"xeroprinting" ==================================
 
   {
 "word": "xeroprinting",
@@ -2885,7 +2885,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 }
 }
 
-'xeroradiographies' ==================================
+"xeroradiographies" ==================================
 
   {
 "word": "xeroradiographies",
@@ -2894,7 +2894,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "language_origin": "English"
 }
 
-'xeroradiography' ==================================
+"xeroradiography" ==================================
 
   {
 "word": "xeroradiography",
@@ -2903,7 +2903,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "language_origin": "English"
 }
 
-'xerosere' ==================================
+"xerosere" ==================================
 
   {
 "word": "xerosere",
@@ -2914,7 +2914,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xeroseres"
 }
 
-'xeroseres' ==================================
+"xeroseres" ==================================
 
   {
 "word": "xeroseres",
@@ -2925,7 +2925,7 @@ The word "xeronic" is not a standard word in any human language that I am aware 
 "plural": "xeroseres (informal) or xerosera (formal)"
 }
 
-'xeroses' ==================================
+"xeroses" ==================================
 
   {
 "word": "xeroses",
@@ -2957,7 +2957,7 @@ If "xeroses" is a verb, its infinitive form would be "to xeroses," and the follo
 
 If "xeroses" is a noun, its singular form would be "xerosis," and the plural form could be "xeroses" or "xeroses." However, without further context, it's impossible to determine the exact plural form.
 
-'xerosis' ==================================
+"xerosis" ==================================
 
   {
 "word": "xerosis",
@@ -2968,7 +2968,7 @@ If "xeroses" is a noun, its singular form would be "xerosis," and the plural for
 "plural": "xeroses"
 }
 
-'xerostoma' ==================================
+"xerostoma" ==================================
 
   {
 "word": "xerostoma",
@@ -2979,7 +2979,7 @@ If "xeroses" is a noun, its singular form would be "xerosis," and the plural for
 "plural": "xerostomias"
 }
 
-'xerostomia' ==================================
+"xerostomia" ==================================
 
   {
 "word": "xerostomia",
@@ -2990,7 +2990,7 @@ If "xeroses" is a noun, its singular form would be "xerosis," and the plural for
 "plural": "xerostomias"
 }
 
-'xerotes' ==================================
+"xerotes" ==================================
 
   {
 "word": "xerotes",
@@ -3002,7 +3002,7 @@ If "xeroses" is a noun, its singular form would be "xerosis," and the plural for
 
 This word is a Greek noun, with singular form "xerotes" and plural form "xerota". There is no need to provide infinitive forms or conjugations for this word as it is not a verb.
 
-'xerotherm' ==================================
+"xerotherm" ==================================
 
   {
 "word": "xerotherm",
@@ -3012,7 +3012,7 @@ This word is a Greek noun, with singular form "xerotes" and plural form "xerota"
 "derivation": "[xero-] (dry) + [-therm] (heat)"
 }
 
-'xerothermic' ==================================
+"xerothermic" ==================================
 
   {
 "word": "xerothermic",
@@ -3021,7 +3021,7 @@ This word is a Greek noun, with singular form "xerotes" and plural form "xerota"
 "definition": "Relating to or maintaining a constant temperature in an environment without the need for heating or cooling."
 }
 
-'xerotic' ==================================
+"xerotic" ==================================
 
   {
 "word": "xerotic",
@@ -3030,7 +3030,7 @@ This word is a Greek noun, with singular form "xerotes" and plural form "xerota"
 "origin_language": "Unknown"
 }
 
-'xerotocia' ==================================
+"xerotocia" ==================================
 
   {
 "word": "xerotocia",
@@ -3039,7 +3039,7 @@ This word is a Greek noun, with singular form "xerotes" and plural form "xerota"
 "definition": "A condition characterized by excessive dryness of the skin, mucous membranes, or both, due to deficient secretion of moisture from the glands."
 }
 
-'xerotripsis' ==================================
+"xerotripsis" ==================================
 
   {
 "word": "xerotripsis",
@@ -3050,7 +3050,7 @@ This word is a Greek noun, with singular form "xerotes" and plural form "xerota"
 "plural": "[not applicable for a singular noun]"
 }
 
-'xerox' ==================================
+"xerox" ==================================
 
   {
 "word": "xerox",
@@ -3081,7 +3081,7 @@ This word is a Greek noun, with singular form "xerotes" and plural form "xerota"
 
 Note: Xerox is a trademark for making copies of documents using a photocopier. It can be used as a verb meaning to make a copy of (something) by using a photocopier.
 
-'xeroxed' ==================================
+"xeroxed" ==================================
 
   {
 "word": "xeroxed",
@@ -3110,7 +3110,7 @@ Note: Xerox is a trademark for making copies of documents using a photocopier. I
 ]
 }
 
-'xeroxes' ==================================
+"xeroxes" ==================================
 
   {
 "word": "xeroxes",
@@ -3123,7 +3123,7 @@ Note: Xerox is a trademark for making copies of documents using a photocopier. I
 "plural": "xeroxes"
 }
 
-'xeroxing' ==================================
+"xeroxing" ==================================
 
   {
 "word": "xeroxing",
@@ -3144,7 +3144,7 @@ Note: Xerox is a trademark for making copies of documents using a photocopier. I
 ]
 }
 
-'xerus' ==================================
+"xerus" ==================================
 
   {
 "word": "xerus",
@@ -3155,7 +3155,7 @@ Note: Xerox is a trademark for making copies of documents using a photocopier. I
 
 To provide a definition or inflection for the word "xerus," more information is needed, such as which language it comes from and what its role in that language is (noun, verb, etc.).
 
-'xeruses' ==================================
+"xeruses" ==================================
 
   {
 "word": "xeruses",
@@ -3165,7 +3165,7 @@ To provide a definition or inflection for the word "xerus," more information is 
 
 To provide a definition or conjugation for the word "xeruses," I would need more context, such as the source of the word and its meaning in the given language. If it is an English word, please provide more information so I can assist you accordingly.
 
-'xi' ==================================
+"xi" ==================================
 
   {
 "word": "xi",
@@ -3178,7 +3178,7 @@ To provide a definition or part of speech for the word "xi" in Mandarin Chinese,
 
 If "xi" turns out to be a verb, its infinitive form and conjugations are not provided here as there are many ways to conjug Chinese verbs depending on the tense, aspect, and other factors. In general, Chinese verbs do not have infinitives or distinct forms for different tenses like English verbs do. Instead, Chinese uses a combination of particles, auxiliary verbs, and context to convey tense and aspect information.
 
-'xi-particle' ==================================
+"xi-particle" ==================================
 
   {
 "word": "xi-particle",
@@ -3188,7 +3188,7 @@ If "xi" turns out to be a verb, its infinitive form and conjugations are not pro
 "plural": "xi-particles"
 }
 
-'xii' ==================================
+"xii" ==================================
 
   {
 "word": "xii",
@@ -3198,7 +3198,7 @@ If "xi" turns out to be a verb, its infinitive form and conjugations are not pro
 
 This word "xii" is a roman numeral and does not have a specific meaning as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection in any human language. It is used to represent the number twelve.
 
-'xiii' ==================================
+"xiii" ==================================
 
   {
 "word": "xiii",
@@ -3206,7 +3206,7 @@ This word "xii" is a roman numeral and does not have a specific meaning as a nou
 "human_language": "Latin"
 }
 
-'xint' ==================================
+"xint" ==================================
 
   {
 "word": "xint",
@@ -3214,7 +3214,7 @@ This word "xii" is a roman numeral and does not have a specific meaning as a nou
 "part_of_speech": "Unknown",
 "definition": ""}
 
-'xiphi-' ==================================
+"xiphi-" ==================================
 
   {
 "word": "xiphi-",
@@ -3225,7 +3225,7 @@ This word "xii" is a roman numeral and does not have a specific meaning as a nou
 
 To provide a definition or conjugation for the word "xiphi-", more context is needed as it is a Greek root that can form different words depending on the suffixes added. For instance, it could be the stem of a verb meaning "to slice" or "to cut", or the stem of a noun meaning "sword" or "fish". Without additional information, it's impossible to determine its exact form and conjugations.
 
-'xiphihumeralis' ==================================
+"xiphihumeralis" ==================================
 
   {
 "word": "xiphihumeralis",
@@ -3236,7 +3236,7 @@ To provide a definition or conjugation for the word "xiphi-", more context is ne
 "definition": "Relating to the area between the scapula and the humerus (shoulder blade and upper arm bone)"
 }
 
-'xiphiid' ==================================
+"xiphiid" ==================================
 
   {
 "word": "xiphiid",
@@ -3246,7 +3246,7 @@ To provide a definition or conjugation for the word "xiphi-", more context is ne
 
 This word is of Greek origin, but without additional context it is impossible to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, no definition can be provided until the part of speech is determined.
 
-'xiphiiform' ==================================
+"xiphiiform" ==================================
 
   {
 "word": "xiphiiform",
@@ -3257,7 +3257,7 @@ This word is of Greek origin, but without additional context it is impossible to
 "plural": "xiphiiforms"
 }
 
-'xiphioid' ==================================
+"xiphioid" ==================================
 
   {
 "word": "xiphioid",
@@ -3268,7 +3268,7 @@ This word is of Greek origin, but without additional context it is impossible to
 "plural": "xiphioids"
 }
 
-'xiphiplastra' ==================================
+"xiphiplastra" ==================================
 
   {
 "word": "xiphiplastra",
@@ -3278,7 +3278,7 @@ This word is of Greek origin, but without additional context it is impossible to
 
 To provide a definition or conjugation for the word "xiphiplastra," more information is needed, as this term is not recognized in standard modern Greek or English language. It seems to be an ancient Greek term, possibly related to military or medical contexts, but its exact meaning and usage are unclear without additional context.
 
-'xiphiplastral' ==================================
+"xiphiplastral" ==================================
 
   {
 "word": "xiphiplastral",
@@ -3289,7 +3289,7 @@ To provide a definition or conjugation for the word "xiphiplastra," more informa
 
 This word is a noun in English language and comes from Greek origin. It refers to anything related to or having the shape of a hippopotamus's lower jaw, with two large canine teeth on each side. There are no infinitive forms, conjugations, singular or plural forms for this term as it is not a verb in English.
 
-'xiphiplastron' ==================================
+"xiphiplastron" ==================================
 
   {
 "word": "xiphiplastron",
@@ -3301,7 +3301,7 @@ This word is a noun in English language and comes from Greek origin. It refers t
 
 Note: Xiphiplastron is a bone found in the pectoral girdle of certain animals, including humans. It is not a commonly used word outside of anatomical contexts.
 
-'xiphisterna' ==================================
+"xiphisterna" ==================================
 
   {
 "word": "xiphisterna",
@@ -3312,7 +3312,7 @@ Note: Xiphiplastron is a bone found in the pectoral girdle of certain animals, i
 "definition": "A bony prominence at the junction of the sternum and costal cartilages in humans."
 }
 
-'xiphisternal' ==================================
+"xiphisternal" ==================================
 
   {
 "word": "xiphisternal",
@@ -3322,7 +3322,7 @@ Note: Xiphiplastron is a bone found in the pectoral girdle of certain animals, i
 "plural": "[not applicable for nouns in English]"
 }
 
-'xiphisternum' ==================================
+"xiphisternum" ==================================
 
   {
 "word": "xiphisternum",

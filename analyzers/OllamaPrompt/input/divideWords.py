@@ -2,7 +2,7 @@ import os
 import re
 
 def filePath(filename, subfolder="wordfiles"):
-    return os.path.join(os.getcwd(), "OllamaFetch", "input", subfolder, filename);
+    return os.path.join(os.getcwd(), "OllamaPrompt", "input", subfolder, filename);
 
 def has_punctuation(word):
     # Define a regex pattern to match punctuation (excluding dashes and apostrophes)

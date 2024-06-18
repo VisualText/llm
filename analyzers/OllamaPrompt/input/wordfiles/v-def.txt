@@ -1,0 +1,4652 @@
+
+
+"v" ==================================
+
+  {
+"word": "v",
+"part_of_speech": "None (it's a letter, not a word)",
+"language": "English (or any alphabet-based language)",
+"rarity": "Rare (in English language it represents the Roman numeral value 'V')",
+"topic_area": "Mathematics and Numbers"
+}
+
+"v's" ==================================
+
+  {
+"word": "v's",
+"part_of_speech": "pronoun",
+"language": "English",
+"rarity": "very rare",
+"topic_area": "None (this is a grammatical construct, not a standalone word)",
+"explanation": "The 'v's' in this context refers to the possessive form of the pronoun 'I' or 'you' in English. It indicates possession by the first or second person singular. For example, 'my v's car' means 'my cars'. This is a very rare construct and is not commonly used in everyday language."
+}
+
+"va-et-vien" ==================================
+
+  {
+"word": "va-et-vien",
+"language": "French",
+"part_of_speech": "verb",
+"definition": "come and go, or receive and return visits",
+"infinitive": "venir",
+"conjugations": [
+{"person": "1st singular present", "form": "viens"},
+{"person": "2nd singular present", "form": "ves"},
+{"person": "3rd singular present", "form": "vient"},
+{"person": "1st plural present", "form": "venons"},
+{"person": "2nd plural present", "form": "venez"},
+{"person": "3rd plural present", "form": "vent"},
+{"tense": "present perfect", "person": "1st singular", "form": "suis venu"},
+{"tense": "present perfect", "person": "2nd singular", "form": "es venu"},
+{"tense": "present perfect", "person": "3rd singular", "form": "a été venu"},
+{"tense": "present perfect", "person": "1st plural", "form": "sommes venus"},
+{"tense": "present perfect", "person": "2nd plural", "form": "etez venus"},
+{"tense": "present perfect", "person": "3rd plural", "form": "ont ete venus"},
+{"tense": "past simple", "person": "1st singular", "form": "venais"},
+{"tense": "past simple", "person": "2nd singular", "form": "vas"},
+{"tense": "past simple", "person": "3rd singular", "form": "venait"},
+{"tense": "past simple", "person": "1st plural", "form": "étions venus"},
+{"tense": "past simple", "person": "2nd plural", "form": "etez venus"},
+{"tense": "past simple", "person": "3rd plural", "form": "ont ete venus"},
+{"tense": "past participle", "form": "venu"}
+]
+}
+
+This word is common in the French language. The topic area of this word is related to motion and actions.
+
+"va-t'-en" ==================================
+
+  {
+
+"word": "va-t'-en",
+"language": "French",
+"part_of_speech": "preposition",
+"definition": "out, from",
+"rarity": "common",
+"topic_area": ["movement", "direction"]
+}
+
+"vaad" ==================================
+
+  {
+"word": "vaad",
+"language": "Hindi",
+"part_of_speech": "noun",
+"definition": "Council or committee",
+"singular": "vaad",
+"plural": "vaad-samiti",
+"topic_area": "Politics"
+}
+
+This word is common in the Hindi language. It refers to a council or committee in the context of politics.
+
+"vaadim" ==================================
+
+  {
+"word": "vaadim",
+"language": "Estonian",
+"part_of_speech": "noun",
+"definition": "a leader, commander, or chief",
+"rarity": "rare",
+"topic_area": ["military", "leadership"]
+}
+
+"vaagmaer" ==================================
+
+  {
+"word": "vaagmaer",
+"language": "Unknown",
+"partOfSpeech": "Unknown",
+"definition": "",
+"commonality": "Unknown",
+"topicArea": "Unknown"
+}
+
+To provide a definition, I would need more information about the word "vaagmaer". The language it comes from is also unknown. It could be a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Without further context, it's impossible to determine its part of speech, definition, commonality, and topic area. If it is a verb, the infinitive form and conjugations are also unknown.
+
+"vaagmar" ==================================
+
+  {
+"word": "vaagmar",
+"language": "Dutch",
+"part_of_speech": "noun",
+"definition": "vague term or expression",
+"rarity": "rare",
+"topic_area": ["linguistics", "semantics"]
+}
+
+"vaagmer" ==================================
+
+  {
+"word": "vaagmer",
+"language": "Dutch",
+"partOfSpeech": "adjective",
+"definition": "vague or unclear",
+"topicArea": ["linguistics", "communication"],
+"rarity": "rare"
+}
+
+"vaalite" ==================================
+
+  {
+"word": "vaalite",
+"language": "Finnish",
+"part_of_speech": "noun",
+"definition": "candidate, contender, option",
+"singular": "vaalite",
+"plural": "vaalit",
+"topic_area": "Politics"
+}
+
+"vac" ==================================
+
+  {
+"word": "vac",
+"part_of_speech": "noun",
+"language": "Scandinavian (Norwegian or Danish)",
+"topic_area": "Vacation or empty",
+"frequency": "Rare in English, common in Scandinavian languages",
+"singular": "vac (empty space) or vacanse (vacation)",
+"plural": "vacs or vacanser (vacations)"
+}
+
+Note: In Scandinavian languages, the word "vac" can mean an empty space or a vacation. The context will determine its meaning. If it refers to a vacation, then the plural form would be "vacanser".
+
+"vacabond" ==================================
+
+  {
+"word": "vagabond",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": "People and Social Issues"
+}
+
+"vacance" ==================================
+
+  {
+"word": "vacance",
+"definition": "This word is not recognized as a valid word in any major human language.",
+"part_of_speech": "N/A",
+"language_origin": "N/A",
+"rarity": "Rare",
+"topic_area": "N/A"
+}
+
+"vacancies" ==================================
+
+  {
+"word": "vacancies",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Employment or jobs",
+"frequency": "common"
+}
+
+"vacancies" refers to unfilled positions or jobs. In English, the plural form of the noun is "vacancies". There's no need for infinitive forms or conjugations in this case.
+
+"vacancy" ==================================
+
+  {
+"word": "vacancy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Employment or absence of people or things",
+"synonyms": ["empty position", "absence", "void"],
+"singular": "vacancy",
+"plural": "vacancies"
+}
+
+"vacancy's" ==================================
+
+  {
+"word": "vacancy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": ["employment", "absence"],
+"synonyms": ["empty position", "job opening", "absence", "void"],
+"singular": "vacancy",
+"plural": "vacancies",
+"rarity": "common"
+}
+
+"vacandi" ==================================
+
+  {
+"word": "vacandi",
+"language": "Unknown",
+"part_of_speech": "Unknown",
+"definition": "",
+"commonality": "Rare",
+"topic_area": ""
+}
+
+To provide a definition and other required information for the word "vacandi," more context is needed. The language origin and its part of speech are unknown based on the given input. Additionally, without further context, it's impossible to determine if this word is common or rare or which topic area it belongs to. If you could provide more context or information about the word, please let me know and I will be happy to help.
+
+"vacant" ==================================
+
+  {
+"word": "vacant",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": ["empty", "unoccupied"],
+"rarity": "common"
+}
+
+"vacant-brained" ==================================
+
+  {
+"word": "vacant-brained",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"rarity": "very rare",
+"topic_area": "Psychology or Mental Health",
+"definition": "Lacking intelligence or mental capacity; empty-headed."
+}
+
+"vacant-eyed" ==================================
+
+  {
+"word": "vacant-eyed",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "Physical Appearance or Mood",
+"rarity": "Rare",
+"definition": "Having or giving the impression of empty or unoccupied eyes, often associated with tiredness, boredom, or lack of emotion."
+}
+
+"vacant-headed" ==================================
+
+  {
+"word": "vacant-headed",
+"part_of_speech": "adjective",
+"language": "English",
+"rarity": "very rare",
+"topic_area": ["mental health", "intellect"],
+"definition": "Lacking intelligence or sense; foolish or stupid."
+}
+
+"vacant-looking" ==================================
+
+  {
+"word": "vacant-looking",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": ["appearance", "emotion"],
+"rarity": "common"
+}
+
+"vacant-minded" ==================================
+
+  {
+"word": "vacant-minded",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Psychology, Mental Health",
+"rarity": "Common",
+"definition": "Lacking concentration or intellectual interest; preoccupied with trivial matters."
+}
+
+"vacant-mindedness" ==================================
+
+  {
+"word": "vacant-mindedness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Psychology, Mental Health",
+"definition": "A state of being mentally unfocused or preoccupied to the point of being unproductive or forgetful.",
+"synonyms": ["absent-mindedness", "distraction", "inattention"],
+"rarity_level": "common"
+}
+
+"vacant-seeming" ==================================
+
+  {
+"word": "vacant-seeming",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Perception and Emotion",
+"rarity": "Rare",
+"definition": "Appearing or seeming empty, devoid of people or activity; having an empty or unoccupied look."
+}
+
+"vacante" ==================================
+
+  {
+"word": "vacante",
+"language": "Spanish",
+"partOfSpeech": "adjective",
+"definition": "Empty, unoccupied, vacant.",
+"topicArea": "General",
+"frequency": "Common"
+}
+
+"vacanthearted" ==================================
+
+  {
+"word": "vacanthearted",
+"partOfSpeech": "adjective",
+"language": "English",
+"topicArea": "Emotions and Moods",
+"definition": "Lacking emotion or feeling; emotionally empty.",
+"synonyms": ["apathetic", "dispassionate", "detached"],
+"rarityLevel": "Rare",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vacanthearted",
+"plural": "vacanthearted people"
+}
+
+"vacantheartedness" ==================================
+
+  {
+"word": "vacantheartedness",
+"partOfSpeech": "noun",
+"languageOrigin": "English",
+"rarityLevel": "rare",
+"topicArea": "Emotions and Moods",
+"singular": "vacantheartedness",
+"plural": "vacantheartednesses"
+}
+
+"vacantia" ==================================
+
+  {
+"word": "vacantia",
+"partOfSpeech": "noun",
+"language": "Latin",
+"rarity": "rare",
+"topicArea": "Legal, specifically referring to the absence or lack of a rightful owner or possession of property"
+}
+
+"vacantly" ==================================
+
+  {
+"word": "vacantly",
+"partOfSpeech": "adverb",
+"language": "English",
+"topicArea": "Mental states or emotions",
+"definition": "In a way that suggests emptiness of mind or meaning; absentmindedly.",
+"synonyms": ["absently", "inattentively", "distractedly"],
+"rarity": "common"
+}
+
+"vacantness" ==================================
+
+  {
+"word": "vacantness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Emotion or feeling",
+"synonyms": ["emptiness", "hollowness"],
+"singular": "vacantness",
+"plural": "vacantnesses"
+}
+
+"vacantnesses" ==================================
+
+  {
+"word": "vacantnesses",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": "Emotion or feeling",
+"singular": "vacantness",
+"plural": "vacantnesses"
+}
+
+"vacantry" ==================================
+
+  {
+"word": "vacancy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "The state of being empty or unoccupied.",
+"synonyms": ["emptiness", "absence", "void"],
+"topic_area": ["law", "real estate"],
+"inflection_rules": {
+  "singular": "vacancy",
+  "plural": "vacancies"
+}
+}
+
+"vacatable" ==================================
+
+  {
+"word": "vacatable",
+"partOfSpeech": "None (not a valid English word)",
+"language": "English",
+"rarity": "Rare",
+"topicArea": "Unknown"
+}
+
+"vacate" ==================================
+
+  {
+"word": "vacate",
+"part_of_speech": "verb",
+"language_origin": "English",
+"topic_area": ["law"],
+"definition": "to leave a place or position, especially officially or formally; to make (a law or judgment) no longer valid or in force.",
+"infinitive": "to vacate",
+"conjugations": {
+"present_simple": "vacate",
+"present_continuous": "vacating",
+"past_simple": "vacated",
+"past_participle": "vacated",
+"present_perfect": "have vacated / had vacated",
+"past_perfect": "had vacated",
+"future_simple": "will vacate",
+"future_continuous": "will be vacating",
+"future_perfect": "will have vacated"
+}
+}
+
+Note: The topic area given is just an example, and the word "vacate" is indeed commonly used in law.
+
+"vacated" ==================================
+
+  {
+"word": "vacated",
+"partOfSpeech": "verb",
+"language": "English",
+"topicArea": "Legal",
+"definition": "To leave a place or position empty; to abandon or forsake.",
+"infinitiveForm": "to vacate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacate"},
+{"person": "second", "tense": "present", "form": "you vacate"},
+{"person": "third", "tense": "present", "form": "he/she/it vacates"},
+{"person": "first", "tense": "past", "form": "I vacated"},
+{"person": "second", "tense": "past", "form": "you vacated"},
+{"person": "third", "tense": "past", "form": "he/she/it vacated"},
+{"person": "first", "tense": "present perfect", "form": "I have vacated"},
+{"person": "second", "tense": "present perfect", "form": "you have vacated"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has vacated"},
+{"person": "first", "tense": "past perfect", "form": "I had vacated"},
+{"person": "second", "tense": "past perfect", "form": "you had vacated"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had vacated"},
+{"person": "first", "tense": "present perfect continuous", "form": "I am vacating"},
+{"person": "second", "tense": "present perfect continuous", "form": "you are vacating"},
+{"person": "third", "tense": "present perfect continuous", "form": "he/she/it is vacating"}
+]
+}
+
+Note: The topic area for the word "vacated" is primarily associated with legal contexts, as it is often used in reference to the abandonment or relinquishment of a position, office, or property.
+
+"vacates" ==================================
+
+  {
+"word": "vacates",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Legal or Empty",
+"definition": "to leave a place, position, or office formally or legally",
+"infinitive": "to vacate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacate"},
+{"person": "second", "tense": "present", "form": "you vacate"},
+{"person": "third", "tense": "present", "form": "he, she, it vacates"},
+{"person": "first", "tense": "past", "form": "I vacated"},
+{"person": "second", "tense": "past", "form": "you vacated"},
+{"person": "third", "tense": "past", "form": "he, she, it vacated"},
+{"person": "first", "tense": "present_continuous", "form": "I am vacating"},
+{"person": "second", "tense": "present_continuous", "form": "you are vacating"},
+{"person": "third", "tense": "present_continuous", "form": "he, she, it is vacating"},
+{"person": "first", "tense": "past_continuous", "form": "I had vacated"},
+{"person": "second", "tense": "past_continuous", "form": "you had vacated"},
+{"person": "third", "tense": "past_continuous", "form": "he, she, it had vacated"},
+{"person": "first", "tense": "future", "form": "I will vacate"},
+{"person": "second", "tense": "future", "form": "you will vacate"},
+{"person": "third", "tense": "future", "form": "he, she, it will vacate"},
+{"person": "first", "tense": "present_perfect", "form": "I have vacated"},
+{"person": "second", "tense": "present_perfect", "form": "you have vacated"},
+{"person": "third", "tense": "present_perfect", "form": "he, she, it has vacated"},
+{"person": "first", "tense": "past_perfect", "form": "I had vacated"},
+{"person": "second", "tense": "past_perfect", "form": "you had vacated"},
+{"person": "third", "tense": "past_perfect", "form": "he, she, it had vacated"},
+{"person": "first", "tense": "future_perfect", "form": "I will have vacated"},
+{"person": "second", "tense": "future_perfect", "form": "you will have vacated"},
+{"person": "third", "tense": "future_perfect", "form": "he, she, it will have vacated"}
+]
+}
+
+This word is common in English language and is often used in legal contexts to refer to the act of leaving a position or office formally or legally.
+
+"vacating" ==================================
+
+  {
+"word": "vacating",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Legal or Physical Space",
+"definition": "to leave a place or position, especially officially or formally",
+"infinitive": "to vacate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacate"},
+{"person": "second", "tense": "present", "form": "you vacate"},
+{"person": "third", "tense": "present", "form": "he, she, it vacates"},
+{"person": "first", "tense": "past", "form": "I vacated"},
+{"person": "second", "tense": "past", "form": "you vacated"},
+{"person": "third", "tense": "past", "form": "he, she, it vacated"},
+{"person": "first", "tense": "present_continuous", "form": "I am vacating"},
+{"person": "second", "tense": "present_continuous", "form": "you are vacating"},
+{"person": "third", "tense": "present_continuous", "form": "he, she, it is vacating"},
+{"person": "first", "tense": "past_continuous", "form": "I had been vacating"},
+{"person": "second", "tense": "past_continuous", "form": "you had been vacating"},
+{"person": "third", "tense": "past_continuous", "form": "he, she, it had been vacating"}
+]
+}
+
+Note: This is a general definition and conjugation table for the verb "vacate". The specific meaning and usage of this word may vary depending on the context.
+
+"vacation" ==================================
+
+  {
+"word": "vacation",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": ["travel", "leisure"],
+"synonyms": ["holiday", "rest", "break"],
+"singular": "vacation",
+"plural": "vacations"
+}
+
+"vacational" ==================================
+
+  {
+"word": "vacational",
+"partOfSpeech": "none", // this word does not exist in English language as defined part of speech
+"originLanguage": "unknown",
+"rarity": "extremely rare",
+"topicArea": "none"
+}
+
+"vacationed" ==================================
+
+  {
+"word": "vacationed",
+"partOfSpeech": "Verb",
+"language": "English",
+"topicArea": "Travel and Leisure",
+"definition": "Have taken a vacation or holiday.",
+"infinitiveForm": "to vacation",
+"conjugations": [
+{"person": "First", "tense": "Present", "form": "I have vacationed"},
+{"person": "First", "tense": "Past", "form": "I vacationed"},
+{"person": "First", "tense": "Future", "form": "I will vacation"},
+{"person": "Second", "tense": "Present", "form": "You have vacationed"},
+{"person": "Second", "tense": "Past", "form": "You vacationed"},
+{"person": "Second", "tense": "Future", "form": "You will vacation"},
+{"person": "Third", "tense": "Present", "form": "He/She/It has vacationed"},
+{"person": "Third", "tense": "Past", "form": "He/She/It vacationed"},
+{"person": "Third", "tense": "Future", "form": "He/She/It will vacation"},
+{"person": "First plural", "tense": "Present", "form": "We have vacationed"},
+{"person": "First plural", "tense": "Past", "form": "We vacationed"},
+{"person": "First plural", "tense": "Future", "form": "We will vacation"},
+{"person": "Second plural", "tense": "Present", "form": "You have vacationed"},
+{"person": "Second plural", "tense": "Past", "form": "You vacationed"},
+{"person": "Second plural", "tense": "Future", "form": "You will vacation"},
+{"person": "Third plural", "tense": "Present", "form": "They have vacationed"},
+{"person": "Third plural", "tense": "Past", "form": "They vacationed"},
+{"person": "Third plural", "tense": "Future", "form": "They will vacation"}
+]
+}
+
+Note: This word is formed by the past participle of the verb "vacation" and it's not a common word to use in its past participle form in everyday speech.
+
+"vacationer" ==================================
+
+  {
+"word": "vacationer",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": ["travel", "leisure"]
+}
+
+"vacationers" ==================================
+
+  {
+"word": "vacationers",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": ["travel", "tourism"]
+}
+
+"vacationing" ==================================
+
+  {
+"word": "vacationing",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Travel and Leisure",
+"definition": "Engaging in recreational activities, typically for rest and relaxation, usually away from home.",
+"infinitive": "to vacation",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacation"},
+{"person": "second", "tense": "present", "form": "you vacation"},
+{"person": "third", "tense": "present", "form": "he/she/it vacations"},
+{"person": "first", "tense": "past", "form": "I vacationed"},
+{"person": "second", "tense": "past", "form": "you vacationed"},
+{"person": "third", "tense": "past", "form": "he/she/it vacationed"},
+{"person": "first", "tense": "present_continuous", "form": "I am vacationing"},
+{"person": "second", "tense": "present_continuous", "form": "you are vacationing"},
+{"person": "third", "tense": "present_continuous", "form": "he/she/it is vacationing"},
+{"person": "first", "tense": "past_continuous", "form": "I was vacationing"},
+{"person": "second", "tense": "past_continuous", "form": "you were vacationing"},
+{"person": "third", "tense": "past_continuous", "form": "he/she/it was vacationing"},
+{"person": "first", "tense": "future", "form": "I will vacation"},
+{"person": "second", "tense": "future", "form": "you will vacation"},
+{"person": "third", "tense": "future", "form": "he/she/it will vacation"},
+{"person": "first", "tense": "conditional", "form": "I would vacation"},
+{"person": "second", "tense": "conditional", "form": "you would vacation"},
+{"person": "third", "tense": "conditional", "form": "he/she/it would vacation"},
+{"person": "first", "tense": "perfect", "form": "I have vacationed"},
+{"person": "second", "tense": "perfect", "form": "you have vacationed"},
+{"person": "third", "tense": "perfect", "form": "he/she/it has vacationed"},
+{"person": "first", "tense": "plural_present", "form": "we vacation"},
+{"person": "second", "tense": "plural_present", "form": "you all vacation"},
+{"person": "third", "tense": "plural_present", "form": "they vacation"},
+{"person": "first", "tense": "plural_past", "form": "we vacationed"},
+{"person": "second", "tense": "plural_past", "form": "you all vacationed"},
+{"person": "third", "tense": "plural_past", "form": "they vacationed"},
+{"person": "first", "tense": "plural_present_continuous", "form": "we are vacationing"},
+{"person": "second", "tense": "plural_present_continuous", "form": "you all are vacationing"},
+{"person": "third", "tense": "plural_present_continuous", "form": "they are vacationing"},
+{"person": "first", "tense": "plural_past_continuous", "form": "we were vacationing"},
+{"person": "second", "tense": "plural_past_continuous", "form": "you all were vacationing"},
+{"person": "third", "tense": "plural_past_continuous", "form": "they were vacationing"},
+{"person": "first", "tense": "future_perfect", "form": "I will have vacationed"},
+{"person": "second", "tense": "future_perfect", "form": "you will have vacationed"},
+{"person": "third", "tense": "future_perfect", "form": "he/she/it will have vacationed"},
+{"person": "first", "tense": "conditional_perfect", "form": "I would have vacationed"},
+{"person": "second", "tense": "conditional_perfect", "form": "you would have vacationed"},
+{"person": "third", "tense": "conditional_perfect", "form": "he/she/it would have vacationed"}
+]
+}
+
+Note: This is a comprehensive list of conjugations for the verb "vacationing". However, it's important to note that some tenses and forms may not be used in everyday language.
+
+"vacationist" ==================================
+
+  {
+"word": "vacationist",
+"partOfSpeech": "noun",
+"language": "English",
+"definition": "A person who takes vacations or travels for pleasure.",
+"rarity": "common",
+"topicArea": ["Travel and Tourism"]
+}
+
+"vacationists" ==================================
+
+  {
+"word": "vacationists",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": ["travel", "tourism"]
+}
+
+"vacationland" ==================================
+
+  {
+"word": "vacationland",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": ["travel", "tourism"]
+}
+
+"vacationlands" ==================================
+
+  {
+"word": "vacationlands",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": ["travel", "tourism"]
+}
+
+"Vacationlands" is a noun in English language, referring to areas or places that are popular for vacationing or tourism. It is a rare term and is commonly used in the context of travel and tourism industries.
+
+"vacationless" ==================================
+
+  {
+"word": "vacationless",
+"partOfSpeech": "adjective",
+"language": "English",
+"rarity": "rare",
+"topicArea": ["travel", "leisure"]
+}
+
+"vacations" ==================================
+
+  {
+"word": "vacations",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": ["travel", "leisure"],
+"singular": "vacation",
+"plural": "vacations"
+}
+
+"vacatur" ==================================
+
+  {
+"word": "vacatur",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"rarity": "rare",
+"topic_area": ["law"]
+}
+
+The word "vacatur" is a Latin noun that means "vacated" or "abandoned". It is used in legal contexts to refer to the voiding or setting aside of a judgment, order, or decree. There is no infinitive form for this word as it is not a verb. The singular form of "vacatur" is "vacatum" in its neutral gender form, and the plural form is "vacata" for feminine, "vacatae" for neuter, and "vacata" for masculine or plural forms in other genders.
+
+"vaccary" ==================================
+
+  {
+"word": "vaccary",
+"part_of_speech": "Unknown",
+"language_origin": "Unclear",
+"frequency": "Rare",
+"topic_area": "Unknown"
+}
+
+Without additional context, it is impossible to determine if the word "vaccary" is a part of speech, its language origin, how common it is, or its topic area. The infinitive form and conjugations are also unknown since the word's part of speech is undetermined.
+
+"vaccenic" ==================================
+
+  {
+"word": "vaccenic",
+"part_of_speech": "Unknown",
+"language": "Unspecified",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+The word "vaccenic" is not a standard English or any other commonly known language word. It does not have a defined part of speech, meaning, or topic area. Therefore, it cannot be classified as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, there is no infinitive form or conjugations to provide for a verb, and there is no singular or plural form to delineate for a noun.
+
+"vaccicide" ==================================
+
+  {
+"word": "vaccicide",
+"part_of_speech": "none (not a recognized word in any human language)",
+"language_origin": "unknown",
+"frequency": "extremely rare (if not nonexistent)",
+"topic_area": "none (as it is not a recognized word)"
+}
+
+"vaccigenous" ==================================
+
+  {
+"word": "vaccigenous",
+"partOfSpeech": "Noun",
+"language": "Unknown",
+"definition": "Not defined in any major human language.",
+"rarity": "Rare",
+"topicArea": "Medical or Biological Term"
+}
+
+"vaccina" ==================================
+
+  {
+"word": "vaccina",
+"language": "Latin",
+"part_of_speech": "noun",
+"definition": "A small bottle or container used to hold a vaccine.",
+"commonality": "Rare in English, but common in Latin.",
+"topic_area": ["Medicine"]
+}
+
+"vaccinable" ==================================
+
+  {
+"word": "vaccinable",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "Medicine",
+"rarity": "Common"
+}
+
+"vaccinal" ==================================
+
+  {
+"word": "vaccinal",
+"part_of_speech": "adjective",
+"language_origin": "Latin",
+"meaning": "pertaining to vaccines or inoculation",
+"rarity": "rare",
+"topic_area": ["medicine", "health"]
+}
+
+"vaccinas" ==================================
+
+  {
+"word": "vaccinas",
+"definition": "This is an incorrect or unknown word.",
+"part_of_speech": "N/A",
+"language": "Unknown",
+"commonality": "Rare",
+"topic_area": "N/A"
+}
+
+"vaccinate" ==================================
+
+  {
+"word": "vaccinate",
+"part_of_speech": "verb",
+"language_origin": "English",
+"topic_area": "Medicine",
+"infinitive_form": "to vaccinate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "vaccinate"},
+{"person": "second", "tense": "present", "form": "vaccinate you"},
+{"person": "third", "tense": "present", "form": "vaccinates"},
+{"person": "first", "tense": "past", "form": "vaccinated"},
+{"person": "second", "tense": "past", "form": "vaccinated you"},
+{"person": "third", "tense": "past", "form": "vaccinated them"},
+{"person": "first", "tense": "present_continuous", "form": "am vaccinating"},
+{"person": "second", "tense": "present_continuous", "form": "are vaccinating you"},
+{"person": "third", "tense": "present_continuous", "form": "are vaccinating them"},
+{"person": "first", "tense": "past_continuous", "form": "had vaccinated"},
+{"person": "second", "tense": "past_continuous", "form": "had vaccinated you"},
+{"person": "third", "tense": "past_continuous", "form": "had vaccinated them"}
+]
+}
+
+Note: This is a common word in the English language, used primarily in the context of Medicine.
+
+"vaccinated" ==================================
+
+  {
+"word": "vaccinated",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Medicine",
+"definition": "Having received a vaccination.",
+"infinitive": "to vaccinate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "vaccinate"},
+{"person": "second", "tense": "present", "form": "vaccinate you"},
+{"person": "third", "tense": "present", "form": "vaccinates"},
+{"person": "first", "tense": "past", "form": "vaccinated"},
+{"person": "second", "tense": "past", "form": "vaccinated you"},
+{"person": "third", "tense": "past", "form": "vaccinated them"},
+{"person": "first", "tense": "present perfect", "form": "have vaccinated"},
+{"person": "second", "tense": "present perfect", "form": "have vaccinated you"},
+{"person": "third", "tense": "present perfect", "form": "have vaccinated them"},
+{"person": "first", "tense": "past perfect", "form": "had vaccinated"},
+{"person": "second", "tense": "past perfect", "form": "had vaccinated you"},
+{"person": "third", "tense": "past perfect", "form": "had vaccinated them"},
+{"person": "first", "tense": "present continuous", "form": "am vaccinating"},
+{"person": "second", "tense": "present continuous", "form": "are vaccinating you"},
+{"person": "third", "tense": "present continuous", "form": "are vaccinating them"},
+{"person": "first", "tense": "past continuous", "form": "had been vaccinating"},
+{"person": "second", "tense": "past continuous", "form": "had been vaccinating you"},
+{"person": "third", "tense": "past continuous", "form": "had been vaccinating them"}
+]
+}
+
+This word is common in the English language.
+
+"vaccinates" ==================================
+
+  {
+"word": "vaccinates",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Medicine",
+"infinitive": "vaccinate",
+"conjugations": [
+{"person": "first_singular", "tense": "present", "form": "vaccinate"},
+{"person": "second_singular", "tense": "present", "form": "vaccinate"},
+{"person": "third_singular", "tense": "present", "form": "vaccinates"},
+{"person": "first_plural", "tense": "present", "form": "vaccinate"},
+{"person": "second_plural", "tense": "present", "form": "vaccinate"},
+{"person": "third_plural", "tense": "present", "form": "vaccinate"},
+{"person": "first_singular", "tense": "past", "form": "vaccinated"},
+{"person": "second_singular", "tense": "past", "form": "vaccinated"},
+{"person": "third_singular", "tense": "past", "form": "vaccinated"},
+{"person": "first_plural", "tense": "past", "form": "were vaccinated"},
+{"person": "second_plural", "tense": "past", "form": "were vaccinated"},
+{"person": "third_plural", "tense": "past", "form": "were vaccinated"},
+{"person": "first_singular", "tense": "future", "form": "will vaccinate"},
+{"person": "second_singular", "tense": "future", "form": "will vaccinate"},
+{"person": "third_singular", "tense": "future", "form": "will vaccinate"},
+{"person": "first_plural", "tense": "future", "form": "will vaccinate"}
+]
+}
+
+This word is common in the English language and is related to the topic area of medicine. The base form of the verb is "vaccinate". All conjugations for this verb are provided, including present tense (first, second, third person singular and plural), past tense (first, second, third person singular and plural), and future tense (first, second, third person singular and plural).
+
+"vaccinating" ==================================
+
+  {
+"word": "vaccinating",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Medicine",
+"rarity": "common"
+}
+
+"vaccinating" is a verb in English language. It refers to the act of giving someone a vaccination. The infinitive form is "to vaccinate". Here are some common conjugations:
+
+- I vaccinate
+- You (singular) vaccinate
+- He/She/It vaccinates
+- We vaccinate
+- They vaccinate
+
+For example, "I vaccinate people against measles" or "They are vaccinating livestock on the farm".
+
+"vaccination" ==================================
+
+  {
+"word": "vaccination",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "The act of introducing a vaccine into the body to produce immunity to a specific disease.",
+"singular": "vaccination",
+"plural": "vaccinations"
+}
+
+"vaccinationist" ==================================
+
+  {
+"word": "vaccinationist",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": ["medicine", "health"]
+}
+
+"vaccinations" ==================================
+
+  {
+"word": "vaccinations",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "The act of introducing a vaccine into the body to produce immunity to a specific disease.",
+"singular": "vaccination",
+"plural": "vaccinations",
+"rarity": "common"
+}
+
+"vaccinator" ==================================
+
+  {
+"word": "vaccinator",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "A person who administers vaccines.",
+"singular": "vaccinator",
+"plural": "vaccinators"
+}
+
+"vaccinators" ==================================
+
+  {
+"word": "vaccinators",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "People or organizations that administer vaccines.",
+"singular": "vaccinator",
+"plural": "vaccinators",
+"rarity": "common"
+}
+
+"vaccinatory" ==================================
+
+  {
+"word": "vaccinatory",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Medicine",
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vaccinatory",
+"plural": "vaccinatory (used rarely)"
+}
+
+"vaccine" ==================================
+
+  {
+"word": "vaccine",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "A preparation of a dead microorganism or a living attenuated microorganisms that is administered to produce immunity to a particular disease.",
+"singular": "vaccine",
+"plural": "vaccines"
+}
+
+"vaccinee" ==================================
+
+  {
+"word": "vaccinee",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "A person who has received a vaccine.",
+"inflection": {
+"singular": "vaccinee",
+"plural": "vaccinees"
+}
+}
+
+This word is relatively common in the context of medicine and health. It refers to an individual who has undergone vaccination. There are no infinitive forms, conjugations, or other parts of speech associated with this term.
+
+"vaccinees" ==================================
+
+  {
+"word": "vaccines",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Medicine",
+"definition": "A product designed to stimulate the body's immune system to produce immunity to a specific disease, prepared from the causative agent of that disease or its components, or a live but weakened form of the microorganism.",
+"singular": "vaccine",
+"plural": "vaccines"
+}
+
+"vaccinella" ==================================
+
+  {
+"word": "vaccinella",
+"partOfSpeech": "noun",
+"language": "Italian",
+"rarity": "rare",
+"topicArea": "Medicine",
+"singular": "vaccinella",
+"plural": "[not provided]"
+}
+
+Note: The word "vaccinella" is a diminutive form of the Italian word for "small vial" or "ampoule," which are commonly used in vaccinations. It is not a common term outside of the medical field, specifically related to vaccines. There is no infinitive form or conjugations provided as it is a noun.
+
+"vaccines" ==================================
+
+  {
+"word": "vaccines",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "A product designed to stimulate the body's immune system to produce immunity to a specific disease, prepared from the causative agent of a disease, or a portion of an agent that produces immunity.",
+"singular": "vaccine",
+"plural": "vaccines"
+}
+
+"vaccinia" ==================================
+
+  {
+
+"word": "vaccinia",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Medicine",
+"definition": "A type of double-stranded DNA virus that causes cowpox, and is used in the preparation of the smallpox vaccine.",
+"singular": "vaccinia",
+"plural": "[not applicable for a singular noun]",
+"infinitive_form": "[not applicable for a noun]"
+
+}
+
+"vacciniaceous" ==================================
+
+  {
+"word": "vacciniaceous",
+"part_of_speech": "adjective",
+"language_origin": "Latin",
+"topic_area": "Medicine",
+"rarity": "Rare",
+"definition": "Relating to vaccines or inoculation."
+}
+
+"vaccinial" ==================================
+
+  {
+"word": "vaccinial",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": "Relating to vaccines or inoculation.",
+"frequency": "Rare",
+"topic_area": ["Medicine", "Health"]
+}
+
+"vaccinias" ==================================
+
+  {
+"word": "vaccinia",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Medicine",
+"rarity": "Rare",
+"singular": "vaccinia",
+"plural": "[not applicable]"
+}
+
+Note: Vaccinia is the name of a specific type of virus, specifically the vaccinia virus, which is used in some vaccines. It is not a common word outside of medical contexts.
+
+"vaccinifer" ==================================
+
+  {
+"word": "vaccinifer",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A plant or tree that bears vaccines or produces vaccine.",
+"rarity": "Rare",
+"topic_area": ["Medicine", "Botany"]
+}
+
+"vacciniform" ==================================
+
+  {
+"word": "vacciniform",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "having the appearance or form of a vaccine",
+"rarity": "extremely rare",
+"topic_area": ["medicine", "biology"]
+}
+
+"vacciniola" ==================================
+
+  {
+"word": "vacciniola",
+"part_of_speech": "Unknown",
+"language": "Italian",
+"frequency": "Rare",
+"topic_area": "Medicine",
+"definition": {
+"meaning": ["A small vial or ampoule for containing a vaccine."],
+"form": ["feminine noun"]
+}
+}
+
+Please note that the given information is based on my current knowledge and it's possible that "vacciniola" could be a term specific to a certain field within medicine. If it turns out to be a verb, adjective, etc., I would need more context to provide an accurate definition and conjugations/infinitive form.
+
+"vaccinist" ==================================
+
+  {
+"word": "vaccinist",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "A person who administers vaccines.",
+"singular": "vaccinist",
+"plural": "vaccinists"
+}
+
+"vaccinization" ==================================
+
+  {
+"word": "vaccination",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "The act of introducing a vaccine into the body to produce immunity to a specific disease.",
+"singular": "vaccination",
+"plural": "vaccinations"
+}
+
+"vaccino-syphilis" ==================================
+
+  {
+"word": "vaccino-syphilis",
+"part_of_speech": "unknown",
+"language": "unidentified",
+"commonality": "rare",
+"topic_area": "Medicine"
+}
+
+This word is unknown as it does not exist in any standard human language to the best of my knowledge. It appears to be a combination of two words, "vaccino" and "syphilis," but without additional context or information, it is impossible to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, the language it comes from is also unknown.
+
+"vaccinogenic" ==================================
+
+  {
+"word": "vaccinogenic",
+"partOfSpeech": "adjective",
+"languageOrigin": "English",
+"topicArea": "Medical",
+"definition": "Producing or eliciting an immune response to a vaccine.",
+"synonyms": ["immunogenic", "vaccine-inducing"],
+"rarityLevel": "Rare"
+}
+
+"vaccinogenous" ==================================
+
+  {
+"word": "vaccinogenous",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Medicine",
+"rarity": "Rare",
+"definition": "Producing or containing substances that stimulate an immune response, used in relation to vaccines."
+}
+
+"vaccinoid" ==================================
+
+  {
+"word": "vaccinoid",
+"part_of_speech": "noun",
+"language_origin": "Science (specifically, immunology)",
+"rarity": "Rare",
+"topic_area": ["Medicine", "Immunology"],
+"singular": "vaccinoid",
+"plural": "vaccinoids"
+}
+
+Note: The provided definition assumes that the term "vaccinoid" refers to a substance or entity that mimics the properties of a vaccine. If it has a different meaning, the definition would need to be adjusted accordingly. Additionally, since this term is rare and specific to immunology, it's unlikely that there are any conjugations or infinitive forms associated with it.
+
+"vaccinophobia" ==================================
+
+  {
+"word": "vaccinophobia",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "An irrational fear or anxiety of vaccines.",
+"topic_area": "Health",
+"rarity": "Rare",
+"singular": "vaccinophobia",
+"plural": "vaccinophobias"
+}
+
+"vaccinotherapy" ==================================
+
+  {
+"word": "vaccinotherapy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "Treatment of diseases or conditions using vaccines.",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vaccinotherapy",
+"plural": "vaccinotherapies"
+}
+
+"vache" ==================================
+
+  {
+"word": "vache",
+"language": "French",
+"part_of_speech": "noun",
+"definition": "Cow",
+"singular": "vache",
+"plural": "vaches",
+"topic_area": "Animals"
+}
+
+"vachette" ==================================
+
+  {
+"word": "vachette",
+"partOfSpeech": "noun",
+"language": "French",
+"rarity": "rare",
+"topicArea": "Unknown",
+"singular": "vachette",
+"plural": "vachettes"
+}
+
+"vacillancy" ==================================
+
+  {
+"word": "vacillancy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Behavior and Psychology",
+"definition": "The quality of being unstable or uncertain in actions, opinions, or feelings.",
+"synonyms": ["hesitancy", "wavering", "uncertainty"],
+"rarity": "common"
+}
+
+"vacillant" ==================================
+
+  {
+"word": "vacillant",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Behavior and emotions",
+"definition": "Hesitant or uncertain in making decisions or taking action.",
+"synonyms": ["hesitant", "uncertain", "wavering", "unresolved"],
+"rarity": "common"
+}
+
+"vacillate" ==================================
+
+  {
+"word": "vacillate",
+"part_of_speech": "verb",
+"language_origin": "English",
+"topic_area": "Behavior and emotions",
+"definition": "to waver in one's decisions, feelings, or actions; to be unable to make up one's mind",
+"infinitive": "to vacillate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacillate"},
+{"person": "second", "tense": "present", "form": "you vacillate"},
+{"person": "third", "tense": "present", "form": "he, she, it vacillates"},
+{"person": "first", "tense": "past", "form": "I vacillated"},
+{"person": "second", "tense": "past", "form": "you vacillated"},
+{"person": "third", "tense": "past", "form": "he, she, it vacillated"},
+{"person": "first", "tense": "present continuous", "form": "I am vacillating"},
+{"person": "second", "tense": "present continuous", "form": "you are vacillating"},
+{"person": "third", "tense": "present continuous", "form": "he, she, it is vacillating"},
+{"person": "first", "tense": "past continuous", "form": "I had vacillated"},
+{"person": "second", "tense": "past continuous", "form": "you had vacillated"},
+{"person": "third", "tense": "past continuous", "form": "he, she, it had vacillated"},
+{"person": "first", "tense": "present perfect", "form": "I have vacillated"},
+{"person": "second", "tense": "present perfect", "form": "you have vacillated"},
+{"person": "third", "tense": "present perfect", "form": "he, she, it has vacillated"},
+{"person": "first", "tense": "past perfect", "form": "I had vacillated"},
+{"person": "second", "tense": "past perfect", "form": "you had vacillated"},
+{"person": "third", "tense": "past perfect", "form": "he, she, it had vacillated"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vacillating"},
+{"person": "second", "tense": "present perfect continuous", "form": "you have been vacillating"},
+{"person": "third", "tense": "present perfect continuous", "form": "he, she, it has been vacillating"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vacillating"},
+{"person": "second", "tense": "past perfect continuous", "form": "you had been vacillating"},
+{"person": "third", "tense": "past perfect continuous", "form": "he, she, it had been vacillating"}
+]
+}
+
+This word is common in the English language.
+
+"vacillated" ==================================
+
+  {
+"word": "vacillated",
+"partOfSpeech": "verb",
+"language": "English",
+"definition": "to waver in one's decisions or actions",
+"infinitiveForm": "vacillate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacillate"},
+{"person": "second", "tense": "present", "form": "you vacillate"},
+{"person": "third", "tense": "present", "form": "he, she, it vacillates"},
+{"person": "first", "tense": "past", "form": "I vacillated"},
+{"person": "second", "tense": "past", "form": "you vacillated"},
+{"person": "third", "tense": "past", "form": "he, she, it vacillated"},
+{"person": "first", "tense": "present perfect", "form": "I have vacillated"},
+{"person": "second", "tense": "present perfect", "form": "you have vacillated"},
+{"person": "third", "tense": "present perfect", "form": "he, she, it has vacillated"},
+{"person": "first", "tense": "past perfect", "form": "I had vacillated"},
+{"person": "second", "tense": "past perfect", "form": "you had vacillated"},
+{"person": "third", "tense": "past perfect", "form": "he, she, it had vacillated"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vacillating"},
+{"person": "second", "tense": "present perfect continuous", "form": "you have been vacillating"},
+{"person": "third", "tense": "present perfect continuous", "form": "he, she, it has been vacillating"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vacillating"},
+{"person": "second", "tense": "past perfect continuous", "form": "you had been vacillating"},
+{"person": "third", "tense": "past perfect continuous", "form": "he, she, it had been vacillating"}
+]
+}
+
+This word is relatively common in the English language and is related to the topic areas of decision making and indecisiveness.
+
+"vacillates" ==================================
+
+  {
+"word": "vacillates",
+"part_of_speech": "verb",
+"language_origin": "English",
+"topic_area": "Behavior and emotions",
+"definition": "to waver in one's decisions, feelings, or actions; to be unable to make up one's mind",
+"infinitive": "to vacillate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacillate"},
+{"person": "second", "tense": "present", "form": "you vacillate"},
+{"person": "third", "tense": "present", "form": "he, she, it vacillates"},
+{"person": "first", "tense": "past", "form": "I vacillated"},
+{"person": "second", "tense": "past", "form": "you vacillated"},
+{"person": "third", "tense": "past", "form": "he, she, it vacillated"},
+{"person": "first", "tense": "present_continuous", "form": "I am vacillating"},
+{"person": "second", "tense": "present_continuous", "form": "you are vacillating"},
+{"person": "third", "tense": "present_continuous", "form": "he, she, it is vacillating"},
+{"person": "first", "tense": "past_continuous", "form": "I had vacillated"},
+{"person": "second", "tense": "past_continuous", "form": "you had vacillated"},
+{"person": "third", "tense": "past_continuous", "form": "he, she, it had vacillated"}
+]
+}
+
+Note: This word is common in the English language.
+
+"vacillating" ==================================
+
+  {
+"word": "vacillating",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Behavior and emotions",
+"definition": "Hesitating or unable to make a decision.",
+"infinitive": "to vacillate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacillate"},
+{"person": "second", "tense": "present", "form": "you vacillate"},
+{"person": "third", "tense": "present", "form": "he, she, it vacillates"},
+{"person": "first", "tense": "past", "form": "I vacillated"},
+{"person": "second", "tense": "past", "form": "you vacillated"},
+{"person": "third", "tense": "past", "form": "he, she, it vacillated"},
+{"person": "first", "tense": "present_continuous", "form": "I am vacillating"},
+{"person": "second", "tense": "present_continuous", "form": "you are vacillating"},
+{"person": "third", "tense": "present_continuous", "form": "he, she, it is vacillating"},
+{"person": "first", "tense": "past_continuous", "form": "I had been vacillating"},
+{"person": "second", "tense": "past_continuous", "form": "you had been vacillating"},
+{"person": "third", "tense": "past_continuous", "form": "he, she, it had been vacillating"}
+]
+}
+
+Note: This is a general definition and conjugation table for the word "vacillating". The specific context in which the word is used may alter its meaning or require different conjugations.
+
+"vacillatingly" ==================================
+
+  {
+"word": "vacillatingly",
+"partOfSpeech": "adverb",
+"language": "English",
+"rarity": "moderate",
+"topicArea": ["decision making", "behavior"],
+"definition": "in a hesitant or uncertain manner"
+}
+
+"vacillation" ==================================
+
+  {
+"word": "vacillation",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "the act of wavering or hesitating in making a decision or taking action",
+"synonyms": ["hesitation", "wavering", "dithering"],
+"rarity": "common",
+"topic_area": ["psychology", "decision making"]
+}
+
+"vacillations" ==================================
+
+  {
+"word": "vacillations",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": " Psychology, Decision Making",
+"definition": "A series of alternations between two or more actions or states.",
+"synonyms": ["hesitation", "wavering", "dithering"],
+"rarity": "common"
+}
+
+"vacillator" ==================================
+
+  {
+"word": "vacillator",
+"partOfSpeech": "noun",
+"language": "English",
+"definition": "A person who is unable to make decisions or is indecisive.",
+"rarity": "common",
+"topicArea": "Psychology, Communication"
+}
+
+"vacillators" ==================================
+
+  {
+"word": "vacillators",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Psychology, Decision Making",
+"definition": "A person who is unable to make decisions or is indecisive.",
+"synonyms": ["hesitators", "waverers"],
+"rarity": "Common"
+}
+
+"vacillatory" ==================================
+
+  {
+"word": "vacillatory",
+"partOfSpeech": "adjective",
+"languageOrigin": "English",
+"topicArea": "Behavior and Psychology",
+"definition": "Characterized by wavering or hesitation in making decisions or taking action.",
+"synonyms": ["hesitant", "uncertain", "wavering", "equivocating"],
+"rarityLevel": "moderate",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vacillatory thing/person",
+"plural": "vacillatory things/people"
+}
+
+"vacoa" ==================================
+
+  {
+"word": "vacoa",
+"language": "Romanian",
+"part_of_speech": "noun",
+"definition": "an empty or vacant place, thing or vessel",
+"topics_area": ["geometry", "physics"],
+"synonyms": ["vid", "gosor", "prăzginit"],
+"singular": "vacoa",
+"plural": "vacoane"
+}
+
+"vacona" ==================================
+
+  {
+"word": "vacona",
+"language": "Hawaiian",
+"part_of_speech": "noun",
+"definition": "A type of Hawaiian dance or party.",
+"rarity": "Rare",
+"topic_area": ["Culture"]
+}
+
+"vacoua" ==================================
+
+  {
+"word": "vacoua",
+"part_of_speech": "Unknown",
+"language": "Unidentified",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+To provide a definition or conjugation for the word "vacoua," more information is needed, such as the specific language it comes from and its role in that language (noun, verb, etc.).
+
+"vacouf" ==================================
+
+  {
+"word": "vacouf",
+"part_of_speech": "Unknown",
+"language": "Unidentified",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+"vacs" ==================================
+
+  {
+"word": "vacs",
+"part_of_speech": "unknown",
+"language": "English (or possibly an abbreviation from another language)",
+"commonality": "rare",
+"topic_area": "None identified"
+}
+
+To provide a definition or conjugations for the word "vacs," more context is needed. The given information does not allow me to determine if it is a noun, verb, adjective, etc., let alone provide a definition or conjugations. Additionally, without further context, it's impossible to identify the topic area of this word.
+
+"vacua" ==================================
+
+  {
+"word": "vacua",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A region of spacetime where the energy density is lower than that of the surrounding space.",
+"topics_area": ["Physics"],
+"rarity": "Rare in general English usage, but common in scientific contexts."
+}
+
+"vacual" ==================================
+
+  {
+"word": "vacual",
+"part_of_speech": "None",
+"language": "Unknown",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+"vacuate" ==================================
+
+  {
+"word": "vacuate",
+"partOfSpeech": "verb",
+"languageOrigin": "English",
+"topicArea": "Mathematics, Law",
+"definition": "To empty or leave (a place, building, or container) completely.",
+"infinitiveForm": "to vacate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacate"},
+{"person": "second", "tense": "present", "form": "you vacate"},
+{"person": "third", "tense": "present", "form": "he/she/it vacates"},
+{"person": "first", "tense": "past", "form": "I vacated"},
+{"person": "second", "tense": "past", "form": "you vacated"},
+{"person": "third", "tense": "past", "form": "he/she/it vacated"},
+{"person": "first", "tense": "present continuous", "form": "I am vacating"},
+{"person": "second", "tense": "present continuous", "form": "you are vacating"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is vacating"},
+{"person": "first", "tense": "past continuous", "form": "I had vacated"},
+{"person": "second", "tense": "past continuous", "form": "you had vacated"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it had vacated"},
+{"person": "first", "tense": "present perfect", "form": "I have vacated"},
+{"person": "second", "tense": "present perfect", "form": "you have vacated"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has vacated"},
+{"person": "first", "tense": "past perfect", "form": "I had vacated"},
+{"person": "second", "tense": "past perfect", "form": "you had vacated"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had vacated"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vacating"},
+{"person": "second", "tense": "present perfect continuous", "form": "you have been vacating"},
+{"person": "third", "tense": "present perfect continuous", "form": "he/she/it has been vacating"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vacating"},
+{"person": "second", "tense": "past perfect continuous", "form": "you had been vacating"},
+{"person": "third", "tense": "past perfect continuous", "form": "he/she/it had been vacating"}
+]
+}
+
+Note: This word is common in both Mathematics (when referring to the emptying of a set) and Law (when referring to leaving a place or position).
+
+"vacuation" ==================================
+
+  {
+"word": "vacation",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A period of time spent away from one's regular job or duties, typically for rest, recreation, or travel.",
+"rarity": "common",
+"topic_area": ["travel", "leisure"]
+}
+
+"vacuefy" ==================================
+
+  {
+"word": "vacuefy",
+"part_of_speech": "Unknown",
+"language": "English (or possibly made-up)",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+Since the word "vacuefy" is unknown in any human language, it cannot be definitively classified as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Its meaning and usage are also undefined. Therefore, no further information can be provided regarding its infinitive form, singular and plural forms, or conjugations.
+
+"vacuist" ==================================
+
+  {
+"word": "vacuist",
+"part_of_speech": "Noun",
+"language_origin": "Unknown",
+"rarity": "Rare",
+"topic_area": "Philosophy or Logic",
+"definition": "A person who holds that the universe is empty of substance or matter."
+}
+
+"vacuit" ==================================
+
+  {
+"word": "vacuit",
+"language": "Latin",
+"partOfSpeech": "noun",
+"definition": "being empty or void",
+"inflection": {
+"singular": "vacuum",
+"plural": "vacua"
+},
+"topicArea": "Physics, Philosophy"
+}
+
+"vacuities" ==================================
+
+  {
+"word": "vacuities",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Philosophy, Psychology",
+"definition": "A state of emptiness or meaninglessness, often used to describe a conversation or argument that lacks substance.",
+"synonyms": ["hollowness", "emptiness", "vacuity"],
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vacuity",
+"plural": "vacuities"
+}
+
+"vacuity" ==================================
+
+  {
+"word": "vacuity",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Philosophy, Psychology",
+"definition": "The quality or state of being empty; hollowness, emptiness.",
+"synonyms": ["emptiness", "hollowness", "void"],
+"antonyms": ["fullness", "substance", "solidity"]
+}
+
+"vacuo" ==================================
+
+  {
+"word": "vacuo",
+"partOfSpeech": "noun",
+"language": "Latin",
+"rarity": "rare",
+"topicArea": "Mathematics, Logic",
+"singular": "vacuum (neut. n.)",
+"plural": "vacia (fem. n.) or vacua (neut. pl.)"
+}
+
+"vacuolar" ==================================
+
+  {
+"word": "vacuolar",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Biology",
+"definition": "Relating to or containing vacuoles.",
+"synonyms": ["vacuole-bearing", "vacuolated"],
+"rarity": "Moderate",
+"singular": "vacuole",
+"plural": "vacuoles"
+}
+
+"vacuolary" ==================================
+
+  {
+"word": "vacuolary",
+"part_of_speech": "adjective",
+"language_origin": "Latin",
+"topic_area": "Biology",
+"rarity": "Rare",
+"definition": "Relating to or characterized by the presence of vacuoles."
+}
+
+"vacuolate" ==================================
+
+  {
+"word": "vacuolate",
+"partOfSpeech": "adjective",
+"languageOrigin": "Latin",
+"definition": "Having or resembling a vacuole; containing or filled with small, membrane-bound sacs or spaces.",
+"topicArea": "Biology",
+"rarityLevel": "Rare"
+}
+
+"vacuolated" ==================================
+
+  {
+"word": "vacuolated",
+"partOfSpeech": "adjective",
+"languageOrigin": "English",
+"topicArea": "Biology",
+"definition": "Containing or filled with vacuoles.",
+"synonyms": ["vesiculated", "spongy"],
+"rarityLevel": "Rare"
+}
+
+"vacuolation" ==================================
+
+  {
+"word": "vacuolation",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Anatomy, Pathology",
+"definition": "The presence or formation of vacuoles in cells.",
+"synonyms": ["vacuole formation", "spongiosis"],
+"rarity": "Moderate"
+}
+
+"vacuolations" ==================================
+
+  {
+"word": "vacuolations",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Biology",
+"definition": "The process or phenomenon of forming vacuoles in a cell.",
+"synonyms": ["vacuolation", "vacuole formation"],
+"plural": "vacuolations (uncountable)",
+"rarity": "Rare in everyday language but common in scientific contexts."
+}
+
+"vacuole" ==================================
+
+  {
+"word": "vacuole",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Biology",
+"definition": "A membrane-bound organelle in a cell that contains and stores fluid and gases.",
+"singular": "vacuole",
+"plural": "vacuoles"
+}
+
+"vacuoles" ==================================
+
+  {
+"word": "vacuoles",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Biology",
+"definition": "Membrane-bound organelles in the cytoplasm of plant and animal cells, containing fluid and various dissolved substances.",
+"singular": "vacuole",
+"plural": "vacuoles",
+"rarity": "Common"
+}
+
+"vacuolization" ==================================
+
+  {
+"word": "vacuolization",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Biology",
+"definition": "The process or phenomenon of cells containing large, membrane-bound vacuoles.",
+"synonyms": ["vacuolation", "vacuole formation"],
+"singular": "vacuolization",
+"plural": "vacuolizations"
+}
+
+"vacuome" ==================================
+
+  {
+"word": "vacuome",
+"part_of_speech": "None",
+"definition": "This word does not exist in any known human language.",
+"rarity": "Rare",
+"topic_area": "Unknown"
+}
+
+"vacuometer" ==================================
+
+  {
+"word": "vacuometer",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": "Science and Technology",
+"definition": "An instrument used to measure the volume or pressure of a vacuum."
+}
+
+"vacuous" ==================================
+
+  {
+"word": "vacuous",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Devoid of meaning or content; empty.",
+"rarity": "common",
+"topic_area": ["Philosophy", "Logic"]
+}
+
+"vacuously" ==================================
+
+  {
+"word": "vacuously",
+"part_of_speech": "adverb",
+"language_origin": "English",
+"topic_area": "Logic and Philosophy",
+"definition": "In a way that is empty or hollow, especially in a manner that lacks sincerity or meaning.",
+"synonyms": ["emptily", "hollowly", "insincerely"],
+"rarity": "common"
+}
+
+"vacuousness" ==================================
+
+  {
+"word": "vacuousness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Philosophy, Psychology",
+"definition": "The quality or state of being empty of meaning, thought, or substance.",
+"synonyms": ["emptiness", "hollowness", "vacuity"],
+"rarity": "Common"
+}
+
+"vacuousnesses" ==================================
+
+  {
+"word": "vacuousnesses",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": "Philosophy, Psychology",
+"singular": "vacuousness",
+"plural": "vacuousnesses"
+}
+
+"vacuua" ==================================
+
+  {
+"word": "vacuuma",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": "A vacuum is an enclosed space devoid of matter, or a region in which there are no particles.",
+"frequency": "rare",
+"topic_area": ["physics", "chemistry"]
+}
+
+"vacuum" ==================================
+
+  {
+"word": "vacuum",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": ["physics"],
+"definition": "A space devoid of matter, especially a sealed environment in which all the air has been removed.",
+"synonyms": ["vacuum chamber", "evacuated space"],
+"singular": "vacuum",
+"plural": "vacuums"
+}
+
+"vacuum-clean" ==================================
+
+  {
+"word": "vacuum-clean",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Domestic appliances",
+"commonality": "Common",
+"infinitive": "vacuum-clean",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "vacuum-clean"},
+{"person": "second", "tense": "present", "form": "vacuum-cleans"},
+{"person": "third", "tense": "present", "form": "vacuums-up"},
+{"person": "first", "tense": "past", "form": "vacuum-cleaned"},
+{"person": "second", "tense": "past", "form": "vacuum-cleaned"},
+{"person": "third", "tense": "past", "form": "vacuum-cleaned"},
+{"person": "first", "tense": "present_continuous", "form": "am vacuum-cleaning"},
+{"person": "second", "tense": "present_continuous", "form": "are vacuum-cleaning"},
+{"person": "third", "tense": "present_continuous", "form": "vacuums-up"},
+{"person": "first", "tense": "past_continuous", "form": "had vacuum-cleaned"},
+{"person": "second", "tense": "past_continuous", "form": "had vacuum-cleaned"},
+{"person": "third", "tense": "past_continuous", "form": "had been vacuuming-up"}
+]
+}
+
+"vacuum-packed" ==================================
+
+  {
+"word": "vacuum-packed",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Food Preservation",
+"rarity": "Common",
+"definition": "Food that has been sealed in an airtight container or plastic pouch using a vacuum pump to preserve its freshness and prevent spoilage."
+}
+
+"vacuuma" ==================================
+
+  {
+"word": "vacuuma",
+"definition": "This word does not exist in any known human language.",
+"part_of_speech": "N/A",
+"rarity": "Rare (nonexistent)",
+"topic_area": "N/A"
+}
+
+"vacuumed" ==================================
+
+  {
+"word": "vacuumed",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": "Domestic or Household",
+"commonality": "Common",
+"infinitive": "vacuum",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "vacuum"},
+{"person": "first", "tense": "past", "form": "vacuumed"},
+{"person": "second", "tense": "present", "form": "vacuums"},
+{"person": "third", "tense": "present", "form": "vacuums"},
+{"person": "first", "tense": "past_participle", "form": "vacuumed"},
+{"person": "second", "tense": "past", "form": "vacuumed"},
+{"person": "third", "tense": "past", "form": "have vacuumed / had vacuumed"}
+]
+}
+
+Note: The plural form of the noun "vacuum" is not relevant to this context as we are discussing the verb "vacuumed".
+
+"vacuuming" ==================================
+
+  {
+"word": "vacuuming",
+"part_of_speech": "verb",
+"language": "English",
+"topic_area": ["domestic_life"],
+"definition": "The act of cleaning a floor or other surface using a vacuum cleaner.",
+"infinitive_form": "to vacuum"
+}
+
+This word is common in the English language. Here are some examples of how this verb can be conjugated in its past tense and past participle forms:
+
+- Past tense: vacuumed, vacuumed
+- Past participle: vacuumed, vacuumed
+
+Note that "vacuumed" is more commonly used than "vacuumed."
+
+"vacuumize" ==================================
+
+  {
+"word": "vacuumize",
+"partOfSpeech": "verb",
+"language": "English",
+"topicArea": "Technology, Home Appliances",
+"definition": "To apply a vacuum cleaner to (an area or object)",
+"infinitiveForm": "to vacuumize",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vacuumize"},
+{"person": "second", "tense": "present", "form": "you vacuumize"},
+{"person": "third", "tense": "present", "form": "he/she/it vacuumizes"},
+{"person": "first", "tense": "past", "form": "I vacuumized"},
+{"person": "second", "tense": "past", "form": "you vacuumized"},
+{"person": "third", "tense": "past", "form": "he/she/it vacuumized"},
+{"person": "first", "tense": "present continuous", "form": "I am vacuumizing"},
+{"person": "second", "tense": "present continuous", "form": "you are vacuumizing"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is vacuuming"},
+{"person": "first", "tense": "past continuous", "form": "I had been vacuuming"},
+{"person": "second", "tense": "past continuous", "form": "you had been vacuuming"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it had been vacuuming"}
+]
+}
+
+Note: The word "vacuumize" is a relatively common term in English language, particularly in the context of technology and home appliances.
+
+"vacuums" ==================================
+
+  {
+"word": "vacuums",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": ["physics", "household"],
+"definition": "An enclosed space devoid of matter, particularly a part of an electrical appliance used to create a low pressure area for sucking up dust, debris, or liquid.",
+"singular": "vacuum",
+"plural": "vacuums"
+}
+
+"vade" ==================================
+
+  {
+"word": "vade",
+"language": "Unknown",
+"part_of_speech": "None",
+"definition": "",
+"commonality": "Rare",
+"topic_area": ""
+}
+
+The word "vade" is unknown to me as a computational linguist without additional context. It does not have a clear part of speech, definition, or topic area in English or any other common human language that I am familiar with. Additionally, there is no information provided about its commonality or topic area. If you could provide more context or background information about the word "vade," I would be happy to help further.
+
+"vade-mecum" ==================================
+
+  {
+"word": "vade-mecum",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A book or manual that provides guidance or helpful information on a particular subject.",
+"rarity": "Rare in English, but common in French where it means 'companion' or 'handbook'.",
+"topic_area": ["Reference", "Guides"]
+}
+
+"vadelect" ==================================
+
+  {
+"word": "vadelect",
+"part_of_speech": "Unknown",
+"language": "Unspecified",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+To provide a definition or conjugation for the word "vadelect," more information is needed, such as its origin and meaning in a specific language.
+
+"vadimonium" ==================================
+
+  {
+"word": "vadimonium",
+"part_of_speech": "Unknown",
+"language_origin": "Unidentified",
+"frequency": "Rare",
+"topic_area": "Unknown"
+}
+
+"vadimony" ==================================
+
+  {
+"word": "vadimony",
+"part_of_speech": "unknown",
+"language_origin": "unidentified",
+"frequency": "rare",
+"topic_area": "Legal or Unknown"
+}
+
+To provide a definition or conjugation for the word "vadimony," more information is required, such as its meaning and the language it comes from. The given information does not allow me to determine if it is a noun, verb, adjective, etc., or to provide any inflections or conjugations.
+
+"vadium" ==================================
+
+  {
+"word": "vadium",
+"part_of_speech": "none",
+"language_origin": "Latin",
+"definition": "A type of volcanic glass or rock.",
+"rarity": "Rare",
+"topic_area": ["Geology"]
+}
+
+"vadose" ==================================
+
+  {
+"word": "vadose",
+"part_of_speech": "adjective",
+"language_origin": "Geology",
+"definition": "Relating to unsaturated or unconfined groundwater.",
+"rarity": "Rare",
+"topic_area": "Geology"
+}
+
+"vady" ==================================
+
+  {
+"word": "vady",
+"language": "Unknown",
+"part_of_speech": "Unknown",
+"definition": "",
+"commonality": "Rare",
+"topic_area": ""
+}
+
+To provide a definition, I would need more information about the word "vady". Could you please specify which language it is from and what part of speech it is (noun, verb, adjective, etc.)? Additionally, if it is a verb, I would need the infinitive form and all conjugations to accurately provide a definition. If it is a noun, I would need to delineate the singular and plural forms. Without this information, it is impossible to provide an accurate definition in json format.
+
+"vafrous" ==================================
+
+  {
+"word": "vafrous",
+"part_of_speech": "unknown",
+"language": "unidentified",
+"commonality": "rare",
+"topic_area": "unknown"
+}
+
+"vag" ==================================
+
+  {
+"word": "vag",
+"part_of_speech": "none", // this is not a valid English word
+"language": "English",
+"commonality": "rare",
+"topic_area": "Medical terminology or slang"
+}
+
+"vag-" ==================================
+
+  {
+"word": "vag",
+"part_of_speech": "None",
+"language": "English (or possibly other languages with similar roots)",
+"definition": "This word 'vag' is not a standard part of English language or any other major human language. It seems to be misspelled or incomplete.",
+"topic_area": "None",
+"frequency": "Rare",
+"infinitive_form": "N/A",
+"conjugations": "N/A",
+"singular": "N/A",
+"plural": "N/A"
+}
+
+"vagabond" ==================================
+
+  {
+"word": "vagabond",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A person who wanders from place to place, usually without a fixed home or regular employment.",
+"rarity": "common",
+"topic_area": ["travel", "homelessness"]
+}
+
+"vagabond's" ==================================
+
+  {
+"word": "vagabond",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "People and Social Issues",
+"definition": "A person who wanders from place to place, usually without a fixed home or regular employment.",
+"singular": "vagabond",
+"plural": "vagabonds"
+}
+
+"vagabondage" ==================================
+
+  {
+"word": "vagabondage",
+"partOfSpeech": "noun",
+"languageOrigin": "French",
+"definition": "The act or practice of traveling from place to place without a fixed home or regular employment.",
+"rarityLevel": "Rare",
+"topicArea": ["Travel", "Lifestyle"]
+}
+
+"vagabondager" ==================================
+
+  {
+"word": "vagabondager",
+"definition": "There is no such word as 'vagabondager' in any known human language.",
+"part_of_speech": "N/A",
+"language_origin": "N/A",
+"rarity": "Rare",
+"topic_area": "Unknown"
+}
+
+"vagabondages" ==================================
+
+  {
+"word": "vagabondages",
+"part_of_speech": "none",
+"language_origin": "None",
+"definition": "There is no known meaning or word form in any human language called 'vagabondages'. It seems to be a non-existent term.",
+"frequency": "Rare",
+"topic_area": "None"
+}
+
+"vagabonded" ==================================
+
+  {
+"word": "vagabond",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Travel and Society",
+"definition": "A person who wanders from place to place, usually without a fixed home or job.",
+"singular": "vagabond",
+"plural": "vagabonds"
+}
+
+"vagabondia" ==================================
+
+  {
+"word": "vagabondia",
+"partOfSpeech": "noun",
+"language": "No such word as 'vagabondia' exists in any major human language.",
+"rarity": "None (since it does not exist)",
+"topicArea": "Unknown"
+}
+
+"vagabonding" ==================================
+
+  {
+"word": "vagabonding",
+"partOfSpeech": "verb",
+"language": "English",
+"topicArea": "Travel and Leisure",
+"definition": "The act of traveling from place to place without a fixed home or job.",
+"infinitiveForm": "to vagabond",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vagabond"},
+{"person": "second", "tense": "present", "form": "you vagabond"},
+{"person": "third", "tense": "present", "form": "he/she/it vagabonds"},
+{"person": "first", "tense": "past", "form": "I vagabonded"},
+{"person": "second", "tense": "past", "form": "you vagabonded"},
+{"person": "third", "tense": "past", "form": "he/she/it vagabonded"},
+{"person": "first", "tense": "present continuous", "form": "I am vagabonding"},
+{"person": "second", "tense": "present continuous", "form": "you are vagabonding"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is vagabonding"},
+{"person": "first", "tense": "past continuous", "form": "I was vagabonding"},
+{"person": "second", "tense": "past continuous", "form": "you were vagabonding"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it was vagabonding"},
+{"person": "first", "tense": "present perfect", "form": "I have vagabonded"},
+{"person": "second", "tense": "present perfect", "form": "you have vagabonded"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has vagabonded"},
+{"person": "first", "tense": "past perfect", "form": "I had vagabonded"},
+{"person": "second", "tense": "past perfect", "form": "you had vagabonded"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had vagabonded"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vagabonding"},
+{"person": "second", "tense": "present perfect continuous", "form": "you have been vagabonding"},
+{"person": "third", "tense": "present perfect continuous", "form": "he/she/it has been vagabonding"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vagabonding"},
+{"person": "second", "tense": "past perfect continuous", "form": "you had been vagabonding"},
+{"person": "third", "tense": "past perfect continuous", "form": "he/she/it had been vagabonding"}
+]
+}
+
+This word is common in English language, particularly in the context of travel and leisure.
+
+"vagabondish" ==================================
+
+  {
+"word": "vagabondish",
+"partOfSpeech": "adjective",
+"languageOrigin": "English",
+"topicArea": "Travel, Lifestyle",
+"rarityLevel": "Rare",
+"definition": "Relating to or characteristic of a vagabond; having the freedom and lack of fixed abode typical of a vagabond."
+}
+
+"vagabondism" ==================================
+
+  {
+"word": "vagabondism",
+"partOfSpeech": "noun",
+"languageOrigin": "English",
+"topicArea": "Social",
+"definition": "The practice of wandering from place to place as a homeless person, typically having little or no fixed income.",
+"synonyms": ["vagabondage", "gipsy life", "tramping"],
+"rarityLevel": "Common"
+}
+
+"vagabondisms" ==================================
+
+  {
+"word": "vagabondisms",
+"partOfSpeech": "noun",
+"language": "English",
+"definition": "The behaviors or actions of a vagabond; aimless wandering.",
+"rarity": "Rare",
+"topicArea": "Sociology, Travel"
+}
+
+"vagabondismus" ==================================
+
+  {
+"word": "vagabondismus",
+"partOfSpeech": "Noun",
+"languageOrigin": "Latin",
+"meaning": "A condition or mode of life characterized by wandering from place to place, usually without a fixed abode or regular employment.",
+"rarityLevel": "Rare",
+"topicArea": "Sociology, Anthropology"
+}
+
+"vagabondize" ==================================
+
+  {
+"word": "vagabondize",
+"partOfSpeech": "verb",
+"language": "English",
+"definition": "To travel from place to place as a vagabond; wander without a fixed home or regular employment.",
+"infinitiveForm": "to vagabondize",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vagabondize"},
+{"person": "second", "tense": "present", "form": "you vagabondize"},
+{"person": "third", "tense": "present", "form": "he/she/it vagabondizes"},
+{"person": "first", "tense": "past", "form": "I vagabondized"},
+{"person": "second", "tense": "past", "form": "you vagabondized"},
+{"person": "third", "tense": "past", "form": "he/she/it vagabondized"},
+{"person": "first", "tense": "present perfect", "form": "I have vagabondized"},
+{"person": "second", "tense": "present perfect", "form": "you have vagabondized"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has vagabondized"},
+{"person": "first", "tense": "past perfect", "form": "I had vagabondized"},
+{"person": "second", "tense": "past perfect", "form": "you had vagabondized"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had vagabondized"},
+{"person": "first", "tense": "present continuous", "form": "I am vagabondizing"},
+{"person": "second", "tense": "present continuous", "form": "you are vagabondizing"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is vagabondizing"},
+{"person": "first", "tense": "past continuous", "form": "I was vagabondizing"},
+{"person": "second", "tense": "past continuous", "form": "you were vagabondizing"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it was vagabondizing"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vagabondizing"},
+{"person": "second", "tense": "present perfect continuous", "form": "you have been vagabondizing"},
+{"person": "third", "tense": "present perfect continuous", "form": "he/she/it has been vagabondizing"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vagabondizing"},
+{"person": "second", "tense": "past perfect continuous", "form": "you had been vagabondizing"},
+{"person": "third", "tense": "past perfect continuous", "form": "he/she/it had been vagabondizing"}
+]
+}
+
+This word is from English language. It is a verb that means "To travel from place to place as a vagabond; wander without a fixed home or regular employment." The infinitive form of this verb is "to vagabondize". The conjugations for all tenses and persons are provided in the json response. This word can be considered rare, especially when used as a verb. It is related to the topic area of travel and homelessness.
+
+"vagabondized" ==================================
+
+  {
+"word": "vagabondized",
+"partOfSpeech": "None", // This word is not a standard part of speech in English language. It seems to be a non-standard term or a misspelled word.
+"languageOrigin": "Unknown",
+"frequency": "Rare",
+"topicArea": "None"
+}
+
+"vagabondizer" ==================================
+
+  {
+"word": "vagabondizer",
+"partOfSpeech": "verb",
+"language": "English",
+"definition": "To wander from place to place as a vagabond or hobo.",
+"infinitiveForm": "to vagabondize",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vagabondize"},
+{"person": "second", "tense": "present", "form": "you vagabondize"},
+{"person": "third", "tense": "present", "form": "he/she/it vagabondizes"},
+{"person": "first", "tense": "past", "form": "I vagabondized"},
+{"person": "second", "tense": "past", "form": "you vagabondized"},
+{"person": "third", "tense": "past", "form": "he/she/it vagabondized"},
+{"person": "first", "tense": "present perfect", "form": "I have vagabondized"},
+{"person": "second", "tense": "present perfect", "form": "you have vagabondized"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has vagabondized"},
+{"person": "first", "tense": "past perfect", "form": "I had vagabondized"},
+{"person": "second", "tense": "past perfect", "form": "you had vagabondized"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had vagabondized"},
+{"person": "first", "tense": "present continuous", "form": "I am vagabondizing"},
+{"person": "second", "tense": "present continuous", "form": "you are vagabondizing"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is vagabondizing"},
+{"person": "first", "tense": "past continuous", "form": "I was vagabondizing"},
+{"person": "second", "tense": "past continuous", "form": "you were vagabondizing"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it was vagabondizing"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vagabondizing"},
+{"person": "second", "tense": "present perfect continuous", "form": "you have been vagabondizing"},
+{"person": "third", "tense": "present perfect continuous", "form": "he/she/it has been vagabondizing"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vagabondizing"},
+{"person": "second", "tense": "past perfect continuous", "form": "you had been vagabondizing"},
+{"person": "third", "tense": "past perfect continuous", "form": "he/she/it had been vagabondizing"}
+]
+}
+
+This word is from English language. It is a rare verb. The topic area of this word is related to travel and lifestyle.
+
+"vagabondizing" ==================================
+
+  {
+"word": "vagabondizing",
+"partOfSpeech": "verb",
+"language": "English",
+"topicArea": "Travel, Homelessness",
+"definition": "To travel from place to place as a vagabond; living a nomadic life without a fixed abode or regular employment.",
+"infinitiveForm": "to vagabondize",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vagabondize"},
+{"person": "second", "tense": "present", "form": "you vagabondize"},
+{"person": "third", "tense": "present", "form": "he/she/it vagabondizes"},
+{"person": "first", "tense": "past", "form": "I vagabondized"},
+{"person": "second", "tense": "past", "form": "you vagabondized"},
+{"person": "third", "tense": "past", "form": "he/she/it vagabondized"},
+{"person": "first", "tense": "present continuous", "form": "I am vagabondizing"},
+{"person": "second", "tense": "present continuous", "form": "you are vagabondizing"},
+{"person": "third", "tense": "present continuous", "form": "he/she/it is vagabondizing"},
+{"person": "first", "tense": "past continuous", "form": "I had been vagabondizing"},
+{"person": "second", "tense": "past continuous", "form": "you had been vagabondizing"},
+{"person": "third", "tense": "past continuous", "form": "he/she/it had been vagabondizing"},
+{"person": "first", "tense": "present perfect", "form": "I have vagabondized"},
+{"person": "second", "tense": "present perfect", "form": "you have vagabondized"},
+{"person": "third", "tense": "present perfect", "form": "he/she/it has vagabondized"},
+{"person": "first", "tense": "past perfect", "form": "I had vagabondized"},
+{"person": "second", "tense": "past perfect", "form": "you had vagabondized"},
+{"person": "third", "tense": "past perfect", "form": "he/she/it had vagabondized"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vagabondizing"},
+{"person": "second", "tense": "present perfect continuous", "form": "you have been vagabondizing"},
+{"person": "third", "tense": "present perfect continuous", "form": "he/she/it has been vagabondizing"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vagabondizing"},
+{"person": "second", "tense": "past perfect continuous", "form": "you had been vagabondizing"},
+{"person": "third", "tense": "past perfect continuous", "form": "he/she/it had been vagabondizing"}
+]
+}
+
+This word is considered rare in formal language use, but common in colloquial speech and travel literature.
+
+"vagabondry" ==================================
+
+  {
+"word": "vagabondry",
+"partOfSpeech": "noun",
+"languageOrigin": "English",
+"topicArea": "Travel and Lifestyle",
+"definition": "The practice of wandering from place to place as a homeless person or traveling artist, often without a definite plan or destination.",
+"synonyms": ["vagabondage", "gipsy life", "nomadic lifestyle"],
+"rarityLevel": "Common"
+}
+
+"vagabonds" ==================================
+
+  {
+"word": "vagabonds",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Social",
+"definition": "A person who wanders from place to place, usually without a fixed home or employment.",
+"singular": "vagabond",
+"plural": "vagabonds",
+"rarity": "common"
+}
+
+"vagal" ==================================
+
+  {
+"word": "vagus",
+"part_of_speech": "noun or adjective (rarely used as a verb)",
+"language_origin": "Latin",
+"definition": {
+    "noun": "a cranial nerve that is the 10th pair of cranial nerves and is the longest and most complex of the twelve cranial nerves. It supplies the viscera with parasympathetic fibers.",
+    "adjective (rarely)": "relating to or affecting the vagus nerve"
+},
+"commonality": "noun: common, verb (as a form of vagus): rare",
+"topic_area": "Anatomy and Physiology"
+}
+
+// Verb conjugation is not applicable for this word as it is mostly used as a noun or an adjective.
+
+"vagally" ==================================
+
+  {
+"word": "vagally",
+"part_of_speech": "adverb",
+"language": "English",
+"topic_area": "Medical, Psychology",
+"definition": "In a vague or unclear way; not precisely or specifically.",
+"commonality": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": null,
+"plural": null
+}
+
+"vagancy" ==================================
+
+  {
+"word": "vagancy",
+"partOfSpeech": "none", // this word does not exist in English language as defined part of speech
+"originLanguage": "none", // there is no clear indication of the origin language of this word
+"frequency": "rare",
+"topicArea": "none"
+}
+
+"vagant" ==================================
+
+  {
+"word": "vagabond",
+"partOfSpeech": "noun",
+"languageOrigin": "English",
+"rarityLevel": "common",
+"topicArea": "Travel and Society",
+"singular": "vagabond",
+"plural": "vagabonds"
+}
+
+Note: The word you provided is "vagabond," not "vagant." I assume this was a typo in your question.
+
+"vaganti" ==================================
+
+  {
+"word": "vaganti",
+"language": "Italian",
+"partOfSpeech": "noun",
+"definition": "Wanderer or traveler",
+"singular": "vagante",
+"plural": "vaganti",
+"topicArea": "Travel and Exploration"
+}
+
+"vagarian" ==================================
+
+  {
+"word": "vagarian",
+"part_of_speech": "None",
+"language_origin": "Unknown",
+"definition": "There is no known meaning or usage for the word 'vagarian' in any major human language.",
+"commonality": "Rare",
+"topic_area": "N/A"
+}
+
+"vagaries" ==================================
+
+  {
+"word": "vagaries",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "unpredictable or capricious behavior or occurrences",
+"rarity": "common",
+"topic_area": ["weather", "fortune", "life"]
+}
+
+"vagarious" ==================================
+
+  {
+"word": "vagabond",
+"partOfSpeech": "noun",
+"definition": "A person who wanders from place to place, usually without a fixed home or regular employment.",
+"languageOrigin": "English",
+"rarityLevel": "common",
+"topicArea": "People and Social Issues"
+}
+
+Note: You asked for the word "vagarious," but it seems there is a typo in your question. The correct form of the word is "vagabond."
+
+"vagariously" ==================================
+
+  {
+"word": "vagarily",
+"partOfSpeech": "adverb",
+"language": "English",
+"rarity": "rare",
+"topicArea": "None"
+}
+
+"Vagarily" is an adverb in English language. It means in a casual or unsystematic way. This word is considered rare and does not belong to any specific topic area.
+
+"vagarish" ==================================
+
+  {
+"word": "vagary",
+"part_of_speech": "noun",
+"definition": "an unusual or unaccountable behavior or circumstance",
+"language_origin": "English",
+"rarity": "common",
+"topic_area": "General"
+}
+
+"vagarisome" ==================================
+
+  {
+"word": "vagarisome",
+"part_of_speech": "Unknown",
+"language": "Unidentified",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+Since the word "vagarisome" is unknown to me, I cannot determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Its language of origin is also unidentified. Additionally, without further context, it is impossible to determine its commonality or topic area.
+
+"vagarist" ==================================
+
+  {
+"word": "vagabondist",
+"partOfSpeech": "noun",
+"language": "English",
+"rarity": "rare",
+"topicArea": "Travel and Society"
+}
+
+A vagabondist is a person who wanders from place to place, usually without a fixed home or job. The plural form is "vagabondists". This word comes from the English language and is relatively rare compared to more common nouns. It refers to someone who travels from place to place aimlessly, often living off their wits and the generosity of others. There is no infinitive form or conjugations for this noun as it is not a verb.
+
+"vagaristic" ==================================
+
+  {
+"word": "vagaristic",
+"partOfSpeech": "None", // This word does not exist in any standard human language as far as I can tell. It may be a typo or an incorrect term.
+"originLanguage": "Unknown",
+"frequency": "Rare",
+"topicArea": "None"
+}
+
+"vagarity" ==================================
+
+  {
+"word": "vagarity",
+"part_of_speech": "noun",
+"language_origin": "No clear etymology or widespread usage in any specific human language.",
+"rarity": "Rare",
+"topic_area": "None specific"
+}
+
+The word "vagarity" does not have a clear definition or widespread usage in any specific human language. It is a rare and nonspecific term that may be used infrequently, if at all, in various contexts. As it does not follow a standard grammatical form for any part of speech, it cannot be accurately classified as a verb, adjective, adverb, pronoun, preposition, conjunction, or interjection.
+
+"vagary" ==================================
+
+  {
+"word": "vagary",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A whim or caprice, an unexplained or inexplicable deviation from the normal or expected.",
+"rarity": "common",
+"topic_area": ["literature", "grammar"]
+}
+
+"vagary's" ==================================
+
+  {
+"word": "vagary",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A whim or caprice, an unexplained or inexplicable deviation from the normal or expected.",
+"rarity": "common",
+"topic_area": ["Linguistics", "Philosophy", "Psychology"]
+}
+
+"vagas" ==================================
+
+  {
+"word": "vagas",
+"language": "Portuguese",
+"partOfSpeech": "noun",
+"definition": "Vagas refers to job vacancies or open positions in Portuguese.",
+"frequency": "common",
+"topicArea": ["employment", "labor market"]
+}
+
+"vagation" ==================================
+
+  {
+"word": "vagation",
+"definition": "This word is not recognized as a valid word in any major human language.",
+"part_of_speech": "N/A",
+"language_origin": "N/A",
+"rarity": "Rare",
+"topic_area": "N/A"
+}
+
+"vagbondia" ==================================
+
+  {
+"word": "vagabondia",
+"partOfSpeech": "noun",
+"language": "No such word as 'vagabondia' exists in any major human language.",
+"rarity": "None (does not exist)",
+"topicArea": "Unknown"
+}
+
+"vage" ==================================
+
+  {
+"word": "vague",
+"part_of_speech": "adjective",
+"language": "English",
+"definition": "not clear or definite; lacking in exact details",
+"rarity": "common",
+"topic_area": ["linguistics", "semantics"]
+}
+
+"vagi" ==================================
+
+  {
+"word": "vagi",
+"language": "Unknown",
+"part_of_speech": "None",
+"definition": "",
+"commonality": "Rare",
+"topic_area": "Unknown"
+}
+
+The word "vagi" is unknown to me as a computational linguist. In order to provide a definition, I would need more context such as the language it comes from and its part of speech (noun, verb, adjective, etc.). Additionally, without this information, it is impossible to determine if it is common or rare or what topic area it belongs to. If it is a verb, I would need the infinitive form and all conjugations. If it is a noun, I would need to delineate the singular and plural forms.
+
+"vagient" ==================================
+
+  {
+"word": "vagient",
+"definition": "This word is not recognized in any major human language.",
+"part_of_speech": "N/A",
+"language_origin": "N/A",
+"rarity": "Rare",
+"topic_area": "N/A"
+}
+
+"vagiform" ==================================
+
+  {
+"word": "vagiform",
+"partOfSpeech": "noun",
+"language": "Latin",
+"topicArea": "Anatomy",
+"definition": "Having the shape or form of a sheath or scabbard, especially the sheath or outer covering of the uterus in some mammals.",
+"singular": "vagina",
+"plural": "vaginae",
+"rarity": "Rare"
+}
+
+"vagile" ==================================
+
+  {
+"word": "vagile",
+"part_of_speech": "none", // this word does not exist in English or any other common human language as a standalone part of speech
+"origin_language": "none",
+"rarity": "extremely rare",
+"topic_area": "none"
+}
+
+"vagilities" ==================================
+
+  {
+"word": "vagilities",
+"part_of_speech": "unknown",
+"language": "English (or possibly a non-standard term)",
+"commonality": "rare",
+"topic_area": "Unknown"
+}
+
+"vagility" ==================================
+
+  {
+"word": "vagility",
+"part_of_speech": "Noun",
+"language_origin": "No clear linguistic origin for this term.",
+"topic_area": "Not specific to any particular topic area.",
+"frequency": "Rare",
+"definition": {
+"singular": "The ability to adapt or adjust to new conditions; flexibility.",
+"plural": "Vagilities"
+}
+}
+
+"vagina" ==================================
+
+  {
+"word": "vagina",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Anatomy",
+"definition": "The vagina is the muscular, elastic, and flexible canal in the female reproductive system. It extends from the cervix to the external genitalia.",
+"singular": "vagina",
+"plural": "vaginas"
+}
+
+"vagina's" ==================================
+
+  {
+"word": "vagina",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Anatomy",
+"singular": "vagina",
+"plural": "vaginas",
+"rarity": "common"
+}
+
+"vaginae" ==================================
+
+  {
+
+"word": "vaginae",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Anatomy",
+"form": {
+  "singular": "vagina",
+  "plural": "vaginae"
+},
+"rarity": "common"
+
+}
+
+"vaginal" ==================================
+
+  {
+
+"word": "vaginal",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Anatomy, Medicine",
+"frequency": "common"
+}
+
+"vaginalectomies" ==================================
+
+  {
+"word": "vaginalectomies",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"topic_area": "Medicine",
+"rarity": "extremely rare",
+"definition": {
+"meaning": "The surgical removal of the vagina or a part of it.",
+"singular": "vaginalectomy",
+"plural": "vaginalectomies"
+}
+}
+
+"vaginalectomy" ==================================
+
+  {
+"word": "vaginalectomy",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"definition": "Surgical removal of the vagina or a part of it.",
+"topic_area": "Medicine",
+"rarity": "Rare"
+}
+
+"vaginaless" ==================================
+
+  {
+"word": "vaginaless",
+"part_of_speech": "None (this word does not exist in any human language)",
+"language_origin": "Unknown",
+"frequency": "Rare (as it is not a real word)",
+"topic_area": "Medical or Anatomical terminology (if it were a real word, it could potentially refer to the absence of a vagina)"
+}
+
+"vaginalitis" ==================================
+
+  {
+
+"word": "vaginitis",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": "Inflammation or infection of the vagina",
+"topic_area": "Medicine",
+"inflection": {
+  "singular": "vaginitis",
+  "plural": "vaginitides"
+}
+
+}
+
+Note: The given word is "vaginalitis", but I assumed it's a typo and corrected it to the correct form, which is "vaginitis".
+
+"vaginally" ==================================
+
+  {
+"word": "vaginally",
+"part_of_speech": "adverb",
+"language": "English",
+"topic_area": "Anatomy, Medicine",
+"frequency": "common"
+}
+
+"vaginant" ==================================
+
+  {
+"word": "vaginant",
+"part_of_speech": "Noun",
+"language_origin": "Latin",
+"topic_area": "Medical",
+"definition": "A person or thing that has a vagina.",
+"singular": "vaginant",
+"plural": "vaginants"
+}
+
+Note: The word "vaginant" is not a common term in English language and it originates from Latin. It is used in medical contexts to refer to someone or something that has a vagina.
+
+"vaginas" ==================================
+
+  {
+"word": "vagina",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Anatomy",
+"singular": "vagina",
+"plural": "vaginas",
+"rarity": "common"
+}
+
+"vaginate" ==================================
+
+  {
+"word": "vaginate",
+"part_of_speech": "verb",
+"language_origin": "Latin",
+"definition": "To give birth or bring forth young animals from the vagina.",
+"infinitive": "vaginate",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "vagino"},
+{"person": "second", "tense": "present", "form": "vaginas"},
+{"person": "third", "tense": "present", "form": "vaginet"},
+{"person": "first", "tense": "past", "form": "vaginavi"},
+{"person": "second", "tense": "past", "form": "vaginasti"},
+{"person": "third", "tense": "past", "form": "vaginaverunt"},
+{"person": "first", "tense": "present_continuous", "form": "vaginando"},
+{"person": "second", "tense": "present_continuous", "form": "vaginateis"},
+{"person": "third", "tense": "present_continuous", "form": "vaginant"},
+{"person": "first", "tense": "past_continuous", "form": "vaginaveram"},
+{"person": "second", "tense": "past_continuous", "form": "vaginatebat"},
+{"person": "third", "tense": "past_continuous", "form": "vaginabant"},
+{"person": "first", "tense": "future", "form": "vaginero"},
+{"person": "second", "tense": "future", "form": "vaginabis"},
+{"person": "third", "tense": "future", "form": "vaginabunt"}
+]
+}
+
+Note: This word is rare and specific to medical or biological contexts.
+
+"vaginated" ==================================
+
+  {
+"word": "vaginated",
+"part_of_speech": "none",
+"language_origin": "not a standard word in any human language",
+"definition": "This term does not have a clear definition or meaning in any known human language.",
+"frequency": "extremely rare",
+"topic_area": "None applicable"
+}
+
+"vaginectomies" ==================================
+
+  {
+"word": "vaginectomies",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"topic_area": "Medicine",
+"definition": "Surgical removal of all or part of the vagina.",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vaginectomy",
+"plural": "vaginectomies"
+}
+
+"vaginectomy" ==================================
+
+  {
+"word": "vaginectomy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medical",
+"definition": "Surgical removal of all or part of the vagina.",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vaginectomy",
+"plural": "vaginectomies"
+}
+
+"vaginervose" ==================================
+
+  {
+"word": "vaginervose",
+"part_of_speech": "unknown",
+"language": "German",
+"topic_area": "Medical terminology",
+"frequency": "rare",
+"definition": {
+"meaning": ["Unknown"],
+"infinitive_form": ["-"],
+"conjugations": ["-"],
+"singular": ["-"],
+"plural": ["-"]
+}
+}
+
+"vaginicoline" ==================================
+
+  {
+"word": "vaginicoline",
+"part_of_speech": "none",
+"language_origin": "unknown",
+"definition": "No definition could be found for the word 'vaginicoline' in any major human language.",
+"frequency": "extremely rare",
+"topic_area": "None"
+}
+
+"vaginicolous" ==================================
+
+  {
+"word": "vaginicolous",
+"partOfSpeech": "noun",
+"languageOrigin": "Latin",
+"definition": "Relating to or living in a vagina.",
+"topicArea": "Anatomy, Biology",
+"rarityLevel": "Rare"
+}
+
+"vaginiferous" ==================================
+
+  {
+"word": "vaginiferous",
+"partOfSpeech": "adjective",
+"languageOrigin": "Latin",
+"definition": "Bearing or producing a vagina or vessels resembling a vagina.",
+"topicArea": "Anatomy, Biology",
+"rarityLevel": "Rare"
+}
+
+"vaginipennate" ==================================
+
+  {
+"word": "vaginipennate",
+"part_of_speech": "Unknown",
+"language": "English (or possibly a neologism)",
+"commonality": "Rare",
+"topic_area": "Medical or Anatomical terminology (if it exists, it is likely to be highly specialized)"
+}
+
+There is no clear definition or usage information available for the word "vaginipennate". It does not appear in any standard English language dictionaries or medical terminology databases. Therefore, it cannot be definitively classified as a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, its meaning and usage are unknown, making it impossible to provide infinitive forms, conjugations, singular and plural forms, or any other relevant information.
+
+"vaginismus" ==================================
+
+  {
+
+"word": "vaginismus",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": {
+"definition": "A condition characterized by involuntary and recurrent spasms of the muscles surrounding the human vagina, making sexual intercourse painful or impossible."
+},
+"topic_area": "Medical",
+"rarity": "Not common"
+
+}
+
+"vaginismuses" ==================================
+
+  {
+"word": "vaginismuses",
+"definition": "This word is not recognized in any major human language.",
+"part_of_speech": "N/A",
+"topic_area": "N/A",
+"rarity": "Rare",
+"language_origin": "Unknown"
+}
+
+"vaginites" ==================================
+
+  {
+"word": "vaginitis",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": "Inflammation or infection of the vagina.",
+"topic_area": "Medicine",
+"rarity": "Common"
+}
+
+"vaginitides" ==================================
+
+  {
+
+"word": "vaginitides",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": "Inflammation of the vagina.",
+"topic_area": "Medicine",
+"rarity": "Moderate"
+}
+
+"vaginitis" ==================================
+
+  {
+
+"word": "vaginitis",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": "inflammation or infection of the vagina",
+"topic_area": ["medicine", "health"],
+"inflection": {
+  "singular": "vaginitis",
+  "plural": "vaginitides"
+}
+
+}
+
+"vaginitises" ==================================
+
+  {
+"word": "vaginitis",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": "Inflammation or infection of the vagina.",
+"topic_area": "Medicine",
+"infrequentness": "Infrequent in everyday speech but common in medical contexts."
+}
+
+"vagino-" ==================================
+
+  {
+"word": "vagino-",
+"part_of_speech": "prefix",
+"language": "Latin",
+"topic_area": "Anatomy, Medicine",
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": null,
+"plural": null
+}
+
+"vaginoabdominal" ==================================
+
+  {
+"word": "vaginoabdominal",
+"part_of_speech": "unknown",
+"language": "English (or possibly a specific medical terminology)",
+"commonality": "rare",
+"topic_area": "Medical"
+}
+
+The word "vaginoabdominal" does not fit neatly into any of the traditional parts of speech in English. It appears to be a compound term, likely derived from "vagina" and "abdominal," but its meaning is unclear without additional context. It may refer to a medical condition or procedure involving both the vagina and abdomen.
+
+As this word does not have a clear definition or usage pattern in English, it is difficult to provide further information on its infinitive form, conjugations, singular and plural forms, or any other relevant grammatical information. It is recommended that you consult medical literature or a subject matter expert for more detailed information on the meaning and usage of this term.
+
+"vaginocele" ==================================
+
+  {
+"word": "vaginocele",
+"partOfSpeech": "noun",
+"language": "Medical Latin or English",
+"topicArea": "Gynecology",
+"definition": "A herniation of the vaginal wall that contains the bladder, intestines or rectum.",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vaginocele",
+"plural": "vaginocles"
+}
+
+"vaginodynia" ==================================
+
+  {
+
+"word": "vaginodynia",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"meaning": {
+"definition": "Pain or discomfort in the vagina, often felt as a burning sensation."
+},
+"topic_area": "Medicine",
+"rarity": "Rare"
+
+}
+
+"vaginofixation" ==================================
+
+  {
+"word": "vaginofixation",
+"partOfSpeech": "noun",
+"language": "English",
+"topicArea": "Medical",
+"definition": "A surgical procedure for repairing or reconstructing the vagina.",
+"singularPlural": {
+"singular": "vaginofixation",
+"plural": "vaginofixations"
+}
+}
+
+"vaginolabial" ==================================
+
+  {
+"word": "vaginolabial",
+"partOfSpeech": "compound",
+"languageOrigin": "English",
+"topicArea": "Anatomy, Sexual Health",
+"definition": "Relating to or involving the vagina and labia.",
+"frequency": "Rare",
+"form": {
+"noun": {
+"singular": "vaginolabial region",
+"plural": "vaginolabial regions"
+}
+}
+}
+
+"vaginometer" ==================================
+
+  {
+"word": "vaginometer",
+"partOfSpeech": "noun",
+"language": "English",
+"topicArea": "Medical",
+"definition": "An instrument used to measure or examine the vagina.",
+"singular": "vaginometer",
+"plural": "vaginometers",
+"rarity": "Rare"
+}
+
+"vaginomycosis" ==================================
+
+  {
+"word": "vaginomycosis",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Medicine",
+"definition": "A condition characterized by the presence of fungus or yeast infections in the vagina.",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vaginomycosis",
+"plural": "vaginomycoses"
+}
+
+"vaginoperineal" ==================================
+
+  {
+
+"word": "vaginoperineal",
+"partOfSpeech": "compound_noun",
+"languageOrigin": "English",
+"topicArea": "Medical",
+"definition": "Relating to or involving both the vagina and perineum.",
+"commonality": "Rare",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vaginoperineal area/region/structure",
+"plural": "vaginoperineals"
+}
+
+"vaginoperitoneal" ==================================
+
+  {
+
+"word": "vaginoperitoneal",
+"part_of_speech": "compound_adjective",
+"language_origin": "English",
+"topic_area": "Medical",
+"definition": "Relating to or involving both the vagina and the peritoneum.",
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vaginoperitoneal",
+"plural": "vaginoperitoneal (not commonly used in plural form)"
+}
+
+"vaginopexy" ==================================
+
+  {
+"word": "vaginopexy",
+"partOfSpeech": "noun",
+"language": "English",
+"topicArea": "Medical",
+"definition": "Surgical procedure to repair or reconstruct the vagina, often performed for various reasons including trauma, congenital abnormalities, or esthetic purposes.",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vaginopexy",
+"plural": "vaginopies"
+}
+
+"vaginoplasty" ==================================
+
+  {
+"word": "vaginoplasty",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medical",
+"definition": "Surgical construction of a vagina, especially in the context of gender reassignment surgery.",
+"singular": "vaginoplasty",
+"plural": "vaginoplasties"
+}
+
+"vaginoscope" ==================================
+
+  {
+"word": "vaginoscope",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medical",
+"definition": "A medical instrument used to examine the vagina.",
+"singular": "vaginoscope",
+"plural": "vaginoscopes",
+"rarity": "Common in medical contexts."
+}
+
+"vaginoscopy" ==================================
+
+  {
+
+"word": "vaginoscopy",
+"partOfSpeech": "noun",
+"languageOrigin": "Medical English",
+"topicArea": "Medicine",
+"definition": "A gynecological examination of the vagina and cervix using a speculum.",
+"singularPlural": {
+"singular": "vaginoscopy",
+"plural": "vaginoscopies"
+}
+
+}
+
+"vaginotome" ==================================
+
+  {
+"word": "vaginotome",
+"partOfSpeech": "noun",
+"language": "Medical Latin",
+"topicArea": "Medicine",
+"definition": "An instrument used for surgical procedures on the vagina.",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vaginotome",
+"plural": "vaginotomes"
+}
+
+Note: This word is from Medical Latin and is considered rare in modern English language usage.
+
+"vaginotomies" ==================================
+
+  {
+"word": "vaginotomies",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"topic_area": "Medicine",
+"definition": "Surgical procedure for making an incision into the vagina.",
+"synonyms": ["vaginal surgery", "vaginal operation"],
+"plural": "vaginotomies (uncountable in common usage)",
+"rarity": "Moderate"
+}
+
+"vaginotomy" ==================================
+
+  {
+"word": "vaginotomy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "Surgical procedure for treating conditions affecting the vagina.",
+"singular": "vaginotomy",
+"plural": "vaginotomies"
+}
+
+"vaginovesical" ==================================
+
+  {
+"word": "vaginovesical",
+"part_of_speech": "unknown",
+"language_origin": "unclear",
+"frequency": "extremely rare",
+"topic_area": "Medicine"
+}
+
+The word "vaginovesical" is extremely rare and its part of speech, inflection forms, singular and plural (if it's a noun), or conjugations (if it's a verb) are unknown. The term may originate from the medical field, but without further context or information, it is difficult to provide a definitive answer.
+
+"vaginovulvar" ==================================
+
+  {
+"word": "vaginovulvar",
+"partOfSpeech": "compound",
+"language": "English",
+"topicArea": "Anatomy",
+"definition": "Relating to both the vagina and vulva.",
+"frequency": "Rare",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vaginovulvar region",
+"plural": "vaginovulvar regions"
+}
+
+"vaginula" ==================================
+
+  {
+"word": "vaginula",
+"partOfSpeech": "none",
+"language": "Latin",
+"definition": "A small sheath or covering, specifically a sheath for protecting an instrument or organ.",
+"topicArea": "Anatomy",
+"frequency": "Rare",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vaginula",
+"plural": "vaginulae"
+}
+
+"vaginulate" ==================================
+
+  {
+"word": "vaginulate",
+"part_of_speech": "None (this word does not exist in any human language)",
+"language_origin": "N/A",
+"frequency": "Rare (non-existent)",
+"topic_area": "N/A"
+}
+
+"vaginule" ==================================
+
+  {
+"word": "vaginule",
+"part_of_speech": "none",
+"language_origin": "not a recognized word in any major human language",
+"frequency": "extremely rare",
+"topic_area": "none"
+}
+
+"vagitus" ==================================
+
+  {
+"word": "vagitus",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"rarity": "extremely rare",
+"topic_area": "Medicine, specifically related to newborn cries or noises",
+"singular": "vagitus",
+"plural": "[not applicable in Latin]"
+}
+
+"vagoaccessorius" ==================================
+
+  {
+"word": "vagoaccessorius",
+"partOfSpeech": "Unknown",
+"language": "Latin",
+"commonality": "Rare",
+"topicArea": "Medical terminology"
+}
+
+"vagodepressor" ==================================
+
+  {
+"word": "vagodepressor",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"rarity": "extremely rare",
+"topic_area": "Medicine",
+"singular": "vagodepressor",
+"plural": "vagodepressors"
+}
+
+Explanation:
+The word "vagodepressor" is a noun in English, specifically from the field of Medicine. It is an extremely rare term and refers to a medical device used to apply pressure on the cervix during labor or childbirth. The singular form is "vagodepressor" and the plural form is "vagodepressors". There are no infinitive forms, conjugations, or other parts of speech associated with this term as it is a noun that functions only as a label for a medical device.
+
+"vagoglossopharyngeal" ==================================
+
+  {
+"word": "vagoglossopharyngeal",
+"part_of_speech": "unknown",
+"language_origin": "Medical Latin",
+"frequency": "extremely rare",
+"topic_area": "Medicine and Anatomy"
+}
+
+The word "vagoglossopharyngeal" is of unknown part of speech as it is not a standard English word. It originates from Medical Latin, and its usage is extremely rare. The topic area associated with this word is Medicine and Anatomy. Without further context or information, it is impossible to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, without knowing the specific meaning of the term, we cannot provide any infinitive form, singular and plural forms, or conjugations.
+
+"vagogram" ==================================
+
+  {
+"word": "vagogram",
+"part_of_speech": "Unknown",
+"language_origin": "Unidentified",
+"frequency": "Rare",
+"topic_area": "Unknown"
+}
+
+Given the lack of information about the word "vagogram," it is impossible to determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Its origin in a specific human language is also unknown. Additionally, without further context, it cannot be determined if this word is common or rare, nor can its topic area be identified. If "vagogram" is indeed a verb, the infinitive form and all conjugations are also unknown.
+
+"vagolysis" ==================================
+
+  {
+"word": "vagolysis",
+"partOfSpeech": "noun",
+"language": "Medical English",
+"definition": "A process in which the vagus nerve is stimulated to slow down the heart rate, decrease gastrointestinal motility, and increase intestinal secretion.",
+"rarity": "Rare",
+"topicArea": ["Anatomy", "Physiology", "Medicine"]
+}
+
+"vagosympathetic" ==================================
+
+  {
+"word": "vagosympathetic",
+"partOfSpeech": "Noun",
+"language": "No known linguistic basis for this term.",
+"rarity": "Rare",
+"topicArea": "Psychology, Neuroscience"
+}
+
+"vagotomies" ==================================
+
+  {
+"word": "vagotomies",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "Surgical removal of the vagus nerve or its branches.",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vagotomy",
+"plural": "vagotomies"
+}
+
+"vagotomize" ==================================
+
+  {
+"word": "vagotomize",
+"partOfSpeech": "verb",
+"languageOrigin": "English",
+"topicArea": "Medicine",
+"definition": "Surgical procedure in which the vagus nerve is cut to treat certain conditions.",
+"infinitiveForm": "vagotomize",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "I vagotomize"},
+{"person": "second", "tense": "present", "form": "You vagotomize"},
+{"person": "third", "tense": "present", "form": "He/She/It vagotomizes"},
+{"person": "first", "tense": "past", "form": "I vagotomized"},
+{"person": "second", "tense": "past", "form": "You vagotomized"},
+{"person": "third", "tense": "past", "form": "He/She/It vagotomized"},
+{"person": "first", "tense": "present continuous", "form": "I am vagotomizing"},
+{"person": "second", "tense": "present continuous", "form": "You are vagotomizing"},
+{"person": "third", "tense": "present continuous", "form": "He/She/It is vagotomizing"},
+{"person": "first", "tense": "past continuous", "form": "I had been vagotomizing"},
+{"person": "second", "tense": "past continuous", "form": "You had been vagotomizing"},
+{"person": "third", "tense": "past continuous", "form": "He/She/It had been vagotomizing"},
+{"person": "first", "tense": "present perfect", "form": "I have vagotomized"},
+{"person": "second", "tense": "present perfect", "form": "You have vagotomized"},
+{"person": "third", "tense": "present perfect", "form": "He/She/It has vagotomized"},
+{"person": "first", "tense": "past perfect", "form": "I had vagotomized"},
+{"person": "second", "tense": "past perfect", "form": "You had vagotomized"},
+{"person": "third", "tense": "past perfect", "form": "He/She/It had vagotomized"},
+{"person": "first", "tense": "present perfect continuous", "form": "I have been vagotomizing"},
+{"person": "second", "tense": "present perfect continuous", "form": "You have been vagotomizing"},
+{"person": "third", "tense": "present perfect continuous", "form": "He/She/It has been vagotomizing"},
+{"person": "first", "tense": "past perfect continuous", "form": "I had been vagotomizing"},
+{"person": "second", "tense": "past perfect continuous", "form": "You had been vagotomizing"},
+{"person": "third", "tense": "past perfect continuous", "form": "He/She/It had been vagotomizing"}
+]
+}
+
+This word is from English language and it is a common term in the medical field.
+
+"vagotomy" ==================================
+
+  {
+"word": "vagotomy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Medicine",
+"definition": "A surgical procedure in which the vagus nerve is cut to treat certain conditions.",
+"synonyms": ["vagal denervation"],
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vagotomy",
+"plural": "vagotomies"
+}
+
+"vagotonia" ==================================
+
+  {
+"word": "vagotonia",
+"part_of_speech": "noun",
+"language_origin": "Medical Latin",
+"topic_area": "Medicine and Health",
+"definition": "A condition characterized by increased vagal activity, resulting in symptoms such as bradycardia, hypotension, and decreased gastrointestinal motility.",
+"synonyms": ["vagus nerve stimulation", "vagal reflex"],
+"rarity_level": "Rare"
+}
+
+"vagotonias" ==================================
+
+  {
+"word": "vagotonias",
+"part_of_speech": "Unknown",
+"language": "Unidentified",
+"commonality": "Rare",
+"topic_area": "Medicine or Health",
+"definition": {
+"meaning": ["[Unkown meaning]"],
+"infinitive": "[N/A]",
+"conjugations": ["[N/A]"],
+"singular": "[N/A]",
+"plural": "[N/A]"
+}
+}
+
+Please note that the word "vagotonias" is not recognized in standard English or any other major language. It's important to double-check the spelling and origin of the word before attempting to define it.
+
+"vagotonic" ==================================
+
+  {
+"word": "vagotonic",
+"partOfSpeech": "Noun or possibly a term from Medical field",
+"languageOrigin": "English",
+"rarity": "Rare",
+"topicArea": "Medical",
+"definition": "A state of the vagus nerve being overactive or functioning abnormally.",
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vagotonic state/condition",
+"plural": "vagotonic states/conditions"
+}
+
+"vagotony" ==================================
+
+  {
+"word": "vagotony",
+"partOfSpeech": "Noun",
+"language": "English",
+"topicArea": "Medicine",
+"definition": "A condition characterized by a malfunction of the vagus nerve or its branches, resulting in various symptoms such as sweating, slow heart rate, and loss of consciousness.",
+"synonyms": ["vagus neuropathy", "vagal neuropathy"],
+"rarity": "Rare"
+}
+
+"vagotropic" ==================================
+
+  {
+"word": "vagotropic",
+"partOfSpeech": "adjective",
+"languageOrigin": "Medical English",
+"topicArea": "Anatomy and Physiology",
+"definition": "Relating to or affecting the vagus nerve or its functions.",
+"rarityLevel": "Rare"
+}
+
+"vagotropism" ==================================
+
+  {
+"word": "vagotropism",
+"part_of_speech": "noun",
+"language_origin": "Medical English",
+"definition": "A reflex action or response mediated by the vagus nerve.",
+"topic_area": "Anatomy and Physiology",
+"rarity": "Rare",
+"singular": "vagotropism",
+"plural": "vagotropisms"
+}
+
+"vagous" ==================================
+
+  {
+"word": "vagus",
+"partOfSpeech": "noun or adjective (rare)",
+"languageOrigin": "Latin",
+"definition": {
+  "noun": "one of the twelve pairs of cranial nerves, supplying the viscera with motor and sensory fibers",
+  "adjective": "relating to or affecting the vagus nerve"
+},
+"infinitiveForm": null,
+"conjugations": null,
+"singular": "vagus nerve",
+"plural": null,
+"topicArea": "Anatomy and Physiology"
+}
+
+"vagrance" ==================================
+
+  {
+"word": "vagrance",
+"part_of_speech": "none", // this word does not exist in English or any other known human language
+"origin": "unknown",
+"frequency": "never heard",
+"topic_area": "none"
+}
+
+"vagrancies" ==================================
+
+  {
+"word": "vagrancies",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Social",
+"definition": "The state or condition of being a vagrant; wandering from place to place without a fixed abode or regular employment.",
+"synonyms": ["homelessness", "roaming", "wanderlust"],
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vagrancy",
+"plural": "vagrancies"
+}
+
+"vagrancy" ==================================
+
+  {
+"word": "vagrancy",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Law, Social Issues",
+"definition": "The act of wandering from place to place without a fixed abode or employment.",
+"singular": "vagrancy",
+"plural": "vagrancies"
+}
+
+"vagrant" ==================================
+
+  {
+"word": "vagrant",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Social issues",
+"definition": "A person who wanders from place to place, usually without a permanent home or regular source of income.",
+"singular": "vagrant",
+"plural": "vagrants"
+}
+
+"vagrantism" ==================================
+
+  {
+"word": "vagrantism",
+"partOfSpeech": "noun",
+"languageOrigin": "English",
+"topicArea": "Social Sciences",
+"definition": "The practice or condition of being a vagrant; wandering from place to place without a fixed abode or regular means of livelihood.",
+"synonyms": ["homelessness", "vagrancy", "gipsy life"],
+"rarityLevel": "Moderate"
+}
+
+"vagrantize" ==================================
+
+  {
+"word": "vagrantize",
+"partOfSpeech": "verb",
+"language": "English",
+"topicArea": "Social Sciences",
+"definition": "To make (someone) a vagrant or cause to wander without a fixed abode.",
+"infinitiveForm": "to vagrantize",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "vagrantize"},
+{"person": "second", "tense": "present", "form": "vagrantizest"},
+{"person": "third", "tense": "present", "form": "vagrantizes"},
+{"person": "first", "tense": "past", "form": "vagrantized"},
+{"person": "second", "tense": "past", "form": "vagrantizest"},
+{"person": "third", "tense": "past", "form": "vagrantized"},
+{"person": "first", "tense": "present perfect", "form": "have vagrantized, have had vagrantized"},
+{"person": "second", "tense": "present perfect", "form": "have vagrantizest, had vagrantized"},
+{"person": "third", "tense": "present perfect", "form": "have vagrantized, had vagrantized"},
+{"person": "first", "tense": "past perfect", "form": "had vagrantized"},
+{"person": "second", "tense": "past perfect", "form": "had vagrantizest"},
+{"person": "third", "tense": "past perfect", "form": "had vagrantized"},
+{"person": "first", "tense": "present continuous", "form": "am vagrantizing, is vagrantizing, are vagrantizing"},
+{"person": "second", "tense": "present continuous", "form": "am vagrantizing, are vagrantizing, is vagrantizing"},
+{"person": "third", "tense": "present continuous", "form": "is vagrantizing, am vagrantizing, are vagrantizing"},
+{"person": "first", "tense": "past continuous", "form": "had been vagrantizing"},
+{"person": "second", "tense": "past continuous", "form": "had been vagrantizest"},
+{"person": "third", "tense": "past continuous", "form": "had been vagrantizing"}
+]
+}
+
+Note: The word "vagrantize" is relatively rare in the English language.
+
+"vagrantlike" ==================================
+
+  {
+"word": "vagrantlike",
+"partOfSpeech": "adjective",
+"languageOrigin": "English",
+"topicArea": "Social",
+"definition": "Having or showing a lifestyle of wandering from place to place, often without a fixed abode or employment.",
+"synonyms": ["homeless-looking", "transient-like", "itinerant-like"],
+"rarityLevel": "Rare"
+}
+
+"vagrantly" ==================================
+
+  {
+"word": "vagrantly",
+"part_of_speech": "adverb",
+"language_origin": "English",
+"topic_area": "Manner or Motion",
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": null,
+"plural": null
+}
+
+"vagrantness" ==================================
+
+  {
+"word": "vagrantness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Social Sciences",
+"definition": "The quality or state of being a vagrant; wandering from place to place without a fixed abode.",
+"synonyms": ["homelessness", "rootednesslessness"],
+"antonyms": ["settledness", "stability"]
+}
+
+"vagrants" ==================================
+
+  {
+"word": "vagrants",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Social issues",
+"definition": "People who wander from place to place, usually without a permanent home or regular source of income.",
+"singular": "vagrant",
+"plural": "vagrants"
+}
+
+"vagrate" ==================================
+
+  {
+"word": "vagrate",
+"partOfSpeech": "verb",
+"language": "English",
+"definition": "To wander about aimlessly or without a fixed abode.",
+"infinitiveForm": "to vagrate",
+"rarity": "Rare",
+"topicArea": "None specific"
+}
+
+"vagrom" ==================================
+
+  {
+"word": "vagrom",
+"partOfSpeech": "Noun",
+"language": "Scottish English",
+"rarity": "Rare",
+"topicArea": "Unknown",
+"singular": "vagrom",
+"plural": "vagroms"
+}
+
+"vague" ==================================
+
+  {
+"word": "vague",
+"part_of_speech": "adjective",
+"language": "English",
+"definition": "not clear or definite; lacking in exact details",
+"rarity": "common",
+"topic_area": ["semantics", "linguistics"]
+}
+
+"vague-eyed" ==================================
+
+  {
+"word": "vague-eyed",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "None (not a technical term)",
+"rarity": "Rare",
+"definition": "Having an unfocused or unclear gaze, often suggesting dishonesty or evasiveness."
+}
+
+"vague-ideaed" ==================================
+
+  {
+"word": "vague-idea",
+"part_of_speech": "noun",
+"language": "English",
+"rarity": "rare",
+"topic_area": "Psychology, Cognitive Sciences",
+"definition": "A vague or unclear concept or thought in one's mind."
+}
+
+"vague-looking" ==================================
+
+  {
+"word": "vague-looking",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "Perception and Description",
+"rarity": "common",
+"definition": {
+"meaning": "having or giving an indistinct, unclear, or uncertain appearance; not definite or distinct.",
+"synonyms": ["indistinct", "unclear", "ambiguous", "nebulous"]
+}
+}
+
+"vague-menacing" ==================================
+
+  {
+"word": "vague-menacing",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "Emotion or mood description",
+"rarity": "Rare",
+"definition": "Expressing a sense of ominous uncertainty or threat, without clear indication of what that threat might be."
+}
+
+"vague-minded" ==================================
+
+  {
+"word": "vague-minded",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Psychology, Cognition",
+"rarity": "Rare",
+"definition": "Lacking clarity or precision in thought or expression."
+}
+
+"vague-phrased" ==================================
+
+  {
+"word": "vague-phrased",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "Language and Communication",
+"rarity": "Rare",
+"definition": {
+"meaning": "Expressed in imprecise or unclear terms; lacking clarity or definiteness.",
+"examples": ["The politician's answer was vague-phrased, leaving the audience confused about his position on the issue.", "The lawyer's argument was vague-phrased, making it difficult for the judge to rule in favor of either party."]
+}
+}
+
+"vague-shining" ==================================
+
+  {
+"word": "vague-shining",
+"part_of_speech": "none", // this word does not exist in English or any other known human language
+"definition": {},
+"origin_language": "none",
+"rarity": "none",
+"topic_area": "none"
+}
+
+"vague-worded" ==================================
+
+  {
+"word": "vague-worded",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "Language and Communication",
+"rarity": "Rare",
+"definition": {
+"meaning": "Expressing ideas in an unclear or imprecise way.",
+"examples": ["The instructions for assembling the furniture were vague-worded, making it difficult to follow.",
+"His answer was vague-worded, leaving me uncertain about his true intentions."]
+}
+}
+
+"vaguely" ==================================
+
+  {
+"word": "quasar",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Astronomy",
+"definition": "A extremely luminous, stable, and distant celestial object with two oppositely directed jets of ionized gas, believed to be powered by the accretion disk around a supermassive black hole.",
+"singular": "quasar",
+"plural": "quasars"
+}
+
+"vagueness" ==================================
+
+  {
+"word": "vagueness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": ["linguistics", "semantics"],
+"definition": "The quality of being vague; lack of clarity or precision in meaning, expression, or definition.",
+"synonyms": ["ambiguity", "obscurity", "imprecision"],
+"rarity": "common"
+}
+
+"vaguenesses" ==================================
+
+  {
+"word": "vagueness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Linguistics, Semantics",
+"definition": "The quality of being unclear or imprecise in meaning or expression.",
+"synonyms": ["ambiguity", "obscurity", "unclarity"],
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vagueness",
+"plural": "vaguenesses"
+}
+
+"vaguer" ==================================
+
+  {
+"word": "vaguer",
+"partOfSpeech": "adjective",
+"language": "English",
+"topicArea": "Language and Communication",
+"definition": "Less clear or definite.",
+"synonyms": ["more ambiguous", "less precise"],
+"rarityLevel": "common"
+}
+
+"vaguest" ==================================
+
+  {
+"word": "vaguest",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": "Language and Meaning",
+"rarity": "Rare",
+"definition": "Most uncertain or unclear. This word is used to describe something that has the least amount of clarity or precision.",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "the vaguest",
+"plural": "the vaguest"
+}
+
+"vaguio" ==================================
+
+  {
+"word": "vaguio",
+"language": "Spanish",
+"partOfSpeech": "Noun",
+"definition": "A wind from the west or northwest, especially one bringing rain.",
+"rarity": "Rare",
+"topicArea": ["Weather"]
+}
+
+"vaguios" ==================================
+
+  {
+"word": "vagabundo",
+"partOfSpeech": "noun",
+"language": "Spanish",
+"rarity": "common",
+"topicArea": "People and Society",
+"singular": "vagabundo",
+"plural": "vagabundos"
+}
+
+Note: You provided the incorrect word in your question. The correct word is "vagabundo". This noun refers to a person who wanders from place to place, often without a fixed home or regular employment.
+
+"vaguish" ==================================
+
+  {
+"word": "vaguish",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": "None specific",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "Something that is vaguish has a lack of clarity or distinctness.",
+"plural": "Vaguish things have a lack of clarity or distinctness."
+}
+
+"vaguity" ==================================
+
+  {
+"word": "vagueness",
+"part_of_speech": "noun",
+"definition": "The quality of being vague; lack of clarity or precision.",
+"language_origin": "English",
+"topic_area": "Language and Communication",
+"rarity": "Common"
+}
+
+"vagulous" ==================================
+
+  {
+"word": "vagulous",
+"part_of_speech": "None",
+"language_origin": "Unknown",
+"definition": "There is no known meaning or usage for the word 'vagulous' in any human language.",
+"commonality": "Rare",
+"topic_area": "N/A"
+}
+
+"vagus" ==================================
+
+  {
+"word": "vagus",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "A large nerve that runs from the brain to the abdomen, thorax, and heart.",
+"topics_area": ["Anatomy", "Neurology"],
+"inflection": {
+  "singular": "vagus nerve",
+  "plural": null
+}
+}
+
+"vahana" ==================================
+
+  {
+
+"word": "vahana",
+"language": "Sanskrit",
+"part_of_speech": "noun",
+"topic_area": "Transportation or vehicle in Hindu mythology and literature",
+"frequency": "Rare",
+"singular": "vahana",
+"plural": "vahanas"
+}
+
+"vahine" ==================================
+
+  {
+"word": "vahine",
+"language": "Tahitian",
+"part_of_speech": "noun",
+"definition": "Young woman or girl.",
+"rarity": "Common",
+"topic_area": ["Culture", "Gender"]
+}
+
+"vahines" ==================================
+
+  {
+"word": "vahines",
+"language": "Tahitian",
+"part_of_speech": "noun",
+"definition": "Young women or girls in Tahiti and other Polynesian islands.",
+"rarity": "Rare (outside of Polynesia)",
+"topic_area": ["Culture", "Geography"]
+}
+
+"vahini" ==================================
+
+  {
+"word": "vahini",
+"language": "Sanskrit",
+"part_of_speech": "noun",
+"definition": "Feminine form of a vehicle or conveyance.",
+"rarity": "Rare",
+"topic_area": ["Transportation", "Religion"]
+}
+
+"vail" ==================================
+
+  {
+"word": "vail",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "A piece of material, especially thin fabric, used as a covering.",
+"synonyms": ["veil", "cloak", "pall"],
+"rarity": "common",
+"topic_area": ["Fashion", "Religion"]
+}
+
+"vailable" ==================================
+
+  {
+"word": "available",
+"part_of_speech": "adjective",
+"language": "English",
+"rarity": "common",
+"topic_area": ["technology", "business"],
+"infinitive_form": null,
+"conjugations": null,
+"singular": "the available, an available",
+"plural": "the available, the availables"
+}
+
+"vailed" ==================================
+
+  {
+"word": "vailed",
+"part_of_speech": "none", // this word does not fit into any of the given parts of speech in English
+"language": "English",
+"rarity": "rare",
+"topic_area": "None"
+}
+
+The term "vailed" is not a standard part of speech in English. It can be derived from the verb "veil," which means to cover or hide something with a cloth or other material. However, as a standalone word, it does not have a clear definition or usage in English language.
+
+"vailing" ==================================
+
+  {
+"word": "vailing",
+"part_of_speech": "none (this is not a standard English word)",
+"language": "English (but not commonly used)",
+"topic_area": "None",
+"definition": {
+"meaning": ["act of veiling or concealing"]
+}
+}
+
+Note: The word "vailing" does not exist in standard English language. It seems to be a misspelling or typo of the word "veiling". If you meant "veiling", then the definition and conjugation would be as follows:
+
+{
+"word": "veiling",
+"part_of_speech": "noun or verb",
+"language": "English",
+"topic_area": ["clothing, religion"],
+"definition": {
+"noun": {
+"singular": "the act of covering or concealing with a veil",
+"plural": "veils collectively"
+},
+"verb": {
+"infinitive": "to cover or conceal with a veil",
+"conjugations": [
+{"present": ["I veil, You veil, He/She/It veils, We veil, They veil"],
+"past_tense": ["I veiled, You veiled, He/She/It veiled, We veiled, They veiled"],
+"past_participle": ["veiled"],
+"present_continuous": ["I am veiling, You are veiling, He/She/It is veiling, We are veiling, They are veiling"]},
+"gerund": "veiling",
+"infinitive_phrase": "to veil oneself"
+]
+}
+}
+
+"vails" ==================================
+
+  {
+"word": "vails",
+"part_of_speech": "noun",
+"language": "English",
+"rarity": "very rare",
+"topic_area": "Unknown",
+"singular": "veil",
+"plural": "veils"
+}
+
+"vain" ==================================
+
+  {
+"word": "vain",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": ["self-importance", "empty", "futile"],
+"synonyms": ["proud", "arrogant", "conceited"],
+"definition": "Having or showing an excessive pride in one's appearance, achievements, or abilities.",
+"rarity": "common"
+}
+
+"vainer" ==================================
+
+  {
+"word": "vainer",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"topic_area": " Psychology, Self-perception",
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vain (person or thing having or showing an excessively high opinion of oneself or one's achievements)",
+"plural": "vains"
+}
+
+"vainest" ==================================
+
+  {
+"word": "vainest",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": "Adjectives describing self-importance or emptiness",
+"rarity": "Rare",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "the vainest (thing/person)",
+"plural": "the vainest (things/people)"
+}
+
+"vainful" ==================================
+
+  {
+"word": "vainful",
+"part_of_speech": "adjective",
+"language": "English",
+"topic_area": " psychology, emotions",
+"definition": "Expended or employed in an idle, needless, or fruitless manner; having or showing an excessive and unwarranted pride in one's appearance, achievements, or abilities.",
+"synonyms": ["self-important", "arrogant", "conceited"],
+"rarity": "common",
+"infinitive_form": null,
+"singular": "vainful",
+"plural": "vainful things/people"
+}
+
+"vainglories" ==================================
+
+  {
+"word": "vainglories",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "Excessive pride in one's own achievements or qualities.",
+"rarity": "Moderate",
+"topic_area": ["Psychology", "Social Sciences"]
+}
+
+"vainglorious" ==================================
+
+  {
+
+"word": "vainglorious",
+"part_of_speech": "adjective",
+"language_origin": "English",
+"definition": "Excessively proud of one's own achievements or abilities.",
+"rarity": "common",
+"topic_area": ["human behavior", "psychology"]
+
+}
+
+"vaingloriously" ==================================
+
+  {
+"word": "vaingloriously",
+"partOfSpeech": "adverb",
+"language": "English",
+"rarity": "common",
+"topicArea": ["literature", "poetry"],
+"definition": "In a manner that is excessively boastful or proud of one's own achievements."
+}
+
+"vaingloriousness" ==================================
+
+  {
+"word": "vaingloriousness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Emotion and Temperament",
+"definition": "Excessive pride in one's own achievements or abilities.",
+"synonyms": ["self-importance", "arrogance", "hubris"],
+"rarity": "common"
+}
+
+"vaingloriousnesses" ==================================
+
+  {
+"word": "vaingloriousnesses",
+"part_of_speech": "noun",
+"language_origin": "English",
+"rarity": "rare",
+"topic_area": "psychology, behavior",
+"singular": "vaingloriousness",
+"plural": "vaingloriousnesses"
+}
+
+"vainglory" ==================================
+
+  {
+"word": "vainglory",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "Excessive pride in one's own achievements or abilities.",
+"rarity": "common",
+"topic_area": ["psychology", "literature"]
+}
+
+"vainly" ==================================
+
+  {
+"word": "vainly",
+"part_of_speech": "adverb",
+"language": "English",
+"definition": "In a way that is empty of practical result or effect; without hope of success.",
+"topic_area": ["literature", "language"],
+"rarity": "common"
+}
+
+"vainness" ==================================
+
+  {
+"word": "vainness",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Psychology, Self-image",
+"definition": "Excessive preoccupation with one's own appearance, achievements, or possessions.",
+"synonyms": ["self-importance", "pride", "egotism"],
+"singular": "vainness",
+"plural": "vainnesses"
+}
+
+"vainnesses" ==================================
+
+  {
+"word": "vainnesses",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Psychology, Self-image",
+"definition": "Excessive self-admiration or preoccupation with one's own appearance.",
+"synonyms": ["self-centeredness", "narcissism", "egotism"],
+"rarity_level": "common"
+}
+
+"vair" ==================================
+
+  {
+"word": "vair",
+"language": "Old English",
+"part_of_speech": "adjective",
+"definition": "having or resembling a varied or changeable appearance or quality",
+"rarity": "rare",
+"topic_area": ["clothing", "textiles"]
+}
+
+"vairagi" ==================================
+
+  {
+"word": "vairagi",
+"language": "Sanskrit",
+"part_of_speech": "noun",
+"definition": "A person who has renounced worldly attachments and desires, leading a simple and detached life.",
+"topic_area": ["Religion", "Philosophy"],
+"rarity": "Rare in English but common in Sanskrit and other Indian languages",
+"infinitive_form": null,
+"conjugations": null,
+"singular": "vairagi",
+"plural": "vairagas"
+}
+
+"vaire" ==================================
+
+  {
+"word": "vaire",
+"language": "French",
+"part_of_speech": "noun",
+"definition": "A choice or option.",
+"synonyms": ["alternative", "option"],
+"inflection": {
+  "singular": "une vaire",
+  "plural": "des vaire"
+},
+"topic_area": "General"
+}
+
+This word is a French noun that means "a choice or option." It is a common word in the French language. The singular form is "une vaire," and the plural form is "des vaire." There are no inflections provided for this noun as it does not change form based on number, gender, or case in French.
+
+"vairee" ==================================
+
+  {
+"word": "vairee",
+"language": "Hindi",
+"part_of_speech": "noun",
+"definition": "a festival or fair",
+"singular": "vairee",
+"plural": "vairee-on-mein",
+"topic_area": ["culture", "tradition"],
+"frequency": "common"
+}
+
+"vairs" ==================================
+
+  {
+"word": "vairs",
+"part_of_speech": "noun",
+"language": "Scottish Gaelic",
+"rarity": "rare",
+"topic_area": "Unknown",
+"singular": "vair, vairs (masculine)",
+"plural": "vairs, mharaidh (feminine)"
+}
+
+"vairy" ==================================
+
+  {
+"word": "vairy",
+"part_of_speech": "unknown",
+"language": "unidentified",
+"commonality": "rare",
+"topic_area": "none"
+}
+
+The word "vairy" is unknown as it does not exist in any major human language to the best of my knowledge. Therefore, I cannot determine if it is a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. Additionally, without a language context, it is impossible to identify its singular and plural forms (if applicable), infinitive form (if a verb), or any other relevant information.
+
+"vaivode" ==================================
+
+  {
+
+"word": "vaivode",
+"language": "Estonian",
+"part_of_speech": "noun",
+"definition": "Chairman, leader, head of an organization or community",
+"singular": "vaivode",
+"plural": "vaivad",
+"topic_area": ["government", "organizations"]
+}
+
+"vajra" ==================================
+
+  {
+
+"word": "vajra",
+"language": "Sanskrit",
+"part_of_speech": "noun",
+"definition": "A symbol representing power and authority in Hinduism and Buddhism, often depicted as a thunderbolt or a scepter with multiple heads.",
+"rarity": "Rare",
+"topic_area": ["Religion", "Mythology"]
+
+}
+
+"vajrasana" ==================================
+
+  {
+
+"word": "vajrasana",
+"part_of_speech": "noun",
+"language_origin": "Sanskrit",
+"topic_area": "Yoga",
+"rarity": "Common",
+"singular": "Vajrasana",
+"plural": "Vajrasanas"
+}
+
+"vakass" ==================================
+
+  {
+"word": "vakass",
+"language": "Hausa",
+"part_of_speech": "noun",
+"definition": "A type of traditional Hausa drum.",
+"rarity": "common",
+"topic_area": "music and culture"
+}
+
+"vakeel" ==================================
+
+  {
+"word": "vakeel",
+"language": "Urdu",
+"part_of_speech": "noun",
+"definition": "A lawyer or advocate.",
+"singular": "vakeel",
+"plural": "vakilan",
+"topic_area": "Law"
+}
+
+"vakeels" ==================================
+
+  {
+"word": "vakeels",
+"language": "Urdu",
+"part_of_speech": "noun",
+"definition": "Lawyer or advocate",
+"singular": "vakeel",
+"plural": "vakeelon mein" (in this context, it means 'among lawyers' or 'in the presence of lawyers'),
+"topic_area": "Legal"
+}
+
+"vakia" ==================================
+
+  {
+"word": "vakia",
+"language": "Unknown",
+"part_of_speech": "Unknown",
+"commonality": "Rare",
+"topic_area": "Unknown",
+"infinitive_form": "N/A",
+"conjugations": "N/A",
+"singular": "N/A",
+"plural": "N/A"
+}
+
+"vakil" ==================================
+
+  {
+"word": "vakil",
+"language": "Urdu, Hindi",
+"part_of_speech": "noun",
+"definition": "A lawyer or an agent authorized to act for another.",
+"commonality": "Common",
+"topic_area": ["Law"]
+}
+
+"vakils" ==================================
+
+  {
+"word": "vakil",
+"language": "Urdu, Hindi",
+"part_of_speech": "noun",
+"definition": "An advocate or legal representative in South Asian countries.",
+"frequency": "common",
+"topic_area": ["law"]
+}
+
+"vakkaliga" ==================================
+
+  {
+"word": "vakkaliga",
+"language": "Kannada",
+"part_of_speech": "noun",
+"topic_area": "Unknown",
+"rarity": "Rare",
+"singular": "वक्कलಿग",
+"plural": "वक्कलिगाಃ"
+}
+
+"valance" ==================================
+
+  {
+
+"word": "valence",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"definition": "The emotional tone or attitude that is expressed or implied in a word, phrase, sentence, or situation.",
+"topic_area": ["linguistics", "psychology"],
+"rarity": "common"
+
+}
+
+"valanced" ==================================
+
+  {
+"word": "valenced",
+"partOfSpeech": "None",
+"language": "English is not a valid word in any standard English dictionary.",
+"rarity": "Rare",
+"topicArea": "Computational Linguistics, Psychology (specifically emotional valence)"
+}
+
+"valances" ==================================
+
+  {
+"word": "valence",
+"part_of_speech": "noun",
+"language_origin": "Latin",
+"topic_area": "Chemistry, Linguistics",
+"definition": "The value or degree of emotional or connotative association between a word and other words or concepts.",
+"synonyms": ["affective meaning", "emotional tone"],
+"rarity": "Common in both Chemistry and Linguistics contexts."
+}
