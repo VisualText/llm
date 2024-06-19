@@ -1,7 +1,7 @@
 import os
 
 # Define the directory path
-directory_path = os.path.join(os.getcwd(), "OllamaPrompt", "input", "wordfiles");
+directory_path = os.path.join(os.getcwd(), "wordfiles");
 
 # Initialize a list to store file names
 matching_files = []
