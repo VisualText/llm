@@ -4,7 +4,7 @@ import ollama
 import os
 import re
 
-filename = "v.txt"
+filename = "w.txt"
 
 def filePath(filename, subfolder="wordfiles"):
     return os.path.join(os.getcwd(), subfolder, filename);
@@ -26,6 +26,9 @@ def get_ollama_answer(prompt):
     return r1
 
 def find_words_done(input_file):
+    if not os.path.exists(input_file):
+        return []
+    
     # Read the input file line by line
     with open(input_file, 'r') as f:
         lines = f.readlines()
