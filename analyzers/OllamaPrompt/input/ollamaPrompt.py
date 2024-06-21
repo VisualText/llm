@@ -4,7 +4,7 @@ import ollama
 import os
 import re
 
-filename = "w.txt"
+filename = "l.txt"
 
 def filePath(filename, subfolder="wordfiles"):
     return os.path.join(os.getcwd(), subfolder, filename);
@@ -66,7 +66,7 @@ with open(file_path, 'a') as file:
         if word not in words_done:
             counter += 1
             print(f"{counter} {word}")
-            prompt = f"Is the word {word} a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection? What human language is this word from? Is this word common or rare? Is this topic area of this word? If it is a verb, please list the infinitive form, and a delineate all of the conjugations. If it is a noun, please deliniate the singular and plural."
+            prompt = f"Is the word {word} a noun, verb, adjective, adverb, pronoun, preposition, conjunction, or interjection? What human language is this word from? Is this word common or rare? What is the topic area of this word? If it is a verb, please list the infinitive form, and a delineate all of the conjugations. If it is a noun, please deliniate the singular and plural."
             answer = get_ollama_answer(prompt)
             if answer:
                 str = f"\n\n\"{word}\" ==================================\n\n {answer}"
