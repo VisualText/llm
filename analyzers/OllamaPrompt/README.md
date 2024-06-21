@@ -2,6 +2,8 @@
 
 The idea behind this analyzer is to use a local LLM to generate responses to prompts asking about linguistic information about words in English.
 
+The dictionary being used is from the current full english dictionary in the NLP++ library (en-full.dict) and the English words found in this repository: https://github.com/dwyl/english-words/blob/master/words.txt. The two have been merged into one large file and then split into separate letter files using the python script divideWords.py.
+
 ## Current Progress
 
 Currently, David de Hilster is running the python script on his computer and generating the definition files for each letter. This is the output from running the `fileLines.py` python script.
