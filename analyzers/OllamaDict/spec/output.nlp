@@ -1,0 +1,15 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-15 17:42:58
+# MODIFIED:
+###############################################
+
+@CODE
+
+if (G("$islastfile") || !G("$isdirrun")) {
+    SaveKB("mykb.kbb",G("words"),2);
+}
+
+@@CODE

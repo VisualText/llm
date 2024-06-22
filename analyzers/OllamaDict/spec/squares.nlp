@@ -1,0 +1,16 @@
+###############################################
+# FILE: squares
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-17 19:11:49
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_squares <-
+	\[					### (1)
+	_xWILD [fail=(\])]	### (2)
+	\]					### (3)
+	@@

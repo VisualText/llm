@@ -1,0 +1,17 @@
+###############################################
+# FILE: attrsMain
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-17 20:35:40
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _conjugations _brackets
+
+@POST
+AddConjugationAttr(X(3),N("attr"),N("val"));
+
+@RULES
+_xNIL <-
+	_attr	### (1)
+	@@

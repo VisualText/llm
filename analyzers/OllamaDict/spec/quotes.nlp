@@ -1,0 +1,20 @@
+###############################################
+# FILE: quotes
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-14 15:29:2
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+S("text") = N("$text",2);
+single();
+
+@RULES
+_quote <-
+	\"					### (1)
+	_xWILD [fail=(\")]	### (2)
+	\"					### (3)
+	@@
