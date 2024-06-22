@@ -17,8 +17,8 @@ Currently, David de Hilster is running the python script on his computer and gen
 - [x] q.txt, word count: 3013
 - [x] k.txt, word count: 3818
 - [x] v.txt, word count: 5800
-- [ ] w.txt, word count: 10223
-- [ ] l.txt, word count: 11185
+- [x] w.txt, word count: 10223
+- [x] l.txt, word count: 11185
 - [ ] g.txt, word count: 11850
 - [ ] o.txt, word count: 14189
 - [ ] f.txt, word count: 14515
