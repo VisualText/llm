@@ -21,17 +21,17 @@ def write_letter_word_file(letter, word, lines):
     filename = f"{word}.txt"
     file_path = os.path.join(os.getcwd(), "OllamaPrompt", "input", "wordfiles", letter, filename);
     create_directories_if_not_exist(file_path)
-    with open(file_path, 'w') as file:
+    with open(file_path, 'w', encoding="utf-8") as file:
         for line in lines:
             file.write(line)
 
 def make_word_files(input_file):
     # Read the input file line by line
-    with open(input_file, 'r') as f:
+    with open(input_file, 'r', encoding="utf-8") as f:
         lines = f.readlines()
 
     # Define the pattern: single quote, text, single quote, at least five "="
-    pattern = re.compile(r"'([^']+)'\s*={5,}")
+    pattern = re.compile(r"\"([^']+)\"\s*={5,}")
 
     def_lines = []
     word = ''
@@ -54,6 +54,6 @@ def make_word_files(input_file):
 
 directory = os.path.join(os.getcwd(), "OllamaPrompt", "input", "wordfiles")
 for filename in os.listdir(directory):
-    if "-def" in filename:
+    if filename == "l-def.txt":
         file_path = os.path.join(directory, filename)
         make_word_files(file_path)

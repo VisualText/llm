@@ -1,0 +1,44 @@
+###############################################
+# FILE: attr
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-17 19:12:58
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+S("attr") = N("text",1);
+S("val") = N("$text",3);
+single();
+
+@RULES
+_attr <-
+	_quote	### (1)
+	\:		### (2)
+	_xNUM	### (3)
+	@@
+
+@POST
+S("attr") = N("text",1);
+S("val") = N("text",3);
+single();
+
+@RULES
+_attr <-
+	_quote	### (1)
+	\:		### (2)
+	_quote	### (3)
+	@@
+
+@POST
+S("attr") = N("text",1);
+single();
+
+@RULES
+_attr <-
+	_quote		### (1)
+	\:			### (2)
+	_squares	### (3)
+	@@

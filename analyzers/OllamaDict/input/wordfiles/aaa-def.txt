@@ -1,0 +1,125 @@
+
+
+'kaama' ==================================
+
+  {
+"word": "kaama",
+"language": "Hindi",
+"part_of_speech": "verb",
+"definition": "to desire or long for something",
+"infinitive": "karna",
+"conjugations": [
+{"person": "first singular", "form": "karoon"},
+{"person": "second singular", "form": "kartaa"},
+{"person": "third singular masculine", "form": "karta hai"},
+{"person": "third singular feminine", "form": "karti hai"},
+{"person": "first plural", "form": "karte hain"},
+{"person": "second plural", "form": "kartaao"},
+{"person": "third plural", "form": "karnaa"}
+]
+}
+
+'boat' ==================================
+
+  {
+"word": "boat",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Transportation",
+"singular": "boat",
+"plural": "boats"
+}
+
+'xanthophyll' ==================================
+
+  {
+"word": "xanthophyll",
+"part_of_speech": "noun",
+"language_origin": "English",
+"topic_area": "Botany",
+"definition": "A class of pigments that give yellow, orange, or red colors to plants.",
+"singular": "xanthophyll",
+"plural": "xanthophylls"
+}
+
+'bamboozeled' ==================================
+
+  {
+"word": "bamboozled",
+"partOfSpeech": "verb",
+"languageOrigin": "English",
+"rarity": "common",
+"topicArea": "Idiomatic expressions",
+"infinitiveForm": "to bamboozle",
+"conjugations": [
+{"person": "first", "tense": "present", "form": "bamboozle"},
+{"person": "second", "tense": "present", "form": "bamboozles"},
+{"person": "third", "tense": "present", "form": "bamboozles"},
+{"person": "first", "tense": "past", "form": "bamboozled"},
+{"person": "second", "tense": "past", "form": "bamboozled"},
+{"person": "third", "tense": "past", "form": "were bamboozled"},
+{"person": "first", "tense": "present perfect", "form": "have been bamboozled"},
+{"person": "second", "tense": "present perfect", "form": "have been bamboozled"},
+{"person": "third", "tense": "present perfect", "form": "have been bamboozled"},
+{"person": "first", "tense": "past perfect", "form": "had been bamboozled"},
+{"person": "second", "tense": "past perfect", "form": "had been bamboozled"},
+{"person": "third", "tense": "past perfect", "form": "had been bamboozled"}
+]
+}
+
+'judge' ==================================
+
+  {
+"word": "judge",
+"part_of_speech": "noun, verb, adjective",
+"definition": {
+  "noun": "a person who is able to make decisions or give rulings on a matter with authority.",
+  "verb": "to form an opinion about (something or someone) based on evidence and careful consideration."
+},
+"language": "English",
+"topic_area": ["law", "decision making"],
+"rarity": "common"
+}
+
+If "judge" is used as a verb, the infinitive form is "to judge". The conjugations for "judge" as a verb in English are:
+
+- I judge / you judge / we judge / they judge
+- I judged / you judged / we judged / they judged
+- I will judge / you will judge / we will judge / they will judge
+- I had judged / you had judged / we had judged / they had judged.
+
+'law' ==================================
+
+  {
+"word": "law",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Legal",
+"definition": "A rule or collection of rules recognized in a community as regulating the conduct or behavior of its members.",
+"singular": "law",
+"plural": "laws"
+}
+
+'facade' ==================================
+
+  {
+"word": "facade",
+"part_of_speech": "noun",
+"language_origin": "English",
+"definition": "The front part of a building, typically constructed to be pleasing to look at from the street or other public viewpoint, while the back may be quite different.",
+"rarity": "common",
+"topic_area": ["architecture", "design"]
+}
+
+'touchdown' ==================================
+
+  {
+"word": "touchdown",
+"part_of_speech": "noun",
+"language": "English",
+"topic_area": "Sports",
+"definition": "A scoring action in American football or Canadian football, achieved when a player carries or catches the ball into the opposing team's end zone.",
+"synonyms": ["touchdown score", "six points"],
+"singular": "touchdown",
+"plural": "touchdowns"
+}

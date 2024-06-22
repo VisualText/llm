@@ -1,0 +1,11 @@
+
+  {
+"word": "labaria",
+"part_of_speech": "Unknown",
+"language": "Unspecified",
+"frequency": "Rare",
+"topic_area": "Unknown"
+}
+
+To provide a definition or conjugation for the word "labaria," more information is needed, such as the specific language and its part of speech.
+
