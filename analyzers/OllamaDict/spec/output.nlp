@@ -10,6 +10,67 @@
 
 if (G("$islastfile") || !G("$isdirrun")) {
     SaveKB("mykb.kbb",G("words"),2);
+
+    L("out") = "l.dict";
+
+    L("word") = down(G("words"));
+    while (L("word")) {
+        L("attr con") = down(L("word")); 
+        if (L("attr con")) {
+            L("out") << strtolower(conceptname(L("word")));
+        }
+        while (L("attr con")) {
+            L("name") = strtolower(conceptname(L("attr con")));
+
+            ###############################################
+            # Attributes
+            ###############################################
+            if (strstartswith(L("name"),"attr")) {
+                L("attrs") = findattrs(L("attr con"));
+                while (L("attrs")) {
+                    L("vals") = attrvals(L("attrs"));
+                    L("name") = attrname(L("attrs"));
+                    L("type") = attrtype(L("from"),L("name"));
+                    L("val") = strtolower(getstrval(L("vals")));
+
+                    if (L("val") != "unknown" && L("val") != "unidentified") {
+                        while (L("vals")) {
+                            L("val") = QuoteIfNeeded(strtolower(getstrval(L("vals"))));
+                            if (L("name") == "pos") {
+                                L("out") << " " << L("val") << "=1";
+                            }
+                            else if (L("name") == "language") {
+                                L("out") << " language=" << L("val");
+                            }
+                            else if (L("name") == "commonality") {
+                                L("out") << " freq=" << L("val");
+                            }
+                            else if (strstartswith(L("name"),"topic")) {
+                                L("out") << " " << L("val") << "=1";
+                            }
+                            else if (strstartswith(L("name"),"infinitive")) {
+                                L("out") << " root=" << L("val");
+                                L("infinitive") = 1;
+                            }
+                            L("vals") = nextval(L("vals"));
+                        }
+                    }
+                    L("attrs") = nextattr(L("attrs"));
+                }
+            }
+
+            ###############################################
+            # Conjugations
+            ###############################################
+            else if (strstartswith(L("name"),"conjugation") && !L("infinitive")) {
+                L("out") << " " << L("name") << " ";
+            }
+            L("attr con") = next(L("attr con"));
+        }
+
+        L("out") << "\n";
+        L("word") = next(L("word"));
+    }
 }
 
 @@CODE

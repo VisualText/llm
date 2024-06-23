@@ -1,15 +1,25 @@
 dicttokz	nil	# Gen:   Convert input to token list
+/folder	INIT	# new folder
 nlp	init	# comment
 nlp	KBFuncs	# comment
 nlp	funcs	# comment
+end	INIT	# new folder
+/folder	SYNTAX	# new folder
 nlp	LinesDictTokZ	# comment
 nlp	quotes	# comment
-nlp	conjugationHeader	# comment
 nlp	squares	# comment
 nlp	attr	# comment
 nlp	brackets	# comment
+nlp	conjugationHeader	# comment
+nlp	exampleZone	# comment
 nlp	conjugationZone	# comment
+end	SYNTAX	# new folder
+/folder	ATTRIBUTES	# new folder
 nlp	attrsMain	# comment
-nlp	attr1	# comment
+nlp	attrSpecific	# comment
+nlp	attrSquares	# comment
+nlp	topics	# comment
+nlp	infinitive	# comment
+end	ATTRIBUTES	# new folder
 nlp	conjugation	# comment
 nlp	output	# comment
