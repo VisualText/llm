@@ -16,15 +16,37 @@ AddAttribute(L("attr node")) {
     }
     else if (L("attr")) {
         L("attr") = pnvar(L("attr node"),"attr");
-        L("value") = pnvar(L("attr node"),"val");
         if (L("attr") == "part_of_speech") {
             L("attr") = "pos";
         }
         L("con") = G("word");
         L("def") = MakeCountCon(L("con"),"attr");
         pnmakevar(L("attr node"),"con",L("def"));
-        if (L("value")) {
-            addstrval(L("def"),L("attr"),L("value"));
+
+        ###############################################
+        # When an attribute has more than one value
+        ###############################################
+        if (pnvar(L("attr node"),"multival")) {
+            L("node") = pndown(L("attr node"));
+            while (L("node")) {
+                if (pnname(L("node")) == "_squares") {
+                    L("quote") = pndown(L("node"));
+                    while (L("quote")) {
+                        if (pnname(L("quote")) == "_quote") {
+                            addstrval(L("def"),L("attr"),pnvar(L("quote"),"text"));
+                        }   
+                        L("quote") = pnnext(L("quote"));
+                    }   
+                }
+                L("node") = pnnext(L("node"));
+            }
+        }
+        else {
+            L("value") = pnvar(L("attr node"),"val");
+            if (L("value")) {
+                addstrval(L("def"),L("attr"),L("value"));
+            }
+            L("attr") = pnvar(L("attr node"),"attr");
         }
     }
 }

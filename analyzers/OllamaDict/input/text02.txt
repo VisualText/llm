@@ -1,19 +1,34 @@
 
   {
-"word": "zapping",
+"word": "leaching",
 "part_of_speech": "verb",
 "language": "English",
-"rarity": "common",
-"topic_area": "Television or Media",
-"infinitive": "to zap",
+"topic_area": ["chemistry", "environment"],
+"definition": "The process of gradually releasing or dissolving a substance, typically a solvent, into a liquid.",
+"infinitive": "to leach",
 "conjugations": [
-{"person": 1, "tense": "present", "form": "zap"},
-{"person": 1, "tense": "past", "form": "zapped"},
-{"person": 1, "tense": "present_continuous", "form": "am zapping/is zapping/are zapping"},
-{"person": 1, "tense": "past_continuous", "form": "was zapping/were zapping"},
-{"person": 3, "tense": "present", "form": "zaps"},
-{"person": 3, "tense": "past", "form": "zapped"},
-{"person": 3, "tense": "present_continuous", "form": "are zapping"},
-{"person": 3, "tense": "past_continuous", "form": "were zapping"}
+{"person": "first", "tense": "present", "form": "I leach"},
+{"person": "second", "tense": "present", "form": "you leach"},
+{"person": "third", "tense": "present", "form": "he/she/it leaches"},
+{"person": "first", "tense": "past", "form": "I leached"},
+{"person": "second", "tense": "past", "form": "you leached"},
+{"person": "third", "tense": "past", "form": "he/she/it leached"},
+{"person": "first", "tense": "present_continuous", "form": "I am leaching"},
+{"person": "second", "tense": "present_continuous", "form": "you are leaching"},
+{"person": "third", "tense": "present_continuous", "form": "he/she/it is leaching"},
+{"person": "first", "tense": "past_continuous", "form": "I had been leaching"},
+{"person": "second", "tense": "past_continuous", "form": "you had been leaching"},
+{"person": "third", "tense": "past_continuous", "form": "he/she/it had been leaching"},
+{"person": "first", "tense": "present_perfect", "form": "I have leached"},
+{"person": "second", "tense": "present_perfect", "form": "you have leached"},
+{"person": "third", "tense": "present_perfect", "form": "he/she/it has leached"},
+{"person": "first", "tense": "past_perfect", "form": "I had leached"},
+{"person": "second", "tense": "past_perfect", "form": "you had leached"},
+{"person": "third", "tense": "past_perfect", "form": "he/she/it had leached"},
+{"person": "first", "tense": "present_perfect_continuous", "form": "I have been leaching"},
+{"person": "second", "tense": "present_perfect_continuous", "form": "you have been leaching"},
+{"person": "third", "tense": "present_perfect_continuous", "form": "he/she/it has been leaching"}
 ]
 }
+
+This word is common in English language, and it is mainly used in the topic areas of chemistry and environment.

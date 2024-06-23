@@ -20,3 +20,14 @@ _xNIL <-
 	\:		### (2)
 	\[		### (3)
 	@@
+
+
+@POST
+pnrename(X(2),"_example");
+
+@RULES
+_xNIL <-
+	for		### (1)
+	example	### (2)
+	\:		### (3)
+	@@
