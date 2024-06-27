@@ -22,7 +22,7 @@ Currently, David de Hilster is running the python script on his computer and gen
 - [ ] g.txt, word count: 11850
 - [x] o.txt, word count: 14189
 - [x] f.txt, word count: 14515
-- [ ] i.txt, word count: 14680
+- [x] i.txt, word count: 14680
 - [ ] n.txt, word count: 14797
 - [ ] e.txt, word count: 14955
 - [ ] h.txt, word count: 15999
