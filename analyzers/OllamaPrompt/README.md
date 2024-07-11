@@ -27,7 +27,7 @@ Currently, David de Hilster is running the python script on his computer and gen
 - [x] e.txt, word count: 14955
 - [x] h.txt, word count: 15999
 - [x] r.txt, word count: 19730
-- [ ] b.txt, word count: 20325
+- [x] b.txt, word count: 20325
 - [ ] d.txt, word count: 20832
 - [ ] m.txt, word count: 21002
 - [ ] t.txt, word count: 22465
