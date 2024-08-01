@@ -29,11 +29,11 @@ Currently, David de Hilster is running the python script on his computer and gen
 - [x] r.txt, word count: 19730
 - [x] b.txt, word count: 20325
 - [x] d.txt, word count: 20832
-- [ ] m.txt, word count: 21002
-- [ ] t.txt, word count: 22465
-- [ ] u.txt, word count: 23490
-- [ ] a.txt, word count: 25902
-- [ ] c.txt, word count: 34725
+- [x] m.txt, word count: 21002
+- [x] t.txt, word count: 22465
+- [x] u.txt, word count: 23490
+- [x] a.txt, word count: 25902
+- [x] c.txt, word count: 34725
 - [ ] p.txt, word count: 37960
 - [ ] s.txt, word count: 46893
 - [ ] caps.txt, word count: 78851
