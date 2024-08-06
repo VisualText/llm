@@ -4,7 +4,7 @@ import ollama
 import os
 import re
 
-filename = "l.txt"
+filename = "s.txt"
 
 def filePath(filename, subfolder="wordfiles"):
     return os.path.join(os.getcwd(), subfolder, filename);
