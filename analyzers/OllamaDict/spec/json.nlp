@@ -1,0 +1,20 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-8-11 16:6:10
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _wordZone
+
+@POST
+X("json",2) = 1;
+single();
+
+@RULES
+_json <-
+	_openCurly					### (1)
+	_xWILD [fail=(_closeCurly)]	### (2)
+	_closeCurly
+	@@

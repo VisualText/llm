@@ -9,9 +9,11 @@
 @CODE
 
 if (G("$islastfile") || !G("$isdirrun")) {
-    SaveKB("mykb.kbb",G("words"),2);
+    L("filename") = G("$inputhead") + ".kbb";
+    SaveKB(L("filename"),G("words"),2);
+    SaveKB("attrs.kbb",G("attrs"),2);
 
-    L("out") = "l.dict";
+    L("out") = G("$inputhead") + ".dict";
 
     L("word") = down(G("words"));
     while (L("word")) {
@@ -30,7 +32,7 @@ if (G("$islastfile") || !G("$isdirrun")) {
                 while (L("attrs")) {
                     L("vals") = attrvals(L("attrs"));
                     L("name") = attrname(L("attrs"));
-                    L("type") = attrtype(L("from"),L("name"));
+                    L("type") = attrtype(L("attr con"),L("name"));
                     L("val") = strtolower(getstrval(L("vals")));
 
                     if (L("val") != "unknown" && L("val") != "unidentified") {

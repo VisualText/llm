@@ -6,10 +6,12 @@
 # MODIFIED:
 ###############################################
 
-@NODES _LINE
+@PATH _ROOT _wordZone _LINE
 
 @POST
 S("attr") = N("text",1);
+TallyAttr(N("text",1));
+if (N("type",1)) S("type") = N("type",1);
 S("val") = N("$text",3);
 single();
 
@@ -22,6 +24,8 @@ _attr <-
 
 @POST
 S("attr") = N("text",1);
+TallyAttr(N("text",1));
+if (N("type",1)) S("type") = N("type",1);
 S("val") = N("text",3);
 single();
 
@@ -34,6 +38,22 @@ _attr <-
 
 @POST
 S("attr") = N("text",1);
+TallyAttr(N("text",1));
+if (N("type",1)) S("type") = N("type",1);
+S("val") = N("text",3);
+single();
+
+@RULES
+_attr <-
+	_quote						### (1)
+	\:							### (2)
+	_xWILD [one match=(null)]	### (3)
+	@@
+
+@POST
+S("attr") = N("text",1);
+TallyAttr(N("text",1));
+if (N("type",1)) S("type") = N("type",1);
 S("multival") = 1;
 single();
 

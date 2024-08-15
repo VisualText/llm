@@ -1,0 +1,14 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-14 15:55:51
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("attrs") = getconcept(findroot(),"attrs");
+G("languages") = getconcept(findroot(),"languages");
+
+@@CODE

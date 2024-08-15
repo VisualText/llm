@@ -4,22 +4,19 @@ nlp	init	# comment
 nlp	KBFuncs	# comment
 nlp	funcs	# comment
 end	INIT	# new folder
-/folder	SYNTAX	# new folder
+/folder	FORMAT	# new folder
 nlp	LinesDictTokZ	# comment
 nlp	quotes	# comment
-nlp	squares	# comment
+nlp	headers	# comment
+nlp	wordZones	# comment
 nlp	attr	# comment
-nlp	brackets	# comment
-nlp	conjugationHeader	# comment
-nlp	exampleZone	# comment
-nlp	conjugationZone	# comment
-end	SYNTAX	# new folder
+nlp	squares	# comment
+nlp	attrLine	# comment
+nlp	attrList	# comment
+nlp	attrObject	# comment
+nlp	json	# comment
+end	FORMAT	# new folder
 /folder	ATTRIBUTES	# new folder
 nlp	attrsMain	# comment
-nlp	attrSpecific	# comment
-nlp	attrSquares	# comment
-nlp	topics	# comment
-nlp	infinitive	# comment
 end	ATTRIBUTES	# new folder
-nlp	conjugation	# comment
 nlp	output	# comment

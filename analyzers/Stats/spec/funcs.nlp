@@ -1,0 +1,25 @@
+###############################################
+# FILE: funcs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-17 20:23:0
+# MODIFIED:
+###############################################
+
+@DECL
+
+TallyAttr(L("attr"),L("val")) {
+    if (L("attr")) {
+        L("attr") = strtolower(L("attr"));
+        L("con") = getconcept(G("attrs"),L("attr"));
+        IncrementCount(L("con"),"attr");
+
+        if (L("attr") == "language") {
+            L("con") = getconcept(G("languages"),L("val"));
+            IncrementCount(L("con"),"lang");            
+            IncrementCount(G("languages"),"count");            
+        }
+    }        
+}
+
+@@DECL

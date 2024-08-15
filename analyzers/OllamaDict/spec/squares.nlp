@@ -6,7 +6,7 @@
 # MODIFIED:
 ###############################################
 
-@NODES _LINE
+@PATH _ROOT _wordZone _LINE
 
 @RULES
 _squares <-

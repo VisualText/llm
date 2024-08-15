@@ -6,12 +6,12 @@
 # MODIFIED:
 ###############################################
 
-@NODES _LINE
+@PATH _ROOT _wordZone _json
 
 @POST
-AddAttribute(N(1));
+AddAttribute(X("con",2),N(1));
 
 @RULES
 _xNIL <-
-	_attr	### (1)
+	_attrLine	### (1)
 	@@

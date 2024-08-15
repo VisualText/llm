@@ -1,0 +1,20 @@
+###############################################
+# FILE: attrObject
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-17 19:17:14
+# MODIFIED:
+###############################################
+
+@NODES _wordZone
+
+@POST
+S("text") = N("text",1);
+single();
+
+@RULES
+_attrObject <-
+	_attrCurly						### (1)
+	_xWILD [plus match=(_attrList)]	### (2)
+	_closeCurly						### (3)
+	@@

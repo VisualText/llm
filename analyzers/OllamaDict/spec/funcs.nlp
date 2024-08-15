@@ -8,60 +8,22 @@
 
 @DECL
 
-AddAttribute(L("attr node")) {
-    L("attr") = pnvar(L("attr node"),"attr");
-    L("value") = pnvar(L("attr node"),"val");
-    if (L("attr") == "word") {
-        G("word") = getconcept(G("words"),L("value"));
-    }
-    else if (L("attr")) {
-        L("attr") = pnvar(L("attr node"),"attr");
-        if (L("attr") == "part_of_speech") {
-            L("attr") = "pos";
-        }
-        L("con") = G("word");
-        L("def") = MakeCountCon(L("con"),"attr");
-        pnmakevar(L("attr node"),"con",L("def"));
-
-        ###############################################
-        # When an attribute has more than one value
-        ###############################################
-        if (pnvar(L("attr node"),"multival")) {
-            L("node") = pndown(L("attr node"));
-            while (L("node")) {
-                if (pnname(L("node")) == "_squares") {
-                    L("quote") = pndown(L("node"));
-                    while (L("quote")) {
-                        if (pnname(L("quote")) == "_quote") {
-                            addstrval(L("def"),L("attr"),pnvar(L("quote"),"text"));
-                        }   
-                        L("quote") = pnnext(L("quote"));
-                    }   
-                }
-                L("node") = pnnext(L("node"));
-            }
-        }
-        else {
-            L("value") = pnvar(L("attr node"),"val");
-            if (L("value")) {
-                addstrval(L("def"),L("attr"),L("value"));
-            }
-            L("attr") = pnvar(L("attr node"),"attr");
-        }
-    }
+TallyAttr(L("attr")) {
+    L("con") = getconcept(G("attrs"),L("attr"));
+    IncrementCount(L("con"),"attr");
 }
 
-AddConjugationAttr(L("bracket node"),L("attr"),L("value")) {
-    if (L("attr") && L("value")) {
-        L("con") = G("word");
-        L("conjugation") = getconcept(L("con"),"conjugation");
-        L("conju") = pnvar(L("bracket node"),"con");
-        if (!L("conju")) {
-            L("conju") = MakeCountCon(L("conjugation"),"attr");
-            pnmakevar(L("bracket node"),"con",L("conju"));
-        }
-        L("a") = MakeCountCon(L("conju"),"attr");
-        addstrval(L("a"),L("attr"),L("value"));
+AddAttribute(L("word con"),L("attr node")) {
+    L("type") = pnvar(L("attr node"),"type");
+    if (L("type")) {
+        L("value") = strtolower(pnvar(L("attr node"),"val"));
+        if (L("type")) {
+            if (L("type") == "conjugation") {
+                L("do nothing") = 1;
+            } else {
+                addstrval(L("word con"),L("type"),L("value"));                
+            }
+        }       
     }
 }
 

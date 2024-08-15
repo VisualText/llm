@@ -1,0 +1,54 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-8-11 16:6:10
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+pnrename(X(2),"_attrCurly");
+X("text",2) = N("text",2);
+
+@RULES
+_xNIL <-
+	_xSTART	### (1)
+	_quote	### (2)
+	\:		### (3)
+	\{		### (4)
+	_xEnd	### (5)
+	@@
+
+@POST
+pnrename(X(2),"_header");
+X("word",2) = N("text",2);
+
+@RULES
+_xNIL <-
+	_xSTART	### (1)
+	_quote	### (2)
+	_equals	### (3)
+	@@
+
+@POST
+pnrename(X(2),"_openCurly");
+
+@RULES
+_xNIL <-
+	_xSTART	### (1)
+	\{		### (2)
+	_xEND	### (3)
+	@@
+
+@POST
+pnrename(X(2),"_closeCurly");
+
+@RULES
+_xNIL <-
+	_xSTART		### (1)
+	\}			### (2)
+	\, [opt]	### (3)
+	_xEND		### (4)
+	@@
