@@ -1,0 +1,20 @@
+###############################################
+# FILE: wordZones
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-8-11 16:11:27
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+S("word") = N("word",1);
+S("con") = getconcept(G("words"),N("word",1));
+single();
+
+@RULES
+_wordZone <-
+	_header							### (1)
+	_xWILD [fails=(_header _xEND)]	### (2)
+	@@

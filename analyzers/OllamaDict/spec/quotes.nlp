@@ -10,6 +10,7 @@
 
 @POST
 S("text") = N("$text",2);
+if (N("type",2)) S("type") = N("type",2);
 single();
 
 @RULES
@@ -17,4 +18,10 @@ _quote <-
 	\"					### (1)
 	_xWILD [fail=(\")]	### (2)
 	\"					### (3)
+	@@
+
+@RULES
+_equals <-
+	\=					### (1)
+	_xWILD [match=(\=)]	### (2)
 	@@

@@ -1,0 +1,18 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-6-15 17:42:58
+# MODIFIED:
+###############################################
+
+@CODE
+
+if (G("$islastfile") || !G("$isdirrun")) {
+    sortchilds(G("attrs"));
+    sortchilds(G("languages"));
+    SaveKB("attrs.kbb",G("attrs"),2);
+    SaveKB("languages.kbb",G("languages"),2);
+}
+
+@@CODE

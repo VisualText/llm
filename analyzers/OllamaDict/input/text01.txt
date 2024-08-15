@@ -1,71 +1,247 @@
 
+"babblative" ==================================
+
   {
-"word": "labara",
-"language": "Unknown",
-"part_of_speech": "Unknown",
-"definition": "",
-"commonality": "Unknown",
-"topic_area": "Unknown"
+ "word": "babblative",
+ "part_of_speech": "Noun",
+ "language": "English (or possibly a neologism)",
+ "rarity": "Rare",
+ "topic_area": "Linguistics, Psychology",
+ "infinitive_form": null,
+ "conjugations": null,
+ "singular": "babblative",
+ "plural": "babblatives"
 }
 
-To provide a definition and other required information for the word "labara," more context is needed. The language it comes from, its part of speech, commonality, and topic area are all unknown based on the given information. If you could please provide this information, I'd be happy to help further!
+Please note that the term "babblative" is not a standard word in English or any other language to my knowledge. It appears to be a neologism or an invented term, possibly used in linguistics to describe speech patterns that are similar to baby talk or babbling. As such, it does not have standard conjugations or infinitive forms associated with verbs in English. If you have more information about this term, I would be happy to help further!
 
-For example:
+"babble" ==================================
 
-{
-"word": "run",
-"language": "English",
-"part_of_speech": "Verb",
-"definition": "Move quickly by falling or jumping from one place to another.",
-"commonality": "Common",
-"topic_area": "Physical Activity",
-"infinitive": "run",
-"conjugations": [
-{
-"tense": "Present Simple",
-"form": "run"
-},
-{
-"tense": "Present Continuous",
-"form": "am running, is running, are running"
-},
-{
-"tense": "Past Simple",
-"form": "ran"
-},
-{
-"tense": "Past Continuous",
-"form": "had been running"
-},
-{
-"tense": "Present Perfect",
-"form": "have run, has run, have run"
-},
-{
-"tense": "Present Perfect Continuous",
-"form": "have been running"
-},
-{
-"tense": "Past Perfect",
-"form": "had run"
-},
-{
-"tense": "Past Perfect Continuous",
-"form": "had been running"
-}
-]
+  {
+ "word": "babble",
+ "part_of_speech": "verb",
+ "language": "English",
+ "commonality": "common",
+ "topic_area": "communication",
+ "infinitive_form": "babble",
+ "conjugations": {
+   "present": ["I babble", "you babble", "he/she/it babbles", "we babble", "they babble"],
+   "past": ["I babbled", "you babbled", "he/she/it babbled", "we babbled", "they babbled"],
+   "present_continuous": ["I am babbling", "you are babbling", "he/she/it is babbling", "we are babbling", "they are babbling"],
+   "past_continuous": ["I was babbling", "you were babbling", "he/she/it was babbling", "we were babbling", "they were babbling"],
+   "present_perfect": ["I have babbled", "you have babbled", "he/she/it has babbled", "we have babbled", "they have babbled"],
+   "past_perfect": ["I had babbled", "you had babbled", "he/she/it had babbled", "we had babbled", "they had babbled"]
+ },
+ "singular_noun": "babble",
+ "plural_noun": "babbles"
 }
 
-Or for a noun:
+"babbled" ==================================
 
-{
-"word": "apple",
-"language": "English",
-"part_of_speech": "Noun",
-"definition": "A round fruit with a red, green, or yellow skin, and white or translucent flesh.",
-"commonality": "Common",
-"topic_area": "Food",
-"singular": "apple",
-"plural": "apples"
+  {
+ "word": "babbled",
+ "part_of_speech": "verb",
+ "language": "English",
+ "topic_area": "communication",
+ "rarity": "common",
+ "infinitive_form": "babble",
+ "conjugations": {
+   "present": ["I babble", "you babble", "he/she/it babbles", "we babble", "they babble"],
+   "past": ["I babbled", "you babbled", "he/she/it babbled", "we babbled", "they babbled"],
+   "past_participium": ["babbled"],
+   "present_continuous": ["I am babbling", "you are babbling", "he/she/it is babbling", "we are babbling", "they are babbling"],
+   "past_continuous": ["I was babbling", "you were babbling", "he/she/it was babbling", "we were babbling", "they were babbling"]
+ },
+ "singular_noun": null,
+ "plural_noun": null
 }
 
+"babblement" ==================================
+
+  {
+ "word": "babblement",
+ "part_of_speech": "noun",
+ "language": "English",
+ "commonality": "rare",
+ "topic_area": "communication",
+ "singular": "babblement",
+ "plural": "babblings"
+}
+
+Please note that the word "babblement" is not a standard English term and may not be found in most dictionaries. It is derived from the verb "to babble," which means to speak or make meaningless sounds in a rapid, incoherent manner. However, as it is not a common term, there are no known conjugations for this form.
+
+"babblements" ==================================
+
+  {
+ "word": "babblements",
+ "part_of_speech": "noun",
+ "language": "English",
+ "commonality": "rare",
+ "topic_area": "communication",
+ "singular": "babblement",
+ "plural": "babblements"
+}
+
+Please note that the word "babblements" is not a standard English term and may not be found in most dictionaries. It appears to be derived from the verb "to babble," which means to speak or make meaningless sounds in a rapid, incoherent manner. However, without a more specific context, it's difficult to provide accurate conjugations or additional information about this term.
+
+"babbler" ==================================
+
+  {
+ "word": "babbler",
+ "part_of_speech": "noun",
+ "language": "English",
+ "topic_area": "Animals",
+ "rarity": "Common",
+ "definition": "A small, chatty bird with a loud, varied song.",
+ "singular": "babbler",
+ "plural": "babblers"
+}
+
+Note: As a text-based AI, I don't have the ability to conjugate verbs or provide additional information about verb conjugations. However, in English, the infinitive form of a verb is not typically included in a dictionary definition. You can find more information about verb conjugation rules online.
+
+"babblers" ==================================
+
+  {
+ "word": "babblers",
+ "part_of_speech": "noun",
+ "language": "English",
+ "topic_area": "Animals",
+ "rarity": "Common",
+ "definition": "A bird of the family Timaliidae, typically having a long tail and often being noisy.",
+ "singular": "babbler",
+ "plural": "babblers"
+}
+
+In English, the word "babbler" is commonly used as a noun. It refers to a bird of the family Timaliidae, typically characterized by its long tail and noisy nature. The plural form is "babblers". This word is common in the topic area of animals. In this case, it's not a verb, adjective, adverb, pronoun, preposition, conjunction, or interjection. As for conjugations, since it's a noun, there are no conjugations to list.
+
+"babbles" ==================================
+
+  {
+ "word": "babble",
+ "part_of_speech": "verb",
+ "language": "English",
+ "topic_area": "communication",
+ "rarity": "common",
+ "infinitive_form": "babble",
+ "conjugations": {
+   "present": ["I babble", "you babble", "he/she/it babbles", "we babble", "they babble"],
+   "past": ["I babbled", "you babbled", "he/she/it babbled", "we babbled", "they babbled"],
+   "present_continuous": ["I am babbling", "you are babbling", "he/she/it is babbling", "we are babbling", "they are babbling"],
+   "past_continuous": ["I was babbling", "you were babbling", "he/she/it was babbling", "we were babbling", "they were babbling"],
+   "present_perfect": ["I have babbled", "you have babbled", "he/she/it has babbled", "we have babbled", "they have babbled"],
+   "past_perfect": ["I had babbled", "you had babbled", "he/she/it had babbled", "we had babbled", "they had babbled"]
+ },
+ "singular_noun": "babble",
+ "plural_noun": "babbles"
+}
+
+"babblesome" ==================================
+
+  {
+ "word": "babblesome",
+ "part_of_speech": "adjective",
+ "language": "English",
+ "commonality": "rare",
+ "topic_area": "human communication",
+ "infinitive_form": null,
+ "conjugations": null,
+ "singular": "babblesome",
+ "plural": "babblesomes"
+}
+
+"babbling" ==================================
+
+  {
+ "word": "babbling",
+ "part_of_speech": "verb",
+ "language": "English",
+ "topic_area": "communication",
+ "rarity": "common",
+ "infinitive_form": "babble",
+ "conjugations": {
+   "present": ["I babble", "you babble", "he/she/it babbles", "we babble", "they babble"],
+   "past": ["I babbled", "you babbled", "he/she/it babbled", "we babbled", "they babbled"],
+   "present_continuous": ["I am babbling", "you are babbling", "he/she/it is babbling", "we are babbling", "they are babbling"],
+   "past_continuous": ["I was babbling", "you were babbling", "he/she/it was babbling", "we were babbling", "they were babbling"]
+ },
+ "singular_noun": null,
+ "plural_noun": null
+}
+
+"babblingly" ==================================
+
+  {
+ "word": "babblingly",
+ "part_of_speech": "adverb",
+ "language": "English",
+ "commonality": "rare",
+ "topic_area": "communication",
+ "infinitive_form": null,
+ "conjugations": null,
+ "singular": "babbling",
+ "plural": "babblings"
+}
+
+"babblings" ==================================
+
+  {
+ "word": "babblings",
+ "part_of_speech": "noun",
+ "language": "English",
+ "commonality": "rare",
+ "topic_area": "communication",
+ "infinitive_form": null,
+ "conjugations": null,
+ "singular": "babbling",
+ "plural": "babblings"
+}
+
+"babblish" ==================================
+
+  {
+ "word": "babblish",
+ "part_of_speech": "noun",
+ "language": "English (or possibly a neologism)",
+ "commonality": "Rare",
+ "topic_area": "Language and Communication",
+ "infinitive_form": null,
+ "conjugations": null,
+ "singular": "babblish",
+ "plural": "babblishes"
+}
+
+Please note that the term "babblish" does not appear to be a standard English word. It may be a neologism or a term specific to a certain context or community, and its meaning might vary depending on the source. Therefore, it is essential to verify its usage and meaning in the appropriate context before using it.
+
+"babblishly" ==================================
+
+  {
+ "word": "babblishly",
+ "part_of_speech": "adverb",
+ "language": "English",
+ "commonality": "Rare",
+ "topic_area": "Informal communication",
+ "infinitive_form": null,
+ "conjugations": null,
+ "singular": "babblishly",
+ "plural": "babblishly (used without a noun)"
+}
+
+"babbly" ==================================
+
+  {
+ "word": "babble",
+ "part_of_speech": "verb",
+ "language": "English",
+ "commonality": "Common",
+ "topic_area": "Communication",
+ "infinitive_form": "babble",
+ "conjugations": {
+   "present": ["I babble", "You babble", "He/She/It babbles", "We babble", "They babble"],
+   "past_simple": ["I babbled", "You babbled", "He/She/It babbled", "We babbled", "They babbled"],
+   "past_participle": ["I had babbled", "You had babbled", "He/She/It had babbled", "We had babbled", "They had babbled"],
+   "present_continuous": ["I am babbling", "You are babbling", "He/She/It is babbling", "We are babbling", "They are babbling"],
+   "past_continuous": ["I was babbling", "You were babbling", "He/She/It was babbling", "We were babbling", "They were babbling"]
+ },
+ "singular_noun": null,
+ "plural_noun": null
+}

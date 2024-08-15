@@ -1,0 +1,24 @@
+###############################################
+# FILE: attrLine
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-8-11 18:17:24
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _wordZone _LINE
+
+@POST
+X("text",3) = N("text",2);
+X("multi",3) = 1;
+pnrename(X(3),"_attrList");
+
+@RULES
+_xNIL <-
+	_xSTART		### (1)
+	_quote		### (2)
+	\:			### (3)
+	_squares	### (4)
+	\, [opt]	### (5)
+	_xEND		### (6)
+	@@

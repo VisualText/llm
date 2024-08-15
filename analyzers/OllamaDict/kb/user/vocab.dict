@@ -1,0 +1,5 @@
+part \_ of \_ speech s=attr type=pos
+partofspeech s=attr type=pos
+
+rarity s=attr type=commonality
+commonality s=attr type=commonality

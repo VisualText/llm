@@ -9,5 +9,6 @@
 @CODE
 
 G("words") = getconcept(findroot(),"words");
+G("attrs") = getconcept(findroot(),"attrs");
 
 @@CODE

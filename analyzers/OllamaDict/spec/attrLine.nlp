@@ -1,0 +1,23 @@
+###############################################
+# FILE: attrLine
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2024-8-11 18:17:24
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _wordZone _LINE
+
+@POST
+X("attr",3) = N("attr",2);
+X("val",3) = N("val",2);
+if (N("type",2)) X("type",3) = N("type",2);
+pnrename(X(3),"_attrLine");
+
+@RULES
+_xNIL <-
+	_xSTART		### (1)
+	_attr		### (2)
+	\, [opt]	### (3)
+	_xEND		### (4)
+	@@
